@@ -1,0 +1,10 @@
+cmd /c mklink /d bgmusic .\roms\BGM\
+cmd /c mklink /d neogeocd .\roms\neocd\
+cmd /c mklink /d odyssey2 .\roms\odyssey\
+cmd /c mklink /d dos .\roms\pc\
+cmd /c mklink /d pokemonmini .\roms\pokemini\
+cmd /c mklink /d snes-hacks .\roms\snesh\
+cmd /c mklink /d supergrafx .\roms\sgfx\
+cmd /c mklink /d tic80 .\roms\tic-80\
+cmd /c mklink /d turbografx .\roms\tg16\
+cmd /c mklink /d turbografxcd .\roms\tg16cd\
