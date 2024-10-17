@@ -16,3 +16,5 @@ This is a simple collection of scripts that attempt to create a unified NTFS par
 ### Acknowledgements
 
 Thanks to the people behing the [ROCKNIX](https://rocknix.org/) and [ArkOS](https://github.com/christianhaitian/arkos/wiki) projects. Please consider supporting either of these awesome projects if you can.
+
+#### One SD card to rule them all...
