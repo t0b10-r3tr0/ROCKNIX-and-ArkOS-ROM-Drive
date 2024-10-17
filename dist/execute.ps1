@@ -1,4 +1,4 @@
-mkdir -p roms\BMG\
+mkdir -p roms\BGM\
 .\createdirectories.ps1 .\arkdirs.txt .
 .\createdirectories.ps1 .\rockdirs.txt .\roms\
 
