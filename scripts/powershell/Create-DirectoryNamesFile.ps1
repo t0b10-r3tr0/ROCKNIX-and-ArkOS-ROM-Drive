@@ -1,5 +1,3 @@
-# Save this script with a .ps1 extension, for example, Get-Subdirectories.ps1
-
 param(
     [Parameter(Mandatory = $true)]
     [string]$DirectoryPath,

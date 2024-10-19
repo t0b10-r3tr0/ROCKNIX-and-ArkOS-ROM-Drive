@@ -1,5 +1,3 @@
-# Save this script as Clear-Subdirectories.ps1
-
 param(
     [Parameter(Mandatory = $true)]
     [string]$DirectoryPath
