@@ -100,6 +100,30 @@ foreach ($file in $Files) {
     Write-Log "Unique lines for '$file' written to: $uniqueOutputFile" $logFile
 }
 
+# NEW PART: Find all unique lines across all files
+Write-Log "Finding all unique lines across all files" $logFile
+$uniqueAcrossAllFiles = @()  # Initialize an empty array
+
+# Count occurrences of each line across all files
+foreach ($line in $allLines) {
+    $occurrences = 0
+    foreach ($file in $Files) {
+        if ($filesContent[$file] -contains $line) {
+            $occurrences++
+        }
+    }
+    
+    # If a line appears only once, it is unique across all files
+    if ($occurrences -eq 1) {
+        $uniqueAcrossAllFiles += $line  # Use += to append to the array
+    }
+}
+
+# Write the unique lines across all files to an output file
+$uniqueAcrossAllOutputFile = Join-Path -Path $OutputDirectory -ChildPath "Unique_Across_All_Files.txt"
+$uniqueAcrossAllFiles | Out-File -FilePath $uniqueAcrossAllOutputFile -Encoding UTF8
+Write-Log "Unique lines across all files written to: $uniqueAcrossAllOutputFile" $logFile
+
 # NEW PART: Find common lines between each pair of files
 for ($i = 0; $i -lt $Files.Count; $i++) {
     for ($j = $i + 1; $j -lt $Files.Count; $j++) {
@@ -126,6 +150,7 @@ foreach ($file in $Files) {
     $baseName = [System.IO.Path]::GetFileNameWithoutExtension($file)
     Write-Host " - Unique to '$file'    : $(Join-Path -Path $OutputDirectory -ChildPath "${baseName}_Unique_Lines.txt")"
 }
+Write-Host " - Unique across all files: $uniqueAcrossAllOutputFile"
 Write-Host " - Log file            : $logFile"
 
 # Display the common files between pairs

@@ -1,30 +1,32 @@
 Compare-FileLists Script Execution Log
-2024-10-19 19:34:03 - Script started.
-2024-10-19 19:34:03 - Reading file: ..\..\..\directory-contents\arkos-romsdir.txt
-2024-10-19 19:34:03 - Reading file: ..\..\..\directory-contents\rocknix-romsdir.txt
-2024-10-19 19:34:03 - Reading file: ..\..\..\directory-contents\knulli-romsdir.txt
-2024-10-19 19:34:03 - Reading file: ..\..\..\directory-contents\anberelec-romsdir.txt
-2024-10-19 19:34:03 - Aggregating all unique lines across all files.
-2024-10-19 19:34:03 - Determining lines common to all files.
-2024-10-19 19:34:03 - Common lines across all files written to: .\Common_Lines_All_Files.txt
-2024-10-19 19:34:03 - Determining lines unique to file: ..\..\..\directory-contents\arkos-romsdir.txt
-2024-10-19 19:34:03 - Unique lines for '..\..\..\directory-contents\arkos-romsdir.txt' written to: .\arkos-romsdir_Unique_Lines.txt
-2024-10-19 19:34:03 - Determining lines unique to file: ..\..\..\directory-contents\rocknix-romsdir.txt
-2024-10-19 19:34:03 - Unique lines for '..\..\..\directory-contents\rocknix-romsdir.txt' written to: .\rocknix-romsdir_Unique_Lines.txt
-2024-10-19 19:34:03 - Determining lines unique to file: ..\..\..\directory-contents\knulli-romsdir.txt
-2024-10-19 19:34:03 - Unique lines for '..\..\..\directory-contents\knulli-romsdir.txt' written to: .\knulli-romsdir_Unique_Lines.txt
-2024-10-19 19:34:03 - Determining lines unique to file: ..\..\..\directory-contents\anberelec-romsdir.txt
-2024-10-19 19:34:03 - Unique lines for '..\..\..\directory-contents\anberelec-romsdir.txt' written to: .\anberelec-romsdir_Unique_Lines.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\rocknix-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\rocknix-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_rocknix-romsdir.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_knulli-romsdir.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_anberelec-romsdir.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt written to: .\Common_Lines_rocknix-romsdir_and_knulli-romsdir.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_rocknix-romsdir_and_anberelec-romsdir.txt
-2024-10-19 19:34:03 - Finding common lines between ..\..\..\directory-contents\knulli-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
-2024-10-19 19:34:03 - Common lines between ..\..\..\directory-contents\knulli-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_knulli-romsdir_and_anberelec-romsdir.txt
-2024-10-19 19:34:03 - Comparison completed successfully.
+2024-10-19 19:57:46 - Script started.
+2024-10-19 19:57:46 - Reading file: ..\..\..\directory-contents\arkos-romsdir.txt
+2024-10-19 19:57:46 - Reading file: ..\..\..\directory-contents\rocknix-romsdir.txt
+2024-10-19 19:57:46 - Reading file: ..\..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:57:46 - Reading file: ..\..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:57:46 - Aggregating all unique lines across all files.
+2024-10-19 19:57:46 - Determining lines common to all files.
+2024-10-19 19:57:46 - Common lines across all files written to: .\Common_Lines_All_Files.txt
+2024-10-19 19:57:46 - Determining lines unique to file: ..\..\..\directory-contents\arkos-romsdir.txt
+2024-10-19 19:57:46 - Unique lines for '..\..\..\directory-contents\arkos-romsdir.txt' written to: .\arkos-romsdir_Unique_Lines.txt
+2024-10-19 19:57:46 - Determining lines unique to file: ..\..\..\directory-contents\rocknix-romsdir.txt
+2024-10-19 19:57:46 - Unique lines for '..\..\..\directory-contents\rocknix-romsdir.txt' written to: .\rocknix-romsdir_Unique_Lines.txt
+2024-10-19 19:57:46 - Determining lines unique to file: ..\..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:57:46 - Unique lines for '..\..\..\directory-contents\knulli-romsdir.txt' written to: .\knulli-romsdir_Unique_Lines.txt
+2024-10-19 19:57:46 - Determining lines unique to file: ..\..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:57:46 - Unique lines for '..\..\..\directory-contents\anberelec-romsdir.txt' written to: .\anberelec-romsdir_Unique_Lines.txt
+2024-10-19 19:57:46 - Finding all unique lines across all files
+2024-10-19 19:57:47 - Unique lines across all files written to: .\Unique_Across_All_Files.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\rocknix-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\rocknix-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_rocknix-romsdir.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_knulli-romsdir.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\arkos-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_arkos-romsdir_and_anberelec-romsdir.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\knulli-romsdir.txt written to: .\Common_Lines_rocknix-romsdir_and_knulli-romsdir.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\rocknix-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_rocknix-romsdir_and_anberelec-romsdir.txt
+2024-10-19 19:57:47 - Finding common lines between ..\..\..\directory-contents\knulli-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:57:47 - Common lines between ..\..\..\directory-contents\knulli-romsdir.txt and ..\..\..\directory-contents\anberelec-romsdir.txt written to: .\Common_Lines_knulli-romsdir_and_anberelec-romsdir.txt
+2024-10-19 19:57:47 - Comparison completed successfully.

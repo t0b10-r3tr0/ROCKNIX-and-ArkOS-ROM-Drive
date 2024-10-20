@@ -1,0 +1,10 @@
+tg16: turbografx16, tg-16, turbografx-16
+tg16cd: turbografxcd, tg-cd
+pcengine: pce, PCE
+pcenginecd: pcecd, pce-cd
+genesis: sega-genesis, megadrive, md
+snes: supernintendo, sfc, snesh
+nes: famicom, nes, nesh
+arcade: mame, mame2003, fbneo
+saturn: sega-saturn
+gamegear: gamegearh, gg, ggh

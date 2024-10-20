@@ -1,6 +1,7 @@
 param (
     [string]$DirectoryPath,
-    [string]$OutputFile
+    [string]$OutputFile,
+    [switch]$Recursive  # Optional -r switch
 )
 
 # Check if the directory exists
@@ -9,10 +10,24 @@ if (-not (Test-Path $DirectoryPath)) {
     exit 1
 }
 
-# Get all the files in the directory (non-recursive)
-$files = Get-ChildItem -Path $DirectoryPath -File
+# Normalize the directory path (remove trailing slashes if present)
+$DirectoryPath = (Get-Item -LiteralPath $DirectoryPath).FullName
 
-# Extract just the file names (without paths) and write to the output file
-$files.Name | Out-File -FilePath $OutputFile
+# Get the files (recursively or non-recursively)
+if ($Recursive) {
+    # Recursive file listing with relative paths
+    $files = Get-ChildItem -Path $DirectoryPath -File -Recurse | ForEach-Object {
+        # Calculate relative path by removing the directory path from the full path
+        $_.FullName.Substring($DirectoryPath.Length).TrimStart('\')
+    }
+} else {
+    # Non-recursive file listing with relative paths
+    $files = Get-ChildItem -Path $DirectoryPath -File | ForEach-Object {
+        $_.FullName.Substring($DirectoryPath.Length).TrimStart('\')
+    }
+}
 
-Write-Host "File names have been written to: $OutputFile"
+# Write the file paths (or names) to the output file
+$files | Out-File -FilePath $OutputFile
+
+Write-Host "Relative file paths have been written to: $OutputFile"
