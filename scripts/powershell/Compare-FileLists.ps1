@@ -66,7 +66,7 @@ foreach ($file in $Files) {
 # Aggregate all unique lines across all files
 Write-Log "Aggregating all unique lines across all files." $logFile
 
-# Corrected line: Flatten the collection of arrays into a single array
+# Flatten the collection of arrays into a single array
 $allLines = $filesContent.Values | ForEach-Object { $_ } | Sort-Object -Unique
 
 # Determine lines common to all files (intersection)
@@ -100,22 +100,24 @@ foreach ($file in $Files) {
     Write-Log "Unique lines for '$file' written to: $uniqueOutputFile" $logFile
 }
 
-# Optionally, determine lines present in some but not all files
-# (This section is optional and can be uncommented if needed)
-<#
-Write-Log "Determining lines present in some but not all files." $logFile
-$partialCommonLines = $allLines | Where-Object {
-    $count = 0
-    foreach ($file in $Files) {
-        if ($filesContent[$file] -contains $_) { $count++ }
+# NEW PART: Find common lines between each pair of files
+for ($i = 0; $i -lt $Files.Count; $i++) {
+    for ($j = $i + 1; $j -lt $Files.Count; $j++) {
+        $file1 = $Files[$i]
+        $file2 = $Files[$j]
+        
+        Write-Log "Finding common lines between $file1 and $file2" $logFile
+        $commonBetweenPair = $filesContent[$file1] | Where-Object { $filesContent[$file2] -contains $_ }
+        
+        $file1Base = [System.IO.Path]::GetFileNameWithoutExtension($file1)
+        $file2Base = [System.IO.Path]::GetFileNameWithoutExtension($file2)
+        $outputPairFile = Join-Path -Path $OutputDirectory -ChildPath "Common_Lines_${file1Base}_and_${file2Base}.txt"
+        
+        # Write the common lines between the pair to an output file
+        $commonBetweenPair | Out-File -FilePath $outputPairFile -Encoding UTF8
+        Write-Log "Common lines between $file1 and $file2 written to: $outputPairFile" $logFile
     }
-    return ($count -gt 1 -and $count -lt $Files.Count)
 }
-
-$partialOutputFile = Join-Path -Path $OutputDirectory -ChildPath "Common_Lines_Some_Files.txt"
-$partialCommonLines | Out-File -FilePath $partialOutputFile -Encoding UTF8
-Write-Log "Lines present in some but not all files written to: $partialOutputFile" $logFile
-#>
 
 Write-Log "Comparison completed successfully." $logFile
 Write-Host "Comparison results have been saved to the following files in '$OutputDirectory':"
@@ -125,3 +127,12 @@ foreach ($file in $Files) {
     Write-Host " - Unique to '$file'    : $(Join-Path -Path $OutputDirectory -ChildPath "${baseName}_Unique_Lines.txt")"
 }
 Write-Host " - Log file            : $logFile"
+
+# Display the common files between pairs
+for ($i = 0; $i -lt $Files.Count; $i++) {
+    for ($j = $i + 1; $j -lt $Files.Count; $j++) {
+        $file1Base = [System.IO.Path]::GetFileNameWithoutExtension($Files[$i])
+        $file2Base = [System.IO.Path]::GetFileNameWithoutExtension($Files[$j])
+        Write-Host " - Common to '$file1Base' and '$file2Base': $(Join-Path -Path $OutputDirectory -ChildPath "Common_Lines_${file1Base}_and_${file2Base}.txt")"
+    }
+}
