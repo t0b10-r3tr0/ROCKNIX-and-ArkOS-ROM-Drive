@@ -1,0 +1,2001 @@
+{
+    "3DO (Best on the RK3566 devices such as the RG353M)": {
+        "emulators": [
+            "lr-operalr-opera"
+        ],
+        "romfolder": "3do",
+        "extensions": [
+            ".iso",
+            ".ISO",
+            ".bin",
+            ".BIN",
+            ".chd",
+            ".CHD",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "panafz1.bin or panafz10.bin or panafz10-norsa.bin or panafz10e-anvil.bin or panafz10e-anvil-norsa.bin or panafz1j.bin or panafz1j-norsa.bin or goldstar.bin or sanyotry.bin or 3do_arcade_saot.bin  See this link for more details: https://docs.libretro.com/library/opera/#bioshttps://docs.libretro.com/library/opera/#bios"
+    },
+    "Adventure Vision": {
+        "emulators": [
+            "lr-messlr-mess"
+        ],
+        "romfolder": "advision",
+        "extensions": [
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "advision.zip, containing two files, b225__ins8048-11kdp_n.u5 (MD5: 5729638bd856c475678467a353bd921c) and b8223__cop411l-kcn_n.u8 (MD5: fc5e71445e4947a9d00eedbc66b13a8f). This must be in the roms/advision folder.  NOT THE BIOS FOLDER!",
+        "notes": "Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/advision.xmladvision.xml file. For example, Defender rom must be named defender.zip. You'll also need a copy of this advision.xml file in /roms2/bios/mame/hash/advision.xml (or /roms/bios... if using a single SD card)."
+    },
+    "American Laser Games": {
+        "emulators": [
+            "hypseus-singehypseus-singe standalone"
+        ],
+        "romfolder": "alg",
+        "extensions": [
+            ".alg",
+            ".ALG"
+        ],
+        "bios": "None",
+        "notes": ""
+    },
+    "Amiga": {
+        "emulators": [
+            "(Amiberry standaloneAmiberry standalone) lr-puaelr-puae lr-uae4armlr-uae4arm"
+        ],
+        "romfolder": "amiga",
+        "extensions": [
+            ".adf",
+            ".ADF",
+            ".hdf",
+            ".HDF",
+            ".lha",
+            ".LHA",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "kick33180.A500 and kick34005.A500 and kick40068.A1200 See this link for more details. https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)https://github.com/midwan/amiberry/wiki/Kickstart-ROMs-(BIOS)"
+    },
+    "Amiga CD32": {
+        "emulators": [
+            "(lr-puaelr-puae) lr-uae4armlr-uae4arm"
+        ],
+        "romfolder": "amigacd32",
+        "extensions": [
+            ".cue",
+            ".CUE",
+            ".ccd",
+            ".CCD",
+            ".chd",
+            ".CHD",
+            ".lha",
+            ".LHA",
+            ".nrg",
+            ".NRG",
+            ".mds",
+            ".MDS",
+            ".iso",
+            ".ISO",
+            ".m3u",
+            ".M3U"
+        ],
+        "bios": "kick34005.A500 and kick40063.A600 and kick40068.A1200"
+    },
+    "Amstrad CPC": {
+        "emulators": [
+            "(lr-crocodslr-crocods) lr-cap32lr-cap32"
+        ],
+        "romfolder": "amstradcpc",
+        "extensions": [
+            ".cpc",
+            ".CPC",
+            ".dsk",
+            ".DSK",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None",
+        "notes": "crocods doesn't support loading from compressed .zip or .7z files as of 2/4/2022.  .dsk files seem to be the easiest to load with crocods."
+    },
+    "Amstrad GX4000": {
+        "emulators": [
+            "lr-cap32lr-cap32"
+        ],
+        "romfolder": "gx4000",
+        "extensions": [
+            ".cpr",
+            ".CPR",
+            ".dsk",
+            ".DSK",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None"
+    },
+    "Apple II": {
+        "emulators": [
+            "(linapple standalonelinapple standalone) lr-applewinlr-applewin applewin standaloneapplewin standalone"
+        ],
+        "romfolder": "apple2",
+        "extensions": [
+            ".dsk",
+            ".DSK",
+            ".sh",
+            ".SH",
+            ".do",
+            ".DO",
+            ".po",
+            ".PO",
+            ".apple2",
+            ".APPLE2",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None",
+        "notes": "Then just launch the PoP.apple2 from the emulationstation system menu for Apple II. HINT - You can change the extensions of your 2 disk games to something like .dsks and add that to your .apple2 text file.  That way, they won't show up in the system menu and cause duplication.  You could also just hide those games in the system menu as well via the menu when you press the select on the game and go to Edit Metadata."
+    },
+    "Apple Macintosh": {
+        "emulators": [
+            "lr-minivmaclr-minivmac"
+        ],
+        "romfolder": "vmac",
+        "extensions": [
+            ".cmd",
+            ".CMD",
+            ".dsk",
+            ".DSK",
+            ".hvf",
+            ".HVF",
+            ".img",
+            ".IMG",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "MacII.rom"
+    },
+    "Aquaplus P/ECE": {
+        "emulators": [
+            "piemupiemu"
+        ],
+        "romfolder": "piece",
+        "extensions": [
+            ".pex",
+            ".PEX",
+            ".pfi",
+            ".PFI"
+        ],
+        "bios": "Firmware 1.20Firmware 1.20 or Firmware 1.18 (Recommended)Firmware 1.18 (Recommended) or Firmware 1.14aFirmware 1.14a or Firmware 1.14Firmware 1.14 or Firmware 1.12aFirmware 1.12a or Firmware 1.12Firmware 1.12"
+    },
+    "Arcade": {
+        "emulators": [
+            "(lr-fbneolr-fbneo) lr-fbalpha2012lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018lr-fbalpha2018 lr-mame (Current)lr-mame (Current)"
+        ],
+        "romfolder": "arcade",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "pgm.zip (for PGM games only like Knights of Valour and DoDonPachi)"
+    },
+    "Arduboy": {
+        "emulators": [
+            "(lr-ardenslr-ardens) lr-arduouslr-arduous"
+        ],
+        "romfolder": "arduboy",
+        "extensions": [
+            ".hex",
+            ".HEX"
+        ],
+        "bios": "None"
+    },
+    "Astrocade": {
+        "emulators": [
+            "lr-messlr-mess"
+        ],
+        "romfolder": "astrocde",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "astrocde.zip (must be in the roms/astrocde folder.  NOT THE BIOS FOLDER!)",
+        "notes": "Because this uses the mess emulator, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown in the bios/mame/hash/astrocde.xmlastrocde.xml file.  For example, The Incredible Wizard rom must be named wizard.bin.  If it is zipped, it must be named wizard.zip."
+    },
+    "Atomiswave": {
+        "emulators": [
+            "(lr-flycastlr-flycast) lr-flycast_xtreme lr-reicast_xtreme retrorunretrorun retrorun32retrorun32"
+        ],
+        "romfolder": "atomiswave",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".ist",
+            ".IST",
+            ".zip",
+            ".ZIP",
+            ".bin",
+            ".BIN"
+        ],
+        "bios": "awbios.zip (need to be placed in a folder named dc within the bios folder)"
+    },
+    "Atari 800": {
+        "emulators": [
+            "lr-atari800lr-atari800"
+        ],
+        "romfolder": "atari800",
+        "extensions": [
+            ".atr",
+            ".ATR",
+            ".rom",
+            ".ROM",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "ATARIOSA.ROM and ATARIOSB.ROM and ATARIBAS.ROM"
+    },
+    "Atari 2600": {
+        "emulators": [
+            "lr-stella2014lr-stella2014 lr-stellalr-stella"
+        ],
+        "romfolder": "atari2600",
+        "extensions": [
+            ".a26",
+            ".A26",
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Atari 5200": {
+        "emulators": [
+            "lr-atari800lr-atari800 lr-a5200lr-a5200"
+        ],
+        "romfolder": "atari5200",
+        "extensions": [
+            ".a52",
+            ".A52",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "5200.rom and ATARIBAS.ROM"
+    },
+    "Atari 7800": {
+        "emulators": [
+            "lr-prosystemlr-prosystem"
+        ],
+        "romfolder": "atari7800",
+        "extensions": [
+            ".a78",
+            ".A78",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "7800 BIOS (U).rom"
+    },
+    "Atari Jaguar": {
+        "emulators": [
+            "lr-virtualjaguarlr-virtualjaguar"
+        ],
+        "romfolder": "atarijaguar",
+        "extensions": [
+            ".j64",
+            ".J64",
+            ".jag",
+            ".JAG",
+            ".rom",
+            ".ROM",
+            ".abs",
+            ".ABS",
+            ".cof",
+            ".COF",
+            ".bin",
+            ".BIN",
+            ".prg",
+            ".PRG"
+        ],
+        "bios": "None"
+    },
+    "Atari Lynx": {
+        "emulators": [
+            "(lr-handylr-handy) lr-mednafen_lynxlr-mednafen_lynx MednafenMednafen"
+        ],
+        "romfolder": "atarilynx",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".lnx",
+            ".LNX",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "lynxboot.img (optional)"
+    },
+    "Atari ST": {
+        "emulators": [
+            "lr-hatarilr-hatari"
+        ],
+        "romfolder": "atarist",
+        "extensions": [
+            ".st",
+            ".ST",
+            ".msa",
+            ".MSA",
+            ".stx",
+            ".STX",
+            ".dim",
+            ".DIM",
+            ".ipf",
+            ".IPF",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "tos.img"
+    },
+    "Atari XEGS": {
+        "emulators": [
+            "lr-atari800lr-atari800"
+        ],
+        "romfolder": "atarixegs",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".rom",
+            ".ROM",
+            ".xex",
+            ".XEX",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "ATARIXL.ROM and ATARIBAS.ROM"
+    },
+    "CDi (Available for the RK3566 devices such as the RG353M Only)": {
+        "emulators": [
+            "lr-same_cdilr-same_cdi"
+        ],
+        "romfolder": "cdimono1",
+        "extensions": [
+            ".iso",
+            ".ISO",
+            ".chd",
+            ".CHD"
+        ],
+        "bios": "cdibios.zip and cdimono1.zip and cdimono2 to be placed in bios/same_cdi/bios folder.  See this link for more details: https://docs.libretro.com/library/same_cdi/#bioshttps://docs.libretro.com/library/same_cdi/#bios"
+    },
+    "Colecovision": {
+        "emulators": [
+            "(lr-coolcvlr-coolcv) lr-bluemsxlr-bluemsx"
+        ],
+        "romfolder": "coleco",
+        "extensions": [
+            ".rom",
+            ".ROM",
+            ".ri",
+            ".RI",
+            ".mx1",
+            ".MX1",
+            ".mx2",
+            ".MX2",
+            ".col",
+            ".COL",
+            ".dsk",
+            ".DSK",
+            ".cas",
+            ".CAS",
+            ".sg",
+            ".SG",
+            ".sc",
+            ".SC",
+            ".m3u",
+            ".M3U",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "CoolCV has an integrated bios.  For bluemsx only coleco.rom (Verified working MD5:2C66F5911E5B42B8EBE113403548EEE7)",
+        "notes": "The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. You can download the 'Databases' and 'Machines' folders from an official full standalone blueMSX emulatoran official full standalone blueMSX emulator installation. Get blueMSXv282full.zip near the bottom of the page. Move/Copy the 'Databases' and 'Machines' Folders to the bios folder."
+    },
+    "Commodore 16": {
+        "emulators": [
+            "lr-vice_xplus4lr-vice_xplus4"
+        ],
+        "romfolder": "c16",
+        "bios": "None"
+    },
+    "Commodore 64/PET": {
+        "emulators": [
+            "lr-vice_x64lr-vice_x64"
+        ],
+        "romfolder": "c64",
+        "bios": "None"
+    },
+    "Commodore 128": {
+        "emulators": [
+            "lr-vice_x128lr-vice_x128"
+        ],
+        "romfolder": "c128",
+        "bios": "JiffyDOS_C128.bin JiffyDOS_C64.bin JiffyDOS_1541-II.bin JiffyDOS_1571_repl310654.bin JiffyDOS_1581.bin"
+    },
+    "Commodore Vic-20": {
+        "emulators": [
+            "lr-vice_xviclr-vice_xvic"
+        ],
+        "romfolder": "vic20",
+        "bios": "None"
+    },
+    "CPS 1": {
+        "emulators": [
+            "(lr-fbneolr-fbneo) lr-fbalpha2012lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018lr-fbalpha2018"
+        ],
+        "romfolder": "cps1",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "None"
+    },
+    "CPS 2": {
+        "emulators": [
+            "(lr-fbneolr-fbneo) lr-fbalpha2012lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018lr-fbalpha2018"
+        ],
+        "romfolder": "cps2",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "None"
+    },
+    "CPS 3": {
+        "emulators": [
+            "(lr-fbneolr-fbneo) lr-fbalpha2012lr-fbalpha2012 lr-fbalpha2016 lr-fbalpha2018lr-fbalpha2018"
+        ],
+        "romfolder": "cps3",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "None"
+    },
+    "Daphne": {
+        "emulators": [
+            "hypseushypseus standalone"
+        ],
+        "romfolder": "daphne",
+        "extensions": [
+            ".daphne",
+            ".DAPHNE"
+        ],
+        "bios": "None",
+        "notes": ""
+    },
+    "Doom": {
+        "emulators": [
+            "(lzdoomlzdoom standalone) (gzdoomgzdoom standalone) lr-prboomlr-prboom"
+        ],
+        "romfolder": "doom",
+        "extensions": [
+            ".wad",
+            ".WAD",
+            ".sh",
+            ".SH",
+            ".doom",
+            ".Doom"
+        ],
+        "bios": "None",
+        "notes": "In order to use prboom, you'll need prboom.wad in the /roms/doom folder or /roms2/doom (for dual sd card setups) folder.  You can simply download it from herehere and put it in that location. For information on additional doom loading capabilities (such as mods and deh files), check herehere You can load IWADs using .doom files.  See herehere for more info."
+    },
+    "Dreamcast": {
+        "emulators": [
+            "(lr-flycastlr-flycast) lr-flycast_xtreme lr-reicast_xtreme retrorunretrorun retrorun32retrorun32"
+        ],
+        "romfolder": "dreamcast",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".gdi",
+            ".GDI",
+            ".cdi",
+            ".CDI",
+            ".cue",
+            ".CUE",
+            ".chd",
+            ".CHD",
+            ".m3u",
+            ".M3U"
+        ],
+        "bios": "dc_boot.bin, dc_flash.bin (need to be placed in a folder named dc within the bios folder)"
+    },
+    "Dreamcast VMU": {
+        "emulators": [
+            "lr-vemulatorlr-vemulator"
+        ],
+        "romfolder": "vmu",
+        "extensions": [
+            ".vms",
+            ".VMS",
+            ".bin",
+            ".BIN"
+        ],
+        "bios": "None"
+    },
+    "EasyRPG": {
+        "emulators": [
+            "lr-easyrpglr-easyrpg"
+        ],
+        "romfolder": "easyrpg",
+        "extensions": [
+            ".easyrpg",
+            ".EASYRPG",
+            ".zip",
+            ".ZIP",
+            "(.ldb",
+            ".LDB",
+            "prior",
+            "to",
+            "7/28/2021",
+            "update)"
+        ],
+        "bios": "None",
+        "notes": "Games must have a RPG_RT.ini and RPG_RT.ldb inside their respective folders.  As of 7/28/2021, you must run the Scan_for_new_games script to create the necessary shortcuts to load EASYRPG games."
+    },
+    "Enterprise 64/128": {
+        "emulators": [
+            "lr-ep128emulr-ep128emu"
+        ],
+        "romfolder": "enterprise",
+        "extensions": [
+            ".128",
+            ".bas",
+            ".BAS",
+            ".com",
+            ".COM",
+            ".dsk",
+            ".DSK",
+            ".dtf",
+            ".DTF",
+            ".img",
+            ".IMG",
+            ".tap",
+            ".TAP",
+            ".trn",
+            ".TRN"
+        ],
+        "bios": "OptionalOptional"
+    },
+    "Fairchild Channel F": {
+        "emulators": [
+            "lr-freechaflr-freechaf"
+        ],
+        "romfolder": "channelf",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".rom",
+            ".ROM",
+            ".chf",
+            ".CHF",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "sl31253.bin and sl31254.bin and sl90025.bin"
+    },
+    "Famicom Disk System": {
+        "emulators": [
+            "(lr-nestopialr-nestopia) lr-fceummlr-fceumm MednafenMednafen"
+        ],
+        "romfolder": "fds",
+        "extensions": [
+            ".nes",
+            ".NES",
+            ".unif",
+            ".UNIF",
+            ".unf",
+            ".UNF",
+            ".fds",
+            ".FDS",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "disksys.rom"
+    },
+    "Game Boy": {
+        "emulators": [
+            "(lr-gambattelr-gambatte) lr-mgbalr-mgba lr-tgbduallr-tgbdual lr-DoubleCherryGBlr-DoubleCherryGB MednafenMednafen"
+        ],
+        "romfolder": "gb",
+        "extensions": [
+            ".gb",
+            ".GB",
+            ".gbc",
+            ".GBC",
+            ".dmg",
+            ".DMG",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "gb_bios.bin (optional)"
+    },
+    "Game Boy Advance": {
+        "emulators": [
+            "(lr-mgbalr-mgba) lr-vbamlr-vbam lr-vba_nextlr-vba_next lr-gpsplr-gpsp MednafenMednafen"
+        ],
+        "romfolder": "gba",
+        "extensions": [
+            ".gb",
+            ".GB",
+            ".gbc",
+            ".GBC",
+            ".gba",
+            ".GBA",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "gba_bios.bin (required for lr-gpsp optional for other cores), gb_bios.bin (optional), gbc_bios.bin (optional), sgb_bios.bin (optional)"
+    },
+    "Game and Watch": {
+        "emulators": [
+            "lr-gwlr-gw"
+        ],
+        "romfolder": "gameandwatch",
+        "extensions": [
+            ".mgw",
+            ".MGW"
+        ],
+        "bios": "None"
+    },
+    "Game Boy Color": {
+        "emulators": [
+            "(lr-gambattelr-gambatte) lr-mgbalr-mgba lr-tgbduallr-tgbdual lr-DoubleCherryGBlr-DoubleCherryGB MednafenMednafen"
+        ],
+        "romfolder": "gbc",
+        "extensions": [
+            ".gb",
+            ".GB",
+            ".gbc",
+            ".GBC",
+            ".dmg",
+            ".DMG",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "gbc_bios.bin (optional)"
+    },
+    "Game Gear": {
+        "emulators": [
+            "lr-genesis_plus_gxlr-genesis_plus_gx MednafenMednafen"
+        ],
+        "romfolder": "gamegear",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".gg",
+            ".GG",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "bios.gg (optional)"
+    },
+    "Gamecube (Available on the RK3566 devices such as the RG353M Only!)": {
+        "emulators": [
+            "DolphinDolphin standalone"
+        ],
+        "romfolder": "gc",
+        "extensions": [
+            ".elf",
+            ".ELF",
+            ".gcz",
+            ".GCZ",
+            ".iso",
+            ".ISO",
+            ".m3u",
+            ".M3U",
+            ".rvz",
+            ".RVZ",
+            ".wad",
+            ".WAD",
+            ".wbfs",
+            ".WBFS",
+            ".wia",
+            ".WIA"
+        ],
+        "bios": "None"
+    },
+    "Genesis/Megadrive": {
+        "emulators": [
+            "(lr-genesis_plus_gxlr-genesis_plus_gx) lr-genesis_plus_gx_widelr-genesis_plus_gx_wide lr-picodrivelr-picodrive MednafenMednafen"
+        ],
+        "romfolder": "megadrive or genesis",
+        "extensions": [
+            ".68k",
+            ".68K",
+            ".mdx",
+            ".MDX",
+            ".md",
+            ".MD",
+            ".sgd",
+            ".SGD",
+            ".smd",
+            ".SMD",
+            ".gen",
+            ".GEN",
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "bios_MD.bin (optional)"
+    },
+    "Intellivision": {
+        "emulators": [
+            "lr-freeintvlr-freeintv"
+        ],
+        "romfolder": "intellivision",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".int",
+            ".INT",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "exec.bin, grom.bin"
+    },
+    "Love2d": {
+        "emulators": [
+            "love2d version 11.4love2d version 11.4"
+        ],
+        "romfolder": "love2d",
+        "extensions": [
+            ".love",
+            ".LOVE"
+        ],
+        "bios": "None",
+        "notes": "Upon initial launch of a love game, a corresponding .gptk file is created within the love/controls subfolder within the roms (or roms2) folder.  This file contains keyboard keys that have been mapped to a corresponding controller button input of your device.  You can edit this file to change the assigned keyboard key to a controller button input.  You can also disable assigning a key to a controller button input by changing its value to \\\"."
+    },
+    "LowRes NX": {
+        "emulators": [
+            "lr-lowresnxlr-lowresnx"
+        ],
+        "romfolder": "lowresnx",
+        "extensions": [
+            ".nx",
+            ".NX"
+        ],
+        "bios": "None"
+    },
+    "Mame 2003": {
+        "emulators": [
+            "lr-mame2003-pluslr-mame2003-plus"
+        ],
+        "romfolder": "mame2003",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Mame 2010": {
+        "emulators": [
+            "lr-mame2010lr-mame2010"
+        ],
+        "romfolder": "mame",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".chd",
+            ".CHD"
+        ],
+        "bios": "None"
+    },
+    "Master System": {
+        "emulators": [
+            "(lr-genesis_plus_gxlr-genesis_plus_gx) lr-picodrivelr-picodrive MednafenMednafen"
+        ],
+        "romfolder": "mastersystem",
+        "extensions": [
+            ".7z",
+            ".bin",
+            ".sms",
+            ".zip"
+        ],
+        "bios": "bios_E.sms (optional), bios_U.sms (optional), bios_J.sms (optional)"
+    },
+    "Movie (video) Player": {
+        "extensions": [
+            ".avi",
+            ".AVI",
+            ".mkv",
+            ".MKV",
+            ".mov",
+            ".MOV",
+            ".mp4",
+            ".MP4",
+            ".mpeg",
+            ".MPEG"
+        ],
+        "notes": ""
+    },
+    "Megadrive MSU": {
+        "emulators": [
+            "lr-genesis_plus_gxlr-genesis_plus_gx"
+        ],
+        "romfolder": "msumd",
+        "extensions": [
+            ".md",
+            ".MD"
+        ],
+        "bios": "bios_md.bin, bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin",
+        "notes": "If your games run without the music, try updating the genesis_plus_gx core to the latest version from the repo by going to Retroarch>core downloader>genesis_plus_gx."
+    },
+    "Mega Duck": {
+        "emulators": [
+            "(lr-sameducklr-sameduck) lr-messlr-mess"
+        ],
+        "romfolder": "megaduck",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None",
+        "notes": "If you want to use the mess core, there's a little more work involved in getting the games to run in which the rom must be named exactly as shown as the software name in the bios/mame/hash/megaduck.xmlmegaduck.xml file.  For example, Arctic Zone rom must be named arczone.bin.  If it is zipped, it must be named arczone.zip."
+    },
+    "Microvision": {
+        "emulators": [
+            "MVEMMVEM"
+        ],
+        "romfolder": "mv",
+        "extensions": [
+            ".bin",
+            ".BIN"
+        ],
+        "bios": "None",
+        "notes": "Alien Raiders.binAlien Raiders.bin Baseball.binBaseball.bin Block Buster.binBlock Buster.bin Bomber (homebrew).binBomber (homebrew).bin Bowling.binBowling.bin Connect Four.binConnect Four.bin Cosmic Hunter.binCosmic Hunter.bin Mindbuster.binMindbuster.bin Phaser Strike.binPhaser Strike.bin Pinball.binPinball.bin Sea Duel.binSea Duel.bin Space Invaders (homebrew).binSpace Invaders (homebrew).bin Super Blockbuster.binSuper Blockbuster.bin Vegas Slots.binVegas Slots.bin"
+    },
+    "MSX": {
+        "emulators": [
+            "(lr-bluemsxlr-bluemsx) lr-fMSXlr-fMSX OpenMSXOpenMSX"
+        ],
+        "romfolder": "msx",
+        "extensions": [
+            ".cas",
+            ".CAS",
+            ".dsk",
+            ".DSK",
+            ".mx1",
+            ".MX1",
+            ".mx2",
+            ".MX2",
+            ".rom",
+            ".ROM",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "See this link for more details. https://docs.libretro.com/library/fmsx/#bioshttps://docs.libretro.com/library/fmsx/#bios",
+        "notes": "The blueMSX core requires the 'Databases' and 'Machines' folders from a full installation of blueMSX. You can download the 'Databases' and 'Machines' folders from an official full standalone blueMSX emulatoran official full standalone blueMSX emulator installation. Get blueMSXv282full.zip near the bottom of the page. Move/Copy the 'Databases' and 'Machines' Folders to the bios folder."
+    },
+    "MSX2": {
+        "emulators": [
+            "(lr-bluemsxlr-bluemsx) lr-fMSXlr-fMSX OpenMSXOpenMSX"
+        ],
+        "romfolder": "msx2",
+        "extensions": [
+            ".cas",
+            ".CAS",
+            ".dsk",
+            ".DSK",
+            ".mx1",
+            ".MX1",
+            ".mx2",
+            ".MX2",
+            ".rom",
+            ".ROM",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "See this link for more details. https://docs.libretro.com/library/fmsx/#bioshttps://docs.libretro.com/library/fmsx/#bios",
+        "notes": "0 2 2 2 78 \"Machines/Shared Roms/MSX2PMUS.rom\" \"\" 2 0 2 16 56 \"Machines/Shared Roms/MSX2PMUS.rom\" \"\" Thanks to Consty for this tip."
+    },
+    "Naomi": {
+        "emulators": [
+            "(lr-flycastlr-flycast) lr-flycast_xtreme lr-reicast_xtreme retrorunretrorun retrorun32retrorun32"
+        ],
+        "romfolder": "naomi",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".ist",
+            ".IST",
+            ".zip",
+            ".ZIP",
+            ".bin",
+            ".BIN",
+            ".dat",
+            ".DAT"
+        ],
+        "bios": "naomi.zip (need to be placed in a folder named dc within the bios folder)",
+        "notes": ""
+    },
+    "Neo Geo": {
+        "emulators": [
+            "(lr-fbneolr-fbneo) lr-fbalpha2012lr-fbalpha2012 lr-geolith (best on rk3566 devices.  Slow on rk3326 devices.)lr-geolith (best on rk3566 devices.  Slow on rk3326 devices.)"
+        ],
+        "romfolder": "neogeo",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".7z",
+            ".7Z",
+            "(.neo",
+            ".NEO",
+            "See",
+            "notes",
+            "for",
+            "more",
+            "info",
+            "for",
+            "this",
+            "extension)"
+        ],
+        "bios": "neogeo.zip (and aes.zip for geolith core)",
+        "notes": ""
+    },
+    "Neo Geo CD": {
+        "emulators": [
+            "(lr-neocdlr-neocd) lr-fbneolr-fbneo"
+        ],
+        "romfolder": "neogeocd",
+        "extensions": [
+            ".cue",
+            ".CUE",
+            ".chd",
+            ".CHD",
+            ".m3u",
+            ".M3U"
+        ],
+        "bios": "(000-lo.lo or ng-lo.rom) and (neocd_f.rom or neocd.bin or uni-bioscd.rom) placed in a folder named neocd within the bios folder"
+    },
+    "Neo Geo Pocket": {
+        "emulators": [
+            "(lr-mednafen-ngp (aka lr-beetle-ngp)lr-mednafen-ngp (aka lr-beetle-ngp)) MednafenMednafen"
+        ],
+        "romfolder": "ngp",
+        "extensions": [
+            ".ngp",
+            ".NGP",
+            ".ngc",
+            ".NGC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Neo Geo Pocket Color": {
+        "emulators": [
+            "(lr-mednafen-ngp (aka lr-beetle-ngp)lr-mednafen-ngp (aka lr-beetle-ngp)) MednafenMednafen"
+        ],
+        "romfolder": "ngpc",
+        "extensions": [
+            ".ngp",
+            ".NGP",
+            ".ngc",
+            ".NGC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Nintendo 64": {
+        "emulators": [
+            "(standalone(mupen64plus)standalone(mupen64plus)) lr-parallel-n64lr-parallel-n64 lr-mupen64plus_nextlr-mupen64plus_next lr-mupen64pluslr-mupen64plus"
+        ],
+        "romfolder": "n64",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".zip",
+            ".ZIP",
+            ".z64",
+            ".Z64",
+            ".n64",
+            ".N64",
+            ".v64",
+            ".V64"
+        ],
+        "bios": "None"
+    },
+    "Nintendo 64DD": {
+        "emulators": [
+            "lr-parallel-n64lr-parallel-n64"
+        ],
+        "romfolder": "n64dd",
+        "extensions": [
+            ".d64",
+            ".D64",
+            ".n64",
+            ".N64",
+            ".n64dd",
+            ".N64DD",
+            ".ndd",
+            ".NDD",
+            ".z64",
+            ".Z64"
+        ],
+        "bios": "64DD_IPL.bin"
+    },
+    "Nintendo DS": {
+        "emulators": [
+            "drastic standalonedrastic standalone"
+        ],
+        "romfolder": "nds",
+        "extensions": [
+            ".zip",
+            ".ZIP",
+            ".nds",
+            ".NDS"
+        ],
+        "bios": "nds_bios_arm7.bin (optional), nds_bios_arm9.bin (optional), nds_firmware.bin (optional)",
+        "notes": "Save files must have an extension of .dsv and they go in the nds/backup folder.  They must be named similarly to the rom."
+    },
+    "Nintendo Entertainment System (NES)/Famicom": {
+        "emulators": [
+            "(lr-nestopialr-nestopia) lr-fceummlr-fceumm MednafenMednafen"
+        ],
+        "romfolder": "nes or famicom",
+        "extensions": [
+            ".nes",
+            ".NES",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Odyssey2": {
+        "emulators": [
+            "lr-o2emlr-o2em"
+        ],
+        "romfolder": "odyssey2",
+        "extensions": [
+            ".bin",
+            ".BIN"
+        ],
+        "bios": "o2rom.bin"
+    },
+    "OpenBOR": {
+        "emulators": [
+            "OpenBOROpenBOR Standalone"
+        ],
+        "romfolder": "openbor",
+        "extensions": [
+            ".pak",
+            ".PAK"
+        ],
+        "bios": "none",
+        "notes": "RG351P/M/V Limitations--It is not possible to use the joystick within OpenBOR. Only the gamepad, Start, A, B, X, Y, L1, and R1 buttons are assignable.  DO NOT enable the gamepad within the options menu or you may experience control issues!"
+    },
+    "Palm OS": {
+        "emulators": [
+            "lr-mulr-mu"
+        ],
+        "romfolder": "palm",
+        "extensions": [
+            ".img",
+            ".IMG",
+            ".prc",
+            ".PRC"
+        ],
+        "bios": "palmos41-en-m515.rom (See herehere for more info on additional supported bios files)",
+        "notes": ""
+    },
+    "PC98": {
+        "emulators": [
+            "(lr-nekop2lr-nekop2) lr-nekop2kailr-nekop2kai"
+        ],
+        "romfolder": "pc98",
+        "extensions": [
+            ".cmd",
+            ".CMD",
+            ".d88",
+            ".D88",
+            ".fdi",
+            ".FDI",
+            ".hdi",
+            ".HDI",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "See this link for more details.  https://docs.libretro.com/library/neko_project_ii_kai/#bioshttps://docs.libretro.com/library/neko_project_ii_kai/#bios",
+        "notes": "Bios files have to be placed in a subfolder named np2 within the bios folder."
+    },
+    "PC (MS-DOS)": {
+        "emulators": [
+            "(lr-dosbox_purelr-dosbox_pure) lr-dosboxlr-dosbox"
+        ],
+        "romfolder": "dos",
+        "extensions": [
+            ".dosz",
+            ".DOSZ",
+            ".exe",
+            ".EXE",
+            ".com",
+            ".COM",
+            ".bat",
+            ".BAT",
+            ".conf",
+            ".CONF",
+            ".cue",
+            ".CUE",
+            ".iso",
+            ".ISO",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None"
+    },
+    "PC Engine/TurboGraphx-16": {
+        "emulators": [
+            "(lr-mednafen-pce-fastlr-mednafen-pce-fast) lr-mednafen-pcelr-mednafen-pce lr-mednafen-supergrafxlr-mednafen-supergrafx MednafenMednafen"
+        ],
+        "romfolder": "pcengine or turbografx",
+        "extensions": [
+            ".pce",
+            ".PCE",
+            ".chd",
+            ".CHD",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "PC Engine CD/TurboGraphx CD": {
+        "emulators": [
+            "(lr-mednafen-pce-fastlr-mednafen-pce-fast) lr-mednafen-pcelr-mednafen-pce lr-mednafen-supergrafxlr-mednafen-supergrafx MednafenMednafen"
+        ],
+        "romfolder": "pcenginecd or turbografxcd",
+        "extensions": [
+            ".pce",
+            ".PCE",
+            ".ccd",
+            ".CCD",
+            ".iso",
+            ".ISO",
+            ".img",
+            ".IMG",
+            ".chd",
+            ".CHD",
+            ".cue",
+            ".CUE"
+        ],
+        "bios": "syscard3.pce"
+    },
+    "PC-FX": {
+        "emulators": [
+            "lr-mednafen-pcfx (aka lr-beetle-pcfx)lr-mednafen-pcfx (aka lr-beetle-pcfx)"
+        ],
+        "romfolder": "pcfx",
+        "extensions": [
+            ".chd",
+            ".CHD",
+            ".zip",
+            ".ZIP",
+            ".cue",
+            ".CUE",
+            ".ccd",
+            ".CCD",
+            ".toc",
+            ".TOC"
+        ],
+        "bios": "pcfx.rom"
+    },
+    "Pico-8": {
+        "emulators": [
+            "pico8-dynpico8-dyn fake-08 Standalonefake-08 Standalone lr-fake08lr-fake08"
+        ],
+        "romfolder": "pico-8/carts",
+        "extensions": [
+            ".png",
+            ".PNG",
+            ".p8",
+            ".P8"
+        ],
+        "bios": "None",
+        "notes": ""
+    },
+    "Fake-08 is not affiliated with Lexaloffle, and is not 100% compatible, nor does it have SPLORE functionality, so using the official Pico-8 player fromLexaloffelis still highly encouraged for purchase for best performance, compatibility and to support the Lexaloffle Pico-8 platform.": {},
+    "Playstation 1 (PSX)": {
+        "emulators": [
+            "(lr-pcsx-rearmedlr-pcsx-rearmed) lr-duckstationlr-duckstation Duckstation Standalone (except for 351v)Duckstation Standalone (except for 351v) lr-swanstationlr-swanstation"
+        ],
+        "romfolder": "psx",
+        "extensions": [
+            ".cue",
+            ".CUE",
+            ".img",
+            ".IMG",
+            ".mdf",
+            ".MDF",
+            ".pbp",
+            ".PBP",
+            ".toc",
+            ".TOC",
+            ".cbn",
+            ".CBN",
+            ".m3u",
+            ".M3U",
+            ".ccd",
+            ".CCD",
+            ".chd",
+            ".CHD",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z",
+            ".iso",
+            ".ISO"
+        ],
+        "bios": "psxonpsp660.bin, scph101.bin, scph7001.bin, scph5501.bin, scph1001.bin",
+        "notes": ""
+    },
+    "Playstation Portable (PSP)": {
+        "emulators": [
+            "(ppssppppsspp standalone) ppsspp-go standaloneppsspp-go standalone lr-ppsspplr-ppsspp"
+        ],
+        "romfolder": "psp",
+        "extensions": [
+            ".iso",
+            ".ISO",
+            ".chd",
+            ".CHD",
+            ".cso",
+            ".CSO",
+            ".pbp",
+            ".PBP"
+        ],
+        "bios": "None"
+    },
+    "Playstation Portable (PSP) Minis": {
+        "emulators": [
+            "(ppsspp standaloneppsspp standalone) lr-ppsspplr-ppsspp"
+        ],
+        "romfolder": "pspminis",
+        "extensions": [
+            ".iso",
+            ".ISO",
+            ".chd",
+            ".CHD",
+            ".cso",
+            ".CSO",
+            ".pbp",
+            ".PBP"
+        ],
+        "bios": "None"
+    },
+    "Pokemon Mini": {
+        "emulators": [
+            "lr-pokeminilr-pokemini"
+        ],
+        "romfolder": "pokemonmini",
+        "extensions": [
+            ".min",
+            ".MIN",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "bios.min (optional)"
+    },
+    "PuzzleScript": {
+        "emulators": [
+            "lr-puzzlescriptlr-puzzlescript"
+        ],
+        "romfolder": "puzzlescript",
+        "extensions": [
+            ".pz",
+            ".PZ",
+            ".pzp",
+            ".PZP"
+        ],
+        "bios": "None",
+        "notes": "PuzzleScript games are usually online at the main PuzzleScript sitePuzzleScript site To play games in this emulator, you will need to download the source for the game and save it as a .pz file. The normal way to do this is to click the \"hack\" or \"sourcecode\" link on the game to go to the PuzzleScript editor, then copy/paste the entire contents of the program into a file with extension .pz."
+    },
+    "Satellaview": {
+        "emulators": [
+            "lr-snes9xlr-snes9x"
+        ],
+        "romfolder": "satellaview",
+        "extensions": [
+            ".bs",
+            ".BS",
+            ".sfc",
+            ".SFC",
+            ".smc",
+            ".SMC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "BS-X.bin"
+    },
+    "ScummVM": {
+        "emulators": [
+            "(scummvmscummvm standalone) lr-scummvmlr-scummvm"
+        ],
+        "romfolder": "scummvm",
+        "extensions": [
+            ".scummvm",
+            ".SCUMMVM"
+        ],
+        "bios": "None",
+        "notes": "You can use the Scan for new games feature in the system folder to create the .scummvm dummy files so the games can show up on the menu.  You can also just click on menu in the system folder to go straight into ScummVM\u2019s interface and load your games there."
+    },
+    "Sega 32X": {
+        "emulators": [
+            "lr-picodrivelr-picodrive"
+        ],
+        "romfolder": "sega32x",
+        "extensions": [
+            ".32x",
+            ".32X",
+            ".7z",
+            ".7Z",
+            ".bin",
+            ".BIN",
+            ".md",
+            ".MD",
+            ".smd",
+            ".SMD",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None"
+    },
+    "Sega CD": {
+        "emulators": [
+            "(lr-genesis_plus_gxlr-genesis_plus_gx) lr-picodrivelr-picodrive"
+        ],
+        "romfolder": "segacd",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".chd",
+            ".CHD",
+            ".cue",
+            ".CUE",
+            ".iso",
+            ".ISO"
+        ],
+        "bios": "bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin"
+    },
+    "Sega Pico": {
+        "emulators": [
+            "lr-picodrivelr-picodrive"
+        ],
+        "romfolder": "pico",
+        "extensions": [
+            ".mdx",
+            ".MDX",
+            ".md",
+            ".MD",
+            ".smd",
+            ".SMD",
+            ".gen",
+            ".GEN",
+            ".bin",
+            ".BIN",
+            ".cue",
+            ".CUE",
+            ".iso",
+            ".ISO",
+            ".sms",
+            ".SMS",
+            ".gg",
+            ".GG",
+            ".sg",
+            ".SG",
+            ".sgd",
+            ".SGD",
+            ".68k",
+            ".68K",
+            ".chd",
+            ".CHD",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Sega Saturn": {
+        "emulators": [
+            "(lr-yabasanshirolr-yabasanshiro) lr-yabauselr-yabause yabasanshiro standaloneyabasanshiro standalone"
+        ],
+        "romfolder": "saturn",
+        "extensions": [
+            ".img",
+            ".IMG",
+            ".cue",
+            ".CUE",
+            ".chd",
+            ".CHD",
+            ".iso",
+            ".ISO",
+            ".m3u",
+            ".M3U"
+        ],
+        "bios": "saturn_bios.bin (Optional)"
+    },
+    "SG 1000": {
+        "emulators": [
+            "lr-genesis_plus_gxlr-genesis_plus_gx"
+        ],
+        "romfolder": "sg-1000",
+        "extensions": [
+            ".7z",
+            ".7Z",
+            ".bin",
+            ".BIN",
+            ".sg",
+            ".SG",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None"
+    },
+    "Sharp X1": {
+        "emulators": [
+            "lr-x1lr-x1"
+        ],
+        "romfolder": "x1",
+        "extensions": [
+            ".dx1",
+            ".DX1",
+            ".zip",
+            ".ZIP",
+            ".2d",
+            ".2D",
+            ".2hd",
+            ".2HD",
+            ".tfd",
+            ".TFD",
+            ".d88",
+            ".D88",
+            ".88d",
+            ".88D",
+            ".hdm",
+            ".HDM",
+            ".xdf",
+            ".XDF",
+            ".dup",
+            ".DUP",
+            ".cmd",
+            ".CMD"
+        ],
+        "bios": "IPLROM.X1, IPLROM.X1T (need to be placed in a folder named xmil within the bios folder)"
+    },
+    "Sharp X68000": {
+        "emulators": [
+            "lr-px68klr-px68k"
+        ],
+        "romfolder": "x68000",
+        "extensions": [
+            ".dim",
+            ".DIM",
+            ".m3u",
+            ".M3U"
+        ],
+        "bios": "iplrom.dat, cgrom.dat, iplrom30.dat (optional), iplromco.dat (optional), iplromxv.dat (optional) (need to be placed in a folder named keropi within the bios folder)"
+    },
+    "Solarus": {
+        "emulators": [
+            "solarus-runsolarus-run"
+        ],
+        "romfolder": "solarus",
+        "extensions": [
+            ".solarus",
+            ".SOLARUS",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None",
+        "notes": "\\"
+    },
+    "SuFami Turbo": {
+        "emulators": [
+            "(lr-snes9x2010lr-snes9x2010) lr-snes9xlr-snes9x lr-snes9x2002lr-snes9x2002 lr-snes9x2005lr-snes9x2005"
+        ],
+        "romfolder": "sufami",
+        "extensions": [
+            ".smc",
+            ".SMC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "STBIOS.bin",
+        "notes": "For multi-cart Sufami Turbo games, you must first run each game individually to create sram files for them. Then the multi-link will function correctly.  See Libretro\u2019s documentationLibretro\u2019s documentation for more info."
+    },
+    "Super Cassette Vision": {
+        "emulators": [
+            "emuscvemuscv"
+        ],
+        "romfolder": "scv",
+        "extensions": [
+            ".0",
+            ".bin",
+            ".BIN",
+            ".cart",
+            ".CART",
+            ".rom",
+            ".ROM",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "upd7801g.s01 (MD5: 635a978fd40db9a18ee44eff449fc126)"
+    },
+    "Super Game Boy": {
+        "emulators": [
+            "lr-mgbalr-mgba"
+        ],
+        "romfolder": "sgb",
+        "extensions": [
+            ".gb",
+            ".GB",
+            ".gbc",
+            ".GBC",
+            ".dmg",
+            ".DMG",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "sgb_bios.bin"
+    },
+    "Super Grafx": {
+        "emulators": [
+            "lr-mednafen-supergrafx (aka lr-beetle-supergrafx)lr-mednafen-supergrafx (aka lr-beetle-supergrafx)"
+        ],
+        "romfolder": "supergrafx",
+        "extensions": [
+            ".pce",
+            ".PCE",
+            ".sgx",
+            ".SGX",
+            ".cue",
+            ".CUE",
+            ".ccd",
+            ".CCD",
+            ".chd",
+            ".CHD",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "syscard3.pce"
+    },
+    "Super Nintendo Entertainment System (SNES)/Super Famicom (SFC)": {
+        "emulators": [
+            "(lr-snes9xlr-snes9x) lr-snes9x2010lr-snes9x2010 lr-snes9x2002lr-snes9x2002 lr-snes9x2005lr-snes9x2005 MednafenMednafen"
+        ],
+        "romfolder": "snes or sfc",
+        "extensions": [
+            ".sfc",
+            ".SFC",
+            ".smc",
+            ".SMC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Super Nintendo MSU1": {
+        "emulators": [
+            "lr-snes9xlr-snes9x"
+        ],
+        "romfolder": "snesmsu1",
+        "extensions": [
+            ".smc",
+            ".SMC",
+            ".sfc",
+            ".SFC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Super Nintendo Entertainment System Hacks": {
+        "emulators": [
+            "lr-snes9x2010lr-snes9x2010"
+        ],
+        "romfolder": "snes-hacks",
+        "extensions": [
+            ".smc",
+            ".SMC",
+            ".fig",
+            ".FIG",
+            ".bs",
+            ".BS",
+            ".st",
+            ".ST",
+            ".sfc",
+            ".SFC",
+            ".gd3",
+            ".GD3",
+            ".gd7",
+            ".GD7",
+            ".dx2",
+            ".DX2",
+            ".bsx",
+            ".BSX",
+            ".swc",
+            ".SWC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Tandy Color Computer 3 aka CoCo3 (Radioshack TRS-80)": {
+        "romfolder": "coco3",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".cas",
+            ".CAS",
+            ".ccc",
+            ".CCC",
+            ".dsk",
+            ".DSK",
+            ".rom",
+            ".ROM",
+            ".wav",
+            ".WAV",
+            ".zip",
+            ".ZIP"
+        ],
+        "notes": ""
+    },
+    "Thomson": {
+        "emulators": [
+            "lr-theodorelr-theodore"
+        ],
+        "romfolder": "thomson",
+        "extensions": [
+            ".fd",
+            ".FD",
+            ".k7",
+            ".K7",
+            ".m5",
+            ".M5",
+            ".m7",
+            ".M7",
+            ".rom",
+            ".ROM",
+            ".sap",
+            ".SAP"
+        ],
+        "bios": "None"
+    },
+    "Tic-80": {
+        "emulators": [
+            "lr-tic80lr-tic80"
+        ],
+        "romfolder": "tic80",
+        "extensions": [
+            ".tic",
+            ".TIC"
+        ],
+        "bios": "None"
+    },
+    "Tiger LCD Games (Available only on the RK3566 devices such as the RG353M Only!)": {
+        "emulators": [
+            "lr-mamelr-mame"
+        ],
+        "romfolder": "tigerlcd",
+        "extensions": [
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None",
+        "notes": "\\"
+    },
+    "TI-99": {
+        "emulators": [
+            "ti99simti99sim"
+        ],
+        "romfolder": "ti99",
+        "extensions": [
+            ".ctg",
+            ".CTG"
+        ],
+        "bios": "ti-994a.ctg",
+        "notes": "(For OGA, RGB10, and RK2020) Default version of ti99 enables dpad only (ti99sim-sdl-dpad) due to possible analog noise issues.  You can change this by selecting ti99sim-sdl as the emulator.  See herehere to learn how to change the emulator from within ES."
+    },
+    "Uzebox": {
+        "emulators": [
+            "lr-uzemlr-uzem"
+        ],
+        "romfolder": "uzebox",
+        "extensions": [
+            ".uze",
+            ".UZE"
+        ],
+        "bios": "None"
+    },
+    "Vectrex": {
+        "emulators": [
+            "lr-vecxlr-vecx"
+        ],
+        "romfolder": "vectrex",
+        "extensions": [
+            ".vec",
+            ".VEC",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Videopac": {
+        "emulators": [
+            "lr-o2emlr-o2em"
+        ],
+        "romfolder": "videopac",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "o2rom.bin copied as g7400.bin"
+    },
+    "Videoton TV-Computer": {
+        "emulators": [
+            "lr-ep128emulr-ep128emu"
+        ],
+        "romfolder": "tvc",
+        "extensions": [
+            ".cas",
+            ".CAS"
+        ],
+        "bios": "OptionalOptional"
+    },
+    "Vircon32": {
+        "emulators": [
+            "lr-vircon32lr-vircon32"
+        ],
+        "romfolder": "vircon32",
+        "extensions": [
+            ".v32",
+            ".V32"
+        ],
+        "bios": "Vircon32Bios.v32 (optional)"
+    },
+    "Virtual Boy": {
+        "emulators": [
+            "lr-mednafen-vb (aka lr-beetle-vb)lr-mednafen-vb (aka lr-beetle-vb) MednafenMednafen"
+        ],
+        "romfolder": "virtualboy",
+        "extensions": [
+            ".vb",
+            ".VB",
+            ".vboy",
+            ".VBOY",
+            ".zip",
+            ".zip",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Visual Novel games engine (ONScripter)": {
+        "emulators": [
+            "lr-onscripterlr-onscripter"
+        ],
+        "romfolder": "onscripter",
+        "extensions": [
+            ".dat",
+            ".DAT",
+            ".txt",
+            ".TXT"
+        ],
+        "bios": "None"
+    },
+    "WASM-4": {
+        "emulators": [
+            "lr-wasm4lr-wasm4"
+        ],
+        "romfolder": "wasm4",
+        "extensions": [
+            ".wasm",
+            ".WASM"
+        ],
+        "bios": "None"
+    },
+    "Watara Supervision": {
+        "emulators": [
+            "lr-potatorlr-potator"
+        ],
+        "romfolder": "supervision",
+        "extensions": [
+            ".bin",
+            ".BIN",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "Wolfenstein": {
+        "emulators": [
+            "(ecwolfecwolf standalone) lr-ecwolflr-ecwolf"
+        ],
+        "romfolder": "wolf",
+        "extensions": [
+            ".wolf",
+            ".WOLF",
+            ".ecwolf",
+            ".ECWOLF"
+        ],
+        "bios": "None",
+        "notes": "\\"
+    },
+    "WonderSwan": {
+        "emulators": [
+            "lr-mednafen-wswan (aka lr-beetle-wswan)lr-mednafen-wswan (aka lr-beetle-wswan)"
+        ],
+        "romfolder": "wonderswan",
+        "extensions": [
+            ".ws",
+            ".WS",
+            ".pc2",
+            ".PC2",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "WonderSwan Color": {
+        "emulators": [
+            "lr-mednafen-wswan (aka lr-beetle-wswan)lr-mednafen-wswan (aka lr-beetle-wswan) MednafenMednafen"
+        ],
+        "romfolder": "wonderswancolor",
+        "extensions": [
+            ".wsc",
+            ".WSC",
+            ".pc2",
+            ".PC2",
+            ".zip",
+            ".ZIP",
+            ".7z",
+            ".7Z"
+        ],
+        "bios": "None"
+    },
+    "ZX-81": {
+        "emulators": [
+            "lr-81lr-81"
+        ],
+        "romfolder": "zx81",
+        "extensions": [
+            ".p",
+            ".P",
+            ".tzx",
+            ".TZX",
+            ".zip",
+            ".ZIP"
+        ],
+        "bios": "None",
+        "notes": "I was only able to successfully load .p based roms.  I suggest using .p roms and .zip files with .p roms in them based on my testing. Many games can be started by hitting select to bring up the virtual keyboard, hit R then newline key.  Otherwise, you'll need to search online on how to load these games if you're not familiar with this system."
+    },
+    "ZX Spectrum": {
+        "emulators": [
+            "lr-fuselr-fuse"
+        ],
+        "romfolder": "zxspectrum",
+        "extensions": [
+            ".sna",
+            ".SNA",
+            ".szx",
+            ".SZX",
+            ".z80",
+            ".Z80",
+            ".tap",
+            ".TAP",
+            ".tzx",
+            ".TZX",
+            ".gz",
+            ".GZ",
+            ".udi",
+            ".UDI",
+            ".mgt",
+            ".MGT",
+            ".img",
+            ".IMG",
+            ".trd",
+            ".TRD",
+            ".scl",
+            ".SCL",
+            ".dsk",
+            ".DSK"
+        ],
+        "bios": "None",
+        "notes": "See the PortMasterPortMaster webpage for more info on available ports and how to install them."
+    }
+}

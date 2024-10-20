@@ -10,7 +10,6 @@ atomiswave
 c128
 c64
 channelf
-daphne
 dreamcast
 easyrpg
 fds

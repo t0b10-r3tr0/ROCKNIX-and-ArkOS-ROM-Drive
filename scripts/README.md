@@ -98,8 +98,8 @@ The program requires at a minimum two arguments for the target directory and ext
 
 1. The target directory is the first argument.
 2. Extensions follow as additional arguments.
-- /r is a switch to enable recursion.
-- /e is a switch to remove empty directories after file deletion.
+- `-r` is a switch to enable recursion.
+- `-e` is a switch to remove empty directories after file deletion.
 
 ### Example of Use
 

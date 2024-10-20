@@ -1,0 +1,1617 @@
+{
+  "MAME": {
+    "romfolder": [
+      "mame",
+      "arcade"
+    ],
+    "emulators": [
+      "mame2003_plus",
+      "AdvanceMame",
+      "mame2000",
+      "mame2010",
+      "mame2015",
+      "mame2016",
+      "mame",
+      "fbneo",
+      "fbalpha2012",
+      "fbalpha2019"
+    ],
+    "extensions": [
+      ".zip",
+      ".7z"
+    ]
+  },
+  "FinalBurn Neo": {
+    "romfolder": "fbneo",
+    "emulators": [
+      "fbneo",
+      "mame2003_plus",
+      "fbalpha2012",
+      "fbalpha2019",
+      "mame2010",
+      "mame2015",
+      "mame2016",
+      "mame"
+    ],
+    "extensions": [
+      ".zip",
+      ".7z"
+    ]
+  },
+  "LaserDisc": {
+    "romfolder": "laserdisc",
+    "emulators": [
+      "hypseus-singe"
+    ],
+    "extensions": [
+      ".daphne",
+      ".ld"
+    ]
+  },
+  "Sammy Atomiswave": {
+    "romfolder": "atomiswave",
+    "emulators": [
+      "flycast2021",
+      "flycast"
+    ],
+    "extensions": [
+      ".lst",
+      ".bin",
+      ".dat",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Naomi": {
+    "romfolder": "naomi",
+    "emulators": [
+      "flycast2021",
+      "flycast"
+    ],
+    "extensions": [
+      ".lst",
+      ".bin",
+      ".dat",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari 2600": {
+    "romfolder": "atari2600",
+    "emulators": [
+      "stella-2014",
+      "stella"
+    ],
+    "extensions": [
+      ".a26",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari 5200": {
+    "romfolder": "atari5200",
+    "emulators": [
+      "a5200",
+      "atari800"
+    ],
+    "extensions": [
+      ".rom",
+      ".xfd",
+      ".atr",
+      ".atx",
+      ".cdm",
+      ".cas",
+      ".car",
+      ".bin",
+      ".a52",
+      ".xex",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari 7800": {
+    "romfolder": "atari7800",
+    "emulators": [
+      "prosystem",
+      "mame"
+    ],
+    "extensions": [
+      ".a78",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari Jaguar": {
+    "romfolder": "atarijaguar",
+    "emulators": [
+      "virtualjaguar"
+    ],
+    "extensions": [
+      ".j64",
+      ".jag",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari Lynx": {
+    "romfolder": "atarilynx",
+    "emulators": [
+      "handy",
+      "beetle_lynx"
+    ],
+    "extensions": [
+      ".lnx",
+      ".o",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Bandai SuFami Turbo": {
+    "romfolder": "sufami",
+    "emulators": [
+      "snes9x"
+    ],
+    "extensions": [
+      ".st",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Bandai Wonderswan": {
+    "romfolder": "wonderswan",
+    "emulators": [
+      "beetle_wswan"
+    ],
+    "extensions": [
+      ".ws",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Bandai Wonderswan Color": {
+    "romfolder": "wonderswancolor",
+    "emulators": [
+      "beetle_wswan"
+    ],
+    "extensions": [
+      ".wsc",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Bit Corp Gamate": {
+    "romfolder": "gamate",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Casio PV-1000": {
+    "romfolder": "pv1000",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Coleco ColecoVision": {
+    "romfolder": "coleco",
+    "emulators": [
+      "bluemsx",
+      "gearcoleco",
+      "smsplus"
+    ],
+    "extensions": [
+      ".bin",
+      ".col",
+      ".rom",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Commodore Amiga CD32": {
+    "romfolder": "amigacd32",
+    "emulators": [
+      "puae2021",
+      "puae",
+      "uae4arm"
+    ],
+    "extensions": [
+      ".iso",
+      ".cue",
+      ".chd",
+      ".lha"
+    ]
+  },
+  "Entex Adventure Vision": {
+    "romfolder": "advision",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Epoch Game Pocket Computer": {
+    "romfolder": "gamepocketcomputer",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Epoch Super Cassette Vision": {
+    "romfolder": "scv",
+    "emulators": [
+      "emuscv"
+    ],
+    "extensions": [
+      ".bin",
+      ".rom",
+      ".0",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Fairchild Channel F": {
+    "romfolder": "channelf",
+    "emulators": [
+      "fairchaf"
+    ],
+    "extensions": [
+      ".bin",
+      ".chf",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Hartung Game Master": {
+    "romfolder": "gamemaster",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Magnavox Odyssey²": {
+    "romfolder": "odyssey",
+    "emulators": [
+      "o2em"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Mattel Intellivision": {
+    "romfolder": "intellivision",
+    "emulators": [
+      "freeintv"
+    ],
+    "extensions": [
+      ".int",
+      ".bin",
+      ".rom",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Milton Bradley Vectrex": {
+    "romfolder": "vectrex",
+    "emulators": [
+      "vecx"
+    ],
+    "extensions": [
+      ".bin",
+      ".gam",
+      ".vec",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "NEC PC Engine": {
+    "romfolder": "pcengine",
+    "emulators": [
+      "beetle_pce_fast",
+      "beetle_pce",
+      "beetle_supergrafx"
+    ],
+    "extensions": [
+      ".pce",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "NEC PC Engine CD": {
+    "romfolder": "pcenginecd",
+    "emulators": [
+      "beetle_pce_fast",
+      "beetle_pce",
+      "beetle_supergrafx"
+    ],
+    "extensions": [
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".toc",
+      ".m3u"
+    ]
+  },
+  "NEC PC-FX": {
+    "romfolder": "pcfx",
+    "emulators": [
+      "beetle_pcfx"
+    ],
+    "extensions": [
+      ".chd",
+      ".cue",
+      ".ccd",
+      ".toc"
+    ]
+  },
+  "NEC SuperGrafx": {
+    "romfolder": "sgfx",
+    "emulators": [
+      "beetle_supergrafx",
+      "beetle_pce"
+    ],
+    "extensions": [
+      ".pce",
+      ".sgx",
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "NEC TurboGrafx 16": {
+    "romfolder": "tg16",
+    "emulators": [
+      "beetle_pce_fast",
+      "beetle_pce",
+      "beetle_supergrafx"
+    ],
+    "extensions": [
+      ".pce",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "NEC TurboGrafx CD": {
+    "romfolder": "tg16cd",
+    "emulators": [
+      "beetle_pce_fast",
+      "beetle_pce",
+      "beetle_supergrafx"
+    ],
+    "extensions": [
+      ".cue",
+      ".ccd",
+      ".chd",
+      ".toc",
+      ".m3u"
+    ]
+  },
+  "Nintendo Famicom": {
+    "romfolder": "famicom",
+    "emulators": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen"
+    ],
+    "extensions": [
+      ".nes",
+      ".unif",
+      ".unf",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Famicom Disk System": {
+    "romfolder": "fds",
+    "emulators": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen"
+    ],
+    "extensions": [
+      ".fds",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Game & Watch": {
+    "romfolder": "gameandwatch",
+    "emulators": [
+      "gw"
+    ],
+    "extensions": [
+      ".mgw",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Game Boy": {
+    "romfolder": [
+      "gb",
+      "gbh (hacks)"
+    ],
+    "emulators": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "DoubleCherryGB",
+      "mgba",
+      "vbam",
+      "bsnes",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".gb",
+      ".gbc",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Game Boy Advance": {
+    "romfolder": [
+      "gba",
+      "gbah (hacks)"
+    ],
+    "emulators": [
+      "mgba",
+      "beetle_gba",
+      "gpsp",
+      "vbam",
+      "vba_next"
+    ],
+    "extensions": [
+      ".gba",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Game Boy Color": {
+    "romfolder": [
+      "gbc",
+      "gbch (hacks)"
+    ],
+    "emulators": [
+      "gambatte",
+      "sameboy",
+      "gearboy",
+      "tgbdual",
+      "DoubleCherryGB",
+      "mgba",
+      "vbam",
+      "bsnes",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".gbc",
+      ".gb",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo N64": {
+    "romfolder": "n64",
+    "emulators": [
+      "mupen64plus_next",
+      "parallel_n64",
+      "mupen64plussa_glide64mk2",
+      "mupen64plussa_rice"
+    ],
+    "extensions": [
+      ".z64",
+      ".n64",
+      ".v64",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo NDS": {
+    "romfolder": "nds",
+    "emulators": [
+      "drastic",
+      "melonds",
+      "melondsds"
+    ],
+    "extensions": [
+      ".nds",
+      ".zip"
+    ]
+  },
+  "Nintendo NES": {
+    "romfolder": [
+      "nes",
+      "nesh (hacks)"
+    ],
+    "emulators": [
+      "nestopia",
+      "fceumm",
+      "quicknes",
+      "mesen"
+    ],
+    "extensions": [
+      ".nes",
+      ".unif",
+      ".unf",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Pokémon Mini": {
+    "romfolder": "pokemini",
+    "emulators": [
+      "pokemini"
+    ],
+    "extensions": [
+      ".min",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Satellaview": {
+    "romfolder": "satellaview",
+    "emulators": [
+      "snes9x",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "snes9x2010",
+      "beetle_snes",
+      "bsnes",
+      "bsnes2014_balanced",
+      "bsnes2014_performance",
+      "bsnes_mercury_balanced",
+      "bsnes_mercury_performance",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".smc",
+      ".sfc",
+      ".swc",
+      ".fig",
+      ".bs",
+      ".bsx",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Super Famicom": {
+    "romfolder": "sfc",
+    "emulators": [
+      "snes9x",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "snes9x2010",
+      "beetle_supafaust",
+      "beetle_snes",
+      "bsnes",
+      "bsnes2014_balanced",
+      "bsnes2014_performance",
+      "bsnes_mercury_balanced",
+      "bsnes_mercury_performance",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".smc",
+      ".sfc",
+      ".swc",
+      ".fig",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Super NES": {
+    "romfolder": [
+      "snes",
+      "snesh (hacks)"
+    ],
+    "emulators": [
+      "snes9x",
+      "snes9x2002",
+      "snes9x2005_plus",
+      "snes9x2010",
+      "beetle_supafaust",
+      "beetle_snes",
+      "bsnes",
+      "bsnes2014_balanced",
+      "bsnes2014_performance",
+      "bsnes_mercury_balanced",
+      "bsnes_mercury_performance",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".smc",
+      ".sfc",
+      ".swc",
+      ".fig",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Super NES MSU-1": {
+    "romfolder": "snesmsu1",
+    "emulators": [
+      "snes9x",
+      "beetle_supafaust",
+      "bsnes",
+      "mesen-s"
+    ],
+    "extensions": [
+      ".smc",
+      ".fig",
+      ".sfc",
+      ".swc",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Nintendo Virtual Boy": {
+    "romfolder": "virtualboy",
+    "emulators": [
+      "beetle_vb"
+    ],
+    "extensions": [
+      ".vb",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Panasonic 3DO": {
+    "romfolder": "3do",
+    "emulators": [
+      "opera"
+    ],
+    "extensions": [
+      ".iso",
+      ".cue",
+      ".bin",
+      ".chd"
+    ]
+  },
+  "Philips CD-i": {
+    "romfolder": "cdi",
+    "emulators": [
+      "same_cdi"
+    ],
+    "extensions": [
+      ".chd",
+      ".iso"
+    ]
+  },
+  "Sega 32X": {
+    "romfolder": "sega32x",
+    "emulators": [
+      "picodrive"
+    ],
+    "extensions": [
+      ".32x",
+      ".bin",
+      ".md",
+      ".smd",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega CD": {
+    "romfolder": "segacd",
+    "emulators": [
+      "genesis_plus_gx",
+      "picodrive"
+    ],
+    "extensions": [
+      ".chd",
+      ".cue",
+      ".iso",
+      ".m3u"
+    ]
+  },
+  "Sega SG-1000": {
+    "romfolder": "sg-1000",
+    "emulators": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "picodrive"
+    ],
+    "extensions": [
+      ".bin",
+      ".sg",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Game Gear": {
+    "romfolder": [
+      "gamegear",
+      "gamegearh (hacks)"
+    ],
+    "emulators": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "picodrive",
+      "smsplus"
+    ],
+    "extensions": [
+      ".gg",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Genesis": {
+    "romfolder": [
+      "genesis",
+      "genh (hacks)"
+    ],
+    "emulators": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "extensions": [
+      ".gen",
+      ".md",
+      ".sg",
+      ".smd",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Master System": {
+    "romfolder": "mastersystem",
+    "emulators": [
+      "gearsystem",
+      "genesis_plus_gx",
+      "picodrive",
+      "smsplus"
+    ],
+    "extensions": [
+      ".sms",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Mega-CD": {
+    "romfolder": "megacd",
+    "emulators": [
+      "genesis_plus_gx",
+      "picodrive"
+    ],
+    "extensions": [
+      ".chd",
+      ".cue",
+      ".iso",
+      ".m3u"
+    ]
+  },
+  "Sega Mega Drive": {
+    "romfolder": [
+      "megadrive",
+      "megadrive-japan"
+    ],
+    "emulators": [
+      "genesis_plus_gx",
+      "genesis_plus_gx_wide",
+      "picodrive"
+    ],
+    "extensions": [
+      ".gen",
+      ".bin",
+      ".md",
+      ".sg",
+      ".smd",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega Saturn": {
+    "romfolder": "saturn",
+    "emulators": [
+      "yabasanshiroSA"
+    ],
+    "extensions": [
+      ".cue",
+      ".iso",
+      ".chd"
+    ]
+  },
+  "Sega Dreamcast": {
+    "romfolder": "dreamcast",
+    "emulators": [
+      "flycast2021",
+      "flycast"
+    ],
+    "extensions": [
+      ".cdi",
+      ".gdi",
+      ".chd",
+      ".m3u"
+    ]
+  },
+  "SNK Neo Geo": {
+    "romfolder": "neogeo",
+    "emulators": [
+      "fbneo",
+      "geolith",
+      "mame2003_plus",
+      "fbalpha2012",
+      "fbalpha2019",
+      "mame2010",
+      "mame2015",
+      "mame2016",
+      "mame"
+    ],
+    "extensions": [
+      ".7z",
+      ".zip",
+      ".neo"
+    ]
+  },
+  "SNK Neo Geo CD": {
+    "romfolder": "neocd",
+    "emulators": [
+      "neocd",
+      "fbneo"
+    ],
+    "extensions": [
+      ".chd",
+      ".cue",
+      ".iso"
+    ]
+  },
+  "SNK Neo Geo Pocket": {
+    "romfolder": "ngp",
+    "emulators": [
+      "beetle_ngp",
+      "race"
+    ],
+    "extensions": [
+      ".ngp",
+      ".ngc",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "SNK Neo Geo Pocket Color": {
+    "romfolder": "ngpc",
+    "emulators": [
+      "beetle_ngp",
+      "race"
+    ],
+    "extensions": [
+      ".ngc",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sony PlayStation": {
+    "romfolder": "psx",
+    "emulators": [
+      "pcsx_rearmed2023",
+      "pcsx_rearmed",
+      "duckstation",
+      "swanstation"
+    ],
+    "extensions": [
+      ".bin",
+      ".cue",
+      ".img",
+      ".pbp",
+      ".mdf",
+      ".toc",
+      ".cbn",
+      ".m3u",
+      ".ccd",
+      ".chd",
+      ".iso"
+    ]
+  },
+  "Sony PSP": {
+    "romfolder": "psp",
+    "emulators": [
+      "PPSSPPSDL",
+      "ppsspp"
+    ],
+    "extensions": [
+      ".chd",
+      ".cso",
+      ".pbp",
+      ".iso"
+    ]
+  },
+  "Sony PSP Minis": {
+    "romfolder": "pspminis",
+    "emulators": [
+      "PPSSPPSDL",
+      "ppsspp"
+    ],
+    "extensions": [
+      ".chd",
+      ".cso",
+      ".pbp",
+      ".iso"
+    ]
+  },
+  "TimeTop GameKing": {
+    "romfolder": "gameking",
+    "emulators": [
+      "mame"
+    ],
+    "extensions": [
+      ".bin",
+      ".gk",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Watara Supervision": {
+    "romfolder": "supervision",
+    "emulators": [
+      "potator"
+    ],
+    "extensions": [
+      ".sv",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Welback Holdings Mega Duck": {
+    "romfolder": "megaduck",
+    "emulators": [
+      "sameduck"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Amstrad CPC": {
+    "romfolder": "amstradcpc",
+    "emulators": [
+      "crocods",
+      "cap32",
+      "ep128emu"
+    ],
+    "extensions": [
+      ".dsk",
+      ".sna",
+      ".kcr",
+      ".tap",
+      ".cdt",
+      ".voc",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari 800": {
+    "romfolder": "atari800",
+    "emulators": [
+      "atari800"
+    ],
+    "extensions": [
+      ".rom",
+      ".xfd",
+      ".atr",
+      ".atx",
+      ".cdm",
+      ".cas",
+      ".car",
+      ".bin",
+      ".a52",
+      ".xex",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Atari ST": {
+    "romfolder": "atarist",
+    "emulators": [
+      "hatari",
+      "HATARISA"
+    ],
+    "extensions": [
+      ".st",
+      ".msa",
+      ".stx",
+      ".dim",
+      ".ipf",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Commodore Amiga": {
+    "romfolder": "amiga",
+    "emulators": [
+      "puae2021",
+      "puae",
+      "amiberry",
+      "uae4arm"
+    ],
+    "extensions": [
+      ".zip",
+      ".uae",
+      ".adf",
+      ".dms",
+      ".fdi",
+      ".ipf",
+      ".adz",
+      ".lha",
+      ".hdf",
+      ".hdz"
+    ]
+  },
+  "Commodore C16": {
+    "romfolder": "c16",
+    "emulators": [
+      "vice_xplus4"
+    ],
+    "extensions": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ]
+  },
+  "Commodore C64": {
+    "romfolder": "c64",
+    "emulators": [
+      "vice_x64"
+    ],
+    "extensions": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ]
+  },
+  "Commodore C128": {
+    "romfolder": "c128",
+    "emulators": [
+      "vice_x128"
+    ],
+    "extensions": [
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ]
+  },
+  "Commodore VIC-20": {
+    "romfolder": "vic20",
+    "emulators": [
+      "vice_xvic"
+    ],
+    "extensions": [
+      ".20",
+      ".40",
+      ".60",
+      ".a0",
+      ".b0",
+      ".d64",
+      ".d71",
+      ".d80",
+      ".d81",
+      ".d82",
+      ".g64",
+      ".g41",
+      ".x64",
+      ".t64",
+      ".tap",
+      ".prg",
+      ".p00",
+      ".crt",
+      ".bin",
+      ".gz",
+      ".d6z",
+      ".d7z",
+      ".d8z",
+      ".g6z",
+      ".g4z",
+      ".x6z",
+      ".cmd",
+      ".m3u",
+      ".vsf",
+      ".nib",
+      ".nbz",
+      ".zip"
+    ]
+  },
+  "Enterprise 64/128": {
+    "romfolder": "ep64-128",
+    "emulators": [
+      "ep128emu"
+    ],
+    "extensions": [
+      ".img",
+      ".dsk",
+      ".tap",
+      ".dtf",
+      ".com",
+      ".trn",
+      ".128",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Microsoft DOS": {
+    "romfolder": "pc",
+    "emulators": [
+      "dosbox_pure",
+      "dosbox_core"
+    ],
+    "extensions": [
+      ".com",
+      ".bat",
+      ".exe",
+      ".dosz"
+    ]
+  },
+  "Microsoft MSX": {
+    "romfolder": "msx",
+    "emulators": [
+      "bluemsx",
+      "fmsx"
+    ],
+    "extensions": [
+      ".dsk",
+      ".mx1",
+      ".mx2",
+      ".rom",
+      ".zip",
+      ".7z",
+      ".m3u"
+    ]
+  },
+  "Microsoft MSX2": {
+    "romfolder": "msx2",
+    "emulators": [
+      "bluemsx",
+      "fmsx"
+    ],
+    "extensions": [
+      ".dsk",
+      ".mx1",
+      ".mx2",
+      ".rom",
+      ".zip",
+      ".7z",
+      ".m3u"
+    ]
+  },
+  "NEC PC-88": {
+    "romfolder": "pc88",
+    "emulators": [
+      "quasi88"
+    ],
+    "extensions": [
+      ".d88",
+      ".u88",
+      ".m3u"
+    ]
+  },
+  "NEC PC-98": {
+    "romfolder": "pc98",
+    "emulators": [
+      "np2kai",
+      "nekop2"
+    ],
+    "extensions": [
+      ".d98",
+      ".zip",
+      ".98d",
+      ".fdi",
+      ".fdd",
+      ".2hd",
+      ".tfd",
+      ".d88",
+      ".88d",
+      ".hdm",
+      ".xdf",
+      ".dup",
+      ".hdi",
+      ".thd",
+      ".nhd",
+      ".hdd",
+      ".hdn"
+    ]
+  },
+  "Philips Videopac": {
+    "romfolder": "videopac",
+    "emulators": [
+      "o2em"
+    ],
+    "extensions": [
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sega SC-3000": {
+    "romfolder": "sc-3000",
+    "emulators": [
+      "bluemsx"
+    ],
+    "extensions": [
+      ".sg",
+      ".bin",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sharp X1": {
+    "romfolder": "x1",
+    "emulators": [
+      "x1"
+    ],
+    "extensions": [
+      ".dx1",
+      ".2d",
+      ".2hd",
+      ".tfd",
+      ".d88",
+      ".88d",
+      ".hdm",
+      ".xdf",
+      ".dup",
+      ".tap",
+      ".cmd",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sharp X68000": {
+    "romfolder": "x68000",
+    "emulators": [
+      "px68k"
+    ],
+    "extensions": [
+      ".dim",
+      ".img",
+      ".d88",
+      ".88d",
+      ".hdm",
+      ".dup",
+      ".2hd",
+      ".xdf",
+      ".hdf",
+      ".cmd",
+      ".m3u",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sinclair ZX81": {
+    "romfolder": "zx81",
+    "emulators": [
+      "81"
+    ],
+    "extensions": [
+      ".tzx",
+      ".p",
+      ".t81",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Sinclair ZX Spectrum": {
+    "romfolder": "zxspectrum",
+    "emulators": [
+      "fuse",
+      "ep128emu"
+    ],
+    "extensions": [
+      ".tzx",
+      ".tap",
+      ".z80",
+      ".rzx",
+      ".scl",
+      ".trd",
+      ".dsk",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Thomson MO/TO": {
+    "romfolder": "thomson",
+    "emulators": [
+      "theodore"
+    ],
+    "extensions": [
+      ".fd",
+      ".sap",
+      ".k7",
+      ".m7",
+      ".m5",
+      ".rom",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Videoton TVC": {
+    "romfolder": "tvc",
+    "emulators": [
+      "ep128emu"
+    ],
+    "extensions": [
+      ".img",
+      ".dsk",
+      ".cas",
+      ".tvcwav",
+      ".zip",
+      ".7z"
+    ]
+  },
+  "Aquaplus P/ECE": {
+    "romfolder": "piece",
+    "emulators": [
+      "piemu"
+    ],
+    "extensions": [
+      ".pex",
+      ".pfi"
+    ]
+  },
+  "Arduboy": {
+    "romfolder": "arduboy",
+    "emulators": [
+      "arduous"
+    ],
+    "extensions": [
+      ".hex"
+    ]
+  },
+  "Belogic Uzebox": {
+    "romfolder": "uzebox",
+    "emulators": [
+      "uzem"
+    ],
+    "extensions": [
+      ".uze"
+    ]
+  },
+  "CHIP-8": {
+    "romfolder": "chip-8",
+    "emulators": [
+      "jaxe"
+    ],
+    "extensions": [
+      ".ch8",
+      ".sc8",
+      ".xo8"
+    ]
+  },
+  "Lexaloffle Pico-8": {
+    "romfolder": "pico-8",
+    "emulators": [
+      "fake08",
+      "pico8"
+    ],
+    "extensions": [
+      ".png",
+      ".p8"
+    ]
+  },
+  "LowRes NX": {
+    "romfolder": "lowresnx",
+    "emulators": [
+      "lowresnx"
+    ],
+    "extensions": [
+      ".nx"
+    ]
+  },
+  "Nesbox TIC-80": {
+    "romfolder": "tic-80",
+    "emulators": [
+      "tic80"
+    ],
+    "extensions": [
+      ".tic"
+    ]
+  },
+  "Vircon32": {
+    "romfolder": "vircon32",
+    "emulators": [
+      "vircon32"
+    ],
+    "extensions": [
+      ".v32"
+    ]
+  },
+  "WASM-4": {
+    "romfolder": "wasm4",
+    "emulators": [
+      "wasm4"
+    ],
+    "extensions": [
+      ".wasm"
+    ]
+  },
+  "Build Engine": {
+    "romfolder": "build",
+    "emulators": [
+      "raze"
+    ],
+    "extensions": [
+      ".build"
+    ]
+  },
+  "Doom": {
+    "romfolder": "doom",
+    "emulators": [
+      "gzdoom",
+      "lzdoom",
+      "prboom"
+    ],
+    "extensions": [
+      ".doom"
+    ]
+  },
+  "EasyRPG": {
+    "romfolder": "easyrpg",
+    "emulators": [
+      "easyrpg"
+    ],
+    "extensions": [
+      ".zip",
+      ".easyrpg",
+      ".ldb"
+    ]
+  },
+  "OpenBOR": {
+    "romfolder": "openbor",
+    "emulators": [
+      "openbor"
+    ],
+    "extensions": [
+      ".pak"
+    ]
+  },
+  "ScummVM": {
+    "romfolder": "scummvm",
+    "emulators": [
+      "scummvmsa",
+      "scummvm"
+    ],
+    "extensions": [
+      ".scummvm"
+    ]
+  },
+  "Solarus": {
+    "romfolder": "solarus",
+    "emulators": [
+      "solarus"
+    ],
+    "extensions": [
+      ".solarus"
+    ]
+  },
+  "Sun Microsystems J2ME": {
+    "romfolder": "j2me",
+    "emulators": [
+      "freej2me"
+    ],
+    "extensions": [
+      ".jar"
+    ]
+  },
+  "Wolfenstein 3D": {
+    "romfolder": "ecwolf",
+    "emulators": [
+      "ecwolf"
+    ],
+    "extensions": [
+      ".ecwolf"
+    ]
+  },
+  "Infocom Z-Machine": {
+    "romfolder": "zmachine",
+    "emulators": [
+      "mojozork"
+    ],
+    "extensions": [
+      ".dat",
+      ".z1",
+      ".z3",
+      ".zip",
+      ".7z"
+    ]
+  }
+}

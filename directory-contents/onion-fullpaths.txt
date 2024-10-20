@@ -1,0 +1,1595 @@
+.tmp_update
+App
+BIOS
+Emu
+Icons
+Media
+miyoo
+RApp
+RetroArch
+Roms
+Saves
+Screenshots
+Themes
+.tmp_update\bin
+.tmp_update\checkoff
+.tmp_update\config
+.tmp_update\etc
+.tmp_update\lib
+.tmp_update\logs
+.tmp_update\onionVersion
+.tmp_update\res
+.tmp_update\script
+.tmp_update\startup
+.tmp_update\config\battery
+.tmp_update\config\display
+.tmp_update\config\filebrowser
+.tmp_update\config\startup
+.tmp_update\config\system
+.tmp_update\config\filebrowser\theme
+.tmp_update\config\filebrowser\theme\img
+.tmp_update\config\filebrowser\theme\img\icons
+.tmp_update\bin\adv
+.tmp_update\bin\green
+.tmp_update\bin\parasyte
+.tmp_update\bin\samba
+.tmp_update\bin\green\conf
+.tmp_update\bin\green\conf\conf.avail
+.tmp_update\bin\green\conf\conf.d
+.tmp_update\bin\samba\libexec
+.tmp_update\bin\samba\sbin
+.tmp_update\bin\samba\libexec\samba
+.tmp_update\lib\parasyte
+.tmp_update\lib\samba
+.tmp_update\lib\parasyte\python2.7
+.tmp_update\lib\parasyte\python2.7\bsddb
+.tmp_update\lib\parasyte\python2.7\compiler
+.tmp_update\lib\parasyte\python2.7\config
+.tmp_update\lib\parasyte\python2.7\ctypes
+.tmp_update\lib\parasyte\python2.7\curses
+.tmp_update\lib\parasyte\python2.7\distutils
+.tmp_update\lib\parasyte\python2.7\email
+.tmp_update\lib\parasyte\python2.7\encodings
+.tmp_update\lib\parasyte\python2.7\ensurepip
+.tmp_update\lib\parasyte\python2.7\hotshot
+.tmp_update\lib\parasyte\python2.7\importlib
+.tmp_update\lib\parasyte\python2.7\json
+.tmp_update\lib\parasyte\python2.7\lib-dynload
+.tmp_update\lib\parasyte\python2.7\lib2to3
+.tmp_update\lib\parasyte\python2.7\logging
+.tmp_update\lib\parasyte\python2.7\multiprocessing
+.tmp_update\lib\parasyte\python2.7\plat-linux2
+.tmp_update\lib\parasyte\python2.7\site-packages
+.tmp_update\lib\parasyte\python2.7\sqlite3
+.tmp_update\lib\parasyte\python2.7\sysconfigdata
+.tmp_update\lib\parasyte\python2.7\unittest
+.tmp_update\lib\parasyte\python2.7\wsgiref
+.tmp_update\lib\parasyte\python2.7\xml
+.tmp_update\lib\parasyte\python2.7\ctypes\macholib
+.tmp_update\lib\parasyte\python2.7\distutils\command
+.tmp_update\lib\parasyte\python2.7\email\mime
+.tmp_update\lib\parasyte\python2.7\ensurepip\_bundled
+.tmp_update\lib\parasyte\python2.7\lib-dynload\sysconfigdata
+.tmp_update\lib\parasyte\python2.7\lib2to3\fixes
+.tmp_update\lib\parasyte\python2.7\lib2to3\pgen2
+.tmp_update\lib\parasyte\python2.7\multiprocessing\dummy
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\gp2x
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\threads
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples\data
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples\macosx
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples\macosx\aliens_app_example
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples\macosx\aliens_app_example\English.lproj
+.tmp_update\lib\parasyte\python2.7\site-packages\pygame\examples\macosx\aliens_app_example\English.lproj\MainMenu.nib
+.tmp_update\lib\parasyte\python2.7\xml\dom
+.tmp_update\lib\parasyte\python2.7\xml\etree
+.tmp_update\lib\parasyte\python2.7\xml\parsers
+.tmp_update\lib\parasyte\python2.7\xml\sax
+.tmp_update\lib\samba\private
+.tmp_update\res\kbinput
+.tmp_update\etc\dropbear
+.tmp_update\script\diagnostics
+.tmp_update\script\migration
+.tmp_update\script\netplay
+.tmp_update\script\network
+.tmp_update\script\redirect
+.tmp_update\script\scraper
+.tmp_update\script\migration\data
+.tmp_update\script\scraper\launchbox_database
+.tmp_update\script\scraper\screenscraper_database
+BIOS\.advance
+BIOS\arcade_lists
+BIOS\scummvm
+BIOS\.advance\image
+BIOS\.advance\rom
+BIOS\.advance\snap
+BIOS\.advance\image\ti99_4a
+BIOS\.advance\snap\ti99_4a
+BIOS\scummvm\extra
+BIOS\scummvm\theme
+Media\Music
+Media\PDF
+Media\Videos
+Media\PDF\Onion
+Media\Videos\Onion
+RetroArch\.retroarch
+RetroArch\.retroarch\assets
+RetroArch\.retroarch\cores
+RetroArch\.retroarch\filters
+RetroArch\.retroarch\overlay
+RetroArch\.retroarch\PrBoom
+RetroArch\.retroarch\system
+RetroArch\.retroarch\assets\rgui
+RetroArch\.retroarch\assets\rgui\font
+RetroArch\.retroarch\assets\rgui\wallpaper
+RetroArch\.retroarch\cores\cache
+RetroArch\.retroarch\filters\video
+RetroArch\.retroarch\filters\video\Blargg NTSC SNES
+RetroArch\.retroarch\filters\video\GB-GBC
+RetroArch\.retroarch\filters\video\GBA
+RetroArch\.retroarch\filters\video\Grids
+RetroArch\.retroarch\filters\video\Normal
+RetroArch\.retroarch\filters\video\Offset_Custom
+RetroArch\.retroarch\filters\video\PICO
+RetroArch\.retroarch\filters\video\Picoscale
+RetroArch\.retroarch\filters\video\Upscale
+RetroArch\.retroarch\filters\video\GB-GBC\Dot Matrix 3x
+RetroArch\.retroarch\filters\video\GB-GBC\Filters for overlays
+RetroArch\.retroarch\filters\video\GB-GBC\Gameboy3x
+RetroArch\.retroarch\filters\video\GBA\Filter for overlays
+RetroArch\.retroarch\filters\video\Grids\LCD2x
+RetroArch\.retroarch\filters\video\Grids\LCD3x
+RetroArch\.retroarch\overlay\4-3
+RetroArch\.retroarch\overlay\8-7
+RetroArch\.retroarch\overlay\Arcade-Vertical
+RetroArch\.retroarch\overlay\GB-GBC
+RetroArch\.retroarch\overlay\GBA
+RetroArch\.retroarch\overlay\GG
+RetroArch\.retroarch\overlay\LYNX
+RetroArch\.retroarch\overlay\NGP
+RetroArch\.retroarch\overlay\PICO
+RetroArch\.retroarch\overlay\SFC
+RetroArch\.retroarch\overlay\WS
+RetroArch\.retroarch\overlay\4-3\CRT
+RetroArch\.retroarch\overlay\4-3\Frames
+RetroArch\.retroarch\overlay\4-3\Grids_Scanlines
+RetroArch\.retroarch\overlay\4-3\CRT\Perfect_CRT(read-instructions)
+RetroArch\.retroarch\overlay\8-7\Scanline Frames
+RetroArch\.retroarch\overlay\8-7\System Frames
+RetroArch\.retroarch\overlay\GB-GBC\Colorcast
+RetroArch\.retroarch\overlay\GB-GBC\Frame
+RetroArch\.retroarch\overlay\GB-GBC\Frame-Grid
+RetroArch\.retroarch\overlay\GB-GBC\Offset_(filter-required)
+RetroArch\.retroarch\overlay\GB-GBC\Perfect_GB(read-instructions)
+RetroArch\.retroarch\overlay\GB-GBC\Perfect_GBC(read-instructions)
+RetroArch\.retroarch\overlay\GB-GBC\Photoreal
+RetroArch\.retroarch\overlay\GB-GBC\Perfect_GB(read-instructions)\DMG
+RetroArch\.retroarch\overlay\GB-GBC\Perfect_GB(read-instructions)\GBP
+RetroArch\.retroarch\overlay\GB-GBC\Perfect_GB(read-instructions)\DMG\palettes
+RetroArch\.retroarch\overlay\GBA\Offset_(filter-required)
+RetroArch\.retroarch\overlay\GBA\Perfect_GBA(read-instructions)
+RetroArch\.retroarch\overlay\GG\Frame
+RetroArch\.retroarch\overlay\GG\Frame-4x3
+RetroArch\.retroarch\overlay\GG\Frame-Grid
+RetroArch\.retroarch\overlay\GG\Frame-Grid-4x3
+RetroArch\.retroarch\overlay\NGP\Offest_(filter-required)
+RetroArch\.retroarch\overlay\PICO\PICO_Gear
+RetroArch\.retroarch\overlay\PICO\PICO_Gear\Full_(README)
+RetroArch\.retroarch\overlay\PICO\PICO_Gear\Scale_(README)
+RetroArch\.retroarch\overlay\SFC\Offset_(filter-required)
+Themes\.previews
+Themes\Silky by DiMo
+Themes\Silky by DiMo\skin
+Themes\Silky by DiMo\skin\extra
+Themes\.previews\3DS mini by MarsTaco
+Themes\.previews\Analogue Blanche by Aemiii91
+Themes\.previews\Analogue by Aemiii91
+Themes\.previews\CyberOnion [Atomic] by Aemiii91
+Themes\.previews\CyberOnion by Aemiii91
+Themes\.previews\GBMini by Kitsuvi
+Themes\.previews\Hippo Stock
+Themes\.previews\M by tenlevels
+Themes\.previews\NanoSwitch by Amdy
+Themes\.previews\NanoSwitch Dark by Amdy
+Themes\.previews\Onion Boy by PixelShift + Jeltron
+Themes\.previews\Onion Boy DX by PixelShift
+Themes\.previews\ONION PS Blue by hanessh4
+Themes\.previews\ONION PS Dark Blue by hanessh4
+Themes\.previews\ONION PS Dark Grey by hanessh4
+Themes\.previews\ONION PS Purple Grey by hanessh4
+Themes\.previews\Onionboy HD by Jeltron
+Themes\.previews\Oransje by evolve
+Themes\.previews\PAC-MIYOO by tenlevels
+Themes\.previews\RetroRama by TooGeekCreations
+Themes\.previews\RPO by TheDewd
+Themes\.previews\Super Onion Entertainment System by TheDewd
+Themes\.previews\System 9 by injekim
+Themes\.previews\TechDweeb by TechDweeb
+Themes\.previews\Analogue Blanche by Aemiii91\icons
+Themes\.previews\Analogue by Aemiii91\icons
+Themes\.previews\CyberOnion [Atomic] by Aemiii91\icons
+Themes\.previews\CyberOnion by Aemiii91\icons
+Themes\.previews\M by tenlevels\icons
+Themes\.previews\NanoSwitch by Amdy\icons
+Themes\.previews\NanoSwitch Dark by Amdy\icons
+Themes\.previews\ONION PS Purple Grey by hanessh4\icons
+Themes\.previews\ONION PS Dark Grey by hanessh4\icons
+Themes\.previews\ONION PS Dark Blue by hanessh4\icons
+Themes\.previews\ONION PS Blue by hanessh4\icons
+Themes\.previews\Onionboy HD by Jeltron\icons
+Themes\.previews\PAC-MIYOO by tenlevels\icons
+Themes\.previews\RetroRama by TooGeekCreations\icons
+Themes\.previews\Super Onion Entertainment System by TheDewd\icons
+Themes\.previews\TechDweeb by TechDweeb\icons
+Saves\Common
+Saves\CurrentProfile
+Saves\GuestProfile
+Saves\CurrentProfile\config
+Saves\CurrentProfile\lists
+Saves\CurrentProfile\play_activity
+Saves\CurrentProfile\romScreens
+Saves\CurrentProfile\saves
+Saves\CurrentProfile\states
+Saves\CurrentProfile\theme
+Saves\CurrentProfile\config\a5200
+Saves\CurrentProfile\config\Atari800
+Saves\CurrentProfile\config\Beetle GBA
+Saves\CurrentProfile\config\Beetle NeoPop
+Saves\CurrentProfile\config\Beetle PCE
+Saves\CurrentProfile\config\Beetle PCE Fast
+Saves\CurrentProfile\config\Beetle SuperGrafx
+Saves\CurrentProfile\config\Beetle VB
+Saves\CurrentProfile\config\Beetle WonderSwan
+Saves\CurrentProfile\config\blueMSX
+Saves\CurrentProfile\config\Cannonball
+Saves\CurrentProfile\config\ChimeraSNES
+Saves\CurrentProfile\config\crocods
+Saves\CurrentProfile\config\DOSBox-pure
+Saves\CurrentProfile\config\ecwolf
+Saves\CurrentProfile\config\EightyOne
+Saves\CurrentProfile\config\fake-08
+Saves\CurrentProfile\config\FB Alpha
+Saves\CurrentProfile\config\FCEUmm
+Saves\CurrentProfile\config\FinalBurn Neo
+Saves\CurrentProfile\config\FreeChaF
+Saves\CurrentProfile\config\FreeIntv
+Saves\CurrentProfile\config\fuse
+Saves\CurrentProfile\config\Gambatte
+Saves\CurrentProfile\config\Gearsystem
+Saves\CurrentProfile\config\Genesis Plus GX
+Saves\CurrentProfile\config\gpSP
+Saves\CurrentProfile\config\Handy
+Saves\CurrentProfile\config\Hatari
+Saves\CurrentProfile\config\lutro
+Saves\CurrentProfile\config\MAME 2003-Plus
+Saves\CurrentProfile\config\MAME 2003-Xtreme
+Saves\CurrentProfile\config\Mesen
+Saves\CurrentProfile\config\mGBA
+Saves\CurrentProfile\config\Mr.Boom
+Saves\CurrentProfile\config\Nestopia
+Saves\CurrentProfile\config\Numero
+Saves\CurrentProfile\config\O2EM
+Saves\CurrentProfile\config\Opera
+Saves\CurrentProfile\config\P-UAE Xtreme Amped
+Saves\CurrentProfile\config\PCSX-ReARMed
+Saves\CurrentProfile\config\PicoDrive
+Saves\CurrentProfile\config\PokeMini
+Saves\CurrentProfile\config\Potator
+Saves\CurrentProfile\config\PrBoom
+Saves\CurrentProfile\config\ProSystem
+Saves\CurrentProfile\config\PUAE
+Saves\CurrentProfile\config\QuickNES
+Saves\CurrentProfile\config\remaps
+Saves\CurrentProfile\config\REminiscence
+Saves\CurrentProfile\config\retro-8 (alpha)
+Saves\CurrentProfile\config\SameDuck
+Saves\CurrentProfile\config\scummvm
+Saves\CurrentProfile\config\scummvm_standalone
+Saves\CurrentProfile\config\Snes9x
+Saves\CurrentProfile\config\Snes9x 2005
+Saves\CurrentProfile\config\Snes9x 2005 Plus
+Saves\CurrentProfile\config\Snes9x 2010
+Saves\CurrentProfile\config\Stella 2014
+Saves\CurrentProfile\config\Supafaust
+Saves\CurrentProfile\config\TGB Dual
+Saves\CurrentProfile\config\TyrQuake
+Saves\CurrentProfile\config\uae4arm_chips-rtype_version
+Saves\CurrentProfile\config\VBA-M
+Saves\CurrentProfile\config\VecX
+Saves\CurrentProfile\config\VICE x64
+Saves\CurrentProfile\config\x1
+Saves\CurrentProfile\config\remaps\Atari800
+Saves\CurrentProfile\config\remaps\cap32
+Saves\CurrentProfile\config\remaps\ecwolf
+Saves\CurrentProfile\config\remaps\FB Alpha 2012 CPS-2
+Saves\CurrentProfile\config\remaps\FCEUmm
+Saves\CurrentProfile\config\remaps\fuse
+Saves\CurrentProfile\config\remaps\Gambatte
+Saves\CurrentProfile\config\remaps\gpSP
+Saves\CurrentProfile\config\remaps\mGBA
+Saves\CurrentProfile\config\remaps\PCSX-ReARMed
+Saves\CurrentProfile\config\remaps\PrBoom
+Saves\CurrentProfile\config\remaps\scummvm
+Saves\CurrentProfile\saves\MAME 2003-Plus
+Saves\CurrentProfile\saves\PICO-8
+Saves\CurrentProfile\saves\PrBoom
+Saves\CurrentProfile\saves\ScummVM_Standalone
+Saves\CurrentProfile\saves\TyrQuake
+Saves\CurrentProfile\saves\MAME 2003-Plus\mame2003-plus
+Saves\CurrentProfile\saves\MAME 2003-Plus\mame2003-plus\cfg
+Saves\CurrentProfile\saves\PICO-8\.lexaloffle
+Saves\CurrentProfile\saves\PICO-8\.lexaloffle\pico-8
+Saves\CurrentProfile\saves\PrBoom\doomI
+Saves\CurrentProfile\saves\PrBoom\doomII
+Saves\CurrentProfile\saves\PrBoom\DoomPlutonia
+Saves\CurrentProfile\saves\PrBoom\doomu
+Saves\CurrentProfile\saves\PrBoom\SIGIL_v1_21
+Saves\CurrentProfile\saves\PrBoom\TNT_Evilution
+Saves\CurrentProfile\saves\TyrQuake\dopa
+Saves\CurrentProfile\saves\TyrQuake\hipnotic
+Saves\CurrentProfile\saves\TyrQuake\id1
+Saves\CurrentProfile\saves\TyrQuake\rogue
+Saves\CurrentProfile\theme\skin
+Saves\CurrentProfile\theme\skin\extra
+Saves\GuestProfile\config
+Saves\GuestProfile\lists
+Saves\GuestProfile\romScreens
+Saves\GuestProfile\saves
+Saves\GuestProfile\states
+Saves\GuestProfile\theme
+Saves\GuestProfile\config\a5200
+Saves\GuestProfile\config\Atari800
+Saves\GuestProfile\config\Beetle GBA
+Saves\GuestProfile\config\Beetle NeoPop
+Saves\GuestProfile\config\Beetle PCE
+Saves\GuestProfile\config\Beetle PCE Fast
+Saves\GuestProfile\config\Beetle SuperGrafx
+Saves\GuestProfile\config\Beetle VB
+Saves\GuestProfile\config\Beetle WonderSwan
+Saves\GuestProfile\config\blueMSX
+Saves\GuestProfile\config\Cannonball
+Saves\GuestProfile\config\ChimeraSNES
+Saves\GuestProfile\config\crocods
+Saves\GuestProfile\config\DOSBox-pure
+Saves\GuestProfile\config\ecwolf
+Saves\GuestProfile\config\EightyOne
+Saves\GuestProfile\config\fake-08
+Saves\GuestProfile\config\FB Alpha
+Saves\GuestProfile\config\FCEUmm
+Saves\GuestProfile\config\FinalBurn Neo
+Saves\GuestProfile\config\FreeChaF
+Saves\GuestProfile\config\FreeIntv
+Saves\GuestProfile\config\fuse
+Saves\GuestProfile\config\Gambatte
+Saves\GuestProfile\config\Gearsystem
+Saves\GuestProfile\config\Genesis Plus GX
+Saves\GuestProfile\config\gpSP
+Saves\GuestProfile\config\Handy
+Saves\GuestProfile\config\Hatari
+Saves\GuestProfile\config\lutro
+Saves\GuestProfile\config\MAME 2003-Plus
+Saves\GuestProfile\config\MAME 2003-Xtreme
+Saves\GuestProfile\config\Mesen
+Saves\GuestProfile\config\mGBA
+Saves\GuestProfile\config\Mr.Boom
+Saves\GuestProfile\config\Nestopia
+Saves\GuestProfile\config\Numero
+Saves\GuestProfile\config\O2EM
+Saves\GuestProfile\config\Opera
+Saves\GuestProfile\config\P-UAE Xtreme Amped
+Saves\GuestProfile\config\PCSX-ReARMed
+Saves\GuestProfile\config\PicoDrive
+Saves\GuestProfile\config\PokeMini
+Saves\GuestProfile\config\Potator
+Saves\GuestProfile\config\PrBoom
+Saves\GuestProfile\config\ProSystem
+Saves\GuestProfile\config\PUAE
+Saves\GuestProfile\config\QuickNES
+Saves\GuestProfile\config\remaps
+Saves\GuestProfile\config\REminiscence
+Saves\GuestProfile\config\retro-8 (alpha)
+Saves\GuestProfile\config\SameDuck
+Saves\GuestProfile\config\scummvm
+Saves\GuestProfile\config\scummvm_standalone
+Saves\GuestProfile\config\Snes9x
+Saves\GuestProfile\config\Snes9x 2005
+Saves\GuestProfile\config\Snes9x 2005 Plus
+Saves\GuestProfile\config\Snes9x 2010
+Saves\GuestProfile\config\Stella 2014
+Saves\GuestProfile\config\Supafaust
+Saves\GuestProfile\config\TGB Dual
+Saves\GuestProfile\config\TyrQuake
+Saves\GuestProfile\config\uae4arm_chips-rtype_version
+Saves\GuestProfile\config\VBA-M
+Saves\GuestProfile\config\VecX
+Saves\GuestProfile\config\VICE x64
+Saves\GuestProfile\config\x1
+Saves\GuestProfile\config\remaps\Atari800
+Saves\GuestProfile\config\remaps\cap32
+Saves\GuestProfile\config\remaps\ecwolf
+Saves\GuestProfile\config\remaps\FB Alpha 2012 CPS-2
+Saves\GuestProfile\config\remaps\FCEUmm
+Saves\GuestProfile\config\remaps\fuse
+Saves\GuestProfile\config\remaps\Gambatte
+Saves\GuestProfile\config\remaps\gpSP
+Saves\GuestProfile\config\remaps\mGBA
+Saves\GuestProfile\config\remaps\PCSX-ReARMed
+Saves\GuestProfile\config\remaps\PrBoom
+Saves\GuestProfile\config\remaps\scummvm
+Saves\GuestProfile\saves\MAME 2003-Plus
+Saves\GuestProfile\saves\PICO-8
+Saves\GuestProfile\saves\PrBoom
+Saves\GuestProfile\saves\ScummVM_Standalone
+Saves\GuestProfile\saves\TyrQuake
+Saves\GuestProfile\saves\MAME 2003-Plus\mame2003-plus
+Saves\GuestProfile\saves\MAME 2003-Plus\mame2003-plus\cfg
+Saves\GuestProfile\saves\PICO-8\.lexaloffle
+Saves\GuestProfile\saves\PICO-8\.lexaloffle\pico-8
+Saves\GuestProfile\saves\PrBoom\doomI
+Saves\GuestProfile\saves\PrBoom\doomII
+Saves\GuestProfile\saves\PrBoom\DoomPlutonia
+Saves\GuestProfile\saves\PrBoom\doomu
+Saves\GuestProfile\saves\PrBoom\SIGIL_v1_21
+Saves\GuestProfile\saves\PrBoom\TNT_Evilution
+Saves\GuestProfile\saves\TyrQuake\dopa
+Saves\GuestProfile\saves\TyrQuake\hipnotic
+Saves\GuestProfile\saves\TyrQuake\id1
+Saves\GuestProfile\saves\TyrQuake\rogue
+Saves\GuestProfile\theme\skin
+Saves\GuestProfile\theme\skin\extra
+Saves\Common\battery_logs
+App\240pSuite
+App\AdvanceMENU
+App\BatteryMonitorUI
+App\Clock
+App\Commander_Italic
+App\Expert_Mode
+App\FFplay
+App\Filter
+App\Gmu
+App\Green
+App\Guest_Mode
+App\Onion_Manual
+App\OtaUpdate
+App\PackageManager
+App\PixelReader
+App\PlayActivity
+App\RandomGamePicker
+App\RetroArch
+App\romscripts
+App\Screenshots_Viewer
+App\Search
+App\StartGameSwitcher
+App\Terminal
+App\ThemeSwitcher
+App\Tweaks
+App\PackageManager\data
+App\PackageManager\res
+App\PackageManager\data\App
+App\PackageManager\data\Emu
+App\PackageManager\data\RApp
+App\PackageManager\data\App\Activity Tracker
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)
+App\PackageManager\data\App\Battery Monitor
+App\PackageManager\data\App\Clock (Set emulated time)
+App\PackageManager\data\App\Display Calibration (240pSuite)
+App\PackageManager\data\App\Ebook Reader (PixelReader)
+App\PackageManager\data\App\Expert (Shortcut)
+App\PackageManager\data\App\File Explorer (DinguxCommander)
+App\PackageManager\data\App\Gallery (Screenshot viewer)
+App\PackageManager\data\App\GameSwitcher (Shortcut)
+App\PackageManager\data\App\Guest Mode
+App\PackageManager\data\App\List shortcuts (Filter+Refresh)
+App\PackageManager\data\App\Music Player (GMU)
+App\PackageManager\data\App\Onion OTA update
+App\PackageManager\data\App\PDF Reader (Green)
+App\PackageManager\data\App\Quick Guide
+App\PackageManager\data\App\Random Game
+App\PackageManager\data\App\RetroArch (Shortcut)
+App\PackageManager\data\App\Search (Find your games)
+App\PackageManager\data\App\Terminal (Developer tool)
+App\PackageManager\data\App\ThemeSwitcher
+App\PackageManager\data\App\Tweaks
+App\PackageManager\data\App\Video Player (FFplay)
+App\PackageManager\data\App\Activity Tracker\App
+App\PackageManager\data\App\Activity Tracker\App\PlayActivity
+App\PackageManager\data\App\Activity Tracker\App\PlayActivity\res
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\romscripts
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\language Korean files
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\mng_to_png
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\move_incompatible_Roms
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\move_roms_without_preview
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\mp4_to_mng
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\xml_to_lst_(info_files)
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\AdvanceMENU\tools\Roms_and_Medias_Management\mng_to_png\test_sample
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\romscripts\emu
+App\PackageManager\data\App\AdvanceMENU (Alternative frontend)\App\romscripts\rapp
+App\PackageManager\data\App\Battery Monitor\App
+App\PackageManager\data\App\Battery Monitor\App\BatteryMonitorUI
+App\PackageManager\data\App\Battery Monitor\App\BatteryMonitorUI\res
+App\PackageManager\data\App\Clock (Set emulated time)\App
+App\PackageManager\data\App\Clock (Set emulated time)\App\Clock
+App\PackageManager\data\App\Clock (Set emulated time)\App\romscripts
+App\PackageManager\data\App\Display Calibration (240pSuite)\App
+App\PackageManager\data\App\Display Calibration (240pSuite)\App\240pSuite
+App\PackageManager\data\App\Ebook Reader (PixelReader)\App
+App\PackageManager\data\App\Ebook Reader (PixelReader)\App\PixelReader
+App\PackageManager\data\App\Ebook Reader (PixelReader)\App\PixelReader\lib
+App\PackageManager\data\App\Ebook Reader (PixelReader)\App\PixelReader\resources
+App\PackageManager\data\App\Ebook Reader (PixelReader)\App\PixelReader\resources\fonts
+App\PackageManager\data\App\Expert (Shortcut)\App
+App\PackageManager\data\App\Expert (Shortcut)\App\Expert_Mode
+App\PackageManager\data\App\File Explorer (DinguxCommander)\App
+App\PackageManager\data\App\File Explorer (DinguxCommander)\App\Commander_Italic
+App\PackageManager\data\App\File Explorer (DinguxCommander)\App\Commander_Italic\res
+App\PackageManager\data\App\Gallery (Screenshot viewer)\App
+App\PackageManager\data\App\Gallery (Screenshot viewer)\App\Screenshots_Viewer
+App\PackageManager\data\App\GameSwitcher (Shortcut)\App
+App\PackageManager\data\App\GameSwitcher (Shortcut)\App\StartGameSwitcher
+App\PackageManager\data\App\Guest Mode\App
+App\PackageManager\data\App\Guest Mode\App\Guest_Mode
+App\PackageManager\data\App\Guest Mode\App\Guest_Mode\data
+App\PackageManager\data\App\List shortcuts (Filter+Refresh)\App
+App\PackageManager\data\App\List shortcuts (Filter+Refresh)\App\Filter
+App\PackageManager\data\App\Music Player (GMU)\App
+App\PackageManager\data\App\Music Player (GMU)\Media
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\decoders
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\frontends
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\lib
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\themes
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\themes\default-modern
+App\PackageManager\data\App\Music Player (GMU)\App\Gmu\themes\default-modern-large
+App\PackageManager\data\App\Music Player (GMU)\Media\Music
+App\PackageManager\data\App\Onion OTA update\App
+App\PackageManager\data\App\Onion OTA update\App\OtaUpdate
+App\PackageManager\data\App\PDF Reader (Green)\App
+App\PackageManager\data\App\PDF Reader (Green)\Media
+App\PackageManager\data\App\PDF Reader (Green)\App\Green
+App\PackageManager\data\App\PDF Reader (Green)\Media\PDF
+App\PackageManager\data\App\Quick Guide\App
+App\PackageManager\data\App\Quick Guide\App\Onion_Manual
+App\PackageManager\data\App\Random Game\App
+App\PackageManager\data\App\Random Game\App\RandomGamePicker
+App\PackageManager\data\App\Random Game\App\romscripts
+App\PackageManager\data\App\RetroArch (Shortcut)\App
+App\PackageManager\data\App\RetroArch (Shortcut)\App\RetroArch
+App\PackageManager\data\App\Search (Find your games)\App
+App\PackageManager\data\App\Search (Find your games)\App\Search
+App\PackageManager\data\App\Search (Find your games)\App\Search\data
+App\PackageManager\data\App\Search (Find your games)\App\Search\data\Imgs
+App\PackageManager\data\App\Terminal (Developer tool)\App
+App\PackageManager\data\App\Terminal (Developer tool)\App\Terminal
+App\PackageManager\data\App\ThemeSwitcher\App
+App\PackageManager\data\App\ThemeSwitcher\App\ThemeSwitcher
+App\PackageManager\data\App\Tweaks\App
+App\PackageManager\data\App\Tweaks\App\Tweaks
+App\PackageManager\data\App\Video Player (FFplay)\App
+App\PackageManager\data\App\Video Player (FFplay)\Media
+App\PackageManager\data\App\Video Player (FFplay)\App\FFplay
+App\PackageManager\data\App\Video Player (FFplay)\Media\Videos
+App\PackageManager\data\Emu\Amstrad - CPC (CrocoDS)
+App\PackageManager\data\Emu\Arcade (MAME 2003-Plus)
+App\PackageManager\data\Emu\Atari - 2600 (Stella 2014)
+App\PackageManager\data\Emu\Atari - 5200 (a5200)
+App\PackageManager\data\Emu\Atari - 7800 (ProSystem)
+App\PackageManager\data\Emu\Atari - Lynx (Handy)
+App\PackageManager\data\Emu\Bandai - Sufami Turbo (snes9x)
+App\PackageManager\data\Emu\Bandai - WonderSwanColor (B. Cygne)
+App\PackageManager\data\Emu\Capcom - CPS1 (FB Alpha 2012 CPS-1)
+App\PackageManager\data\Emu\Capcom - CPS2 (FB Alpha 2012 CPS-2)
+App\PackageManager\data\Emu\Capcom - CPS3 (FB Alpha 2012 CPS-3)
+App\PackageManager\data\Emu\Coleco - ColecoVision (blueMSX)
+App\PackageManager\data\Emu\Commodore - Amiga (PUAE 2021)
+App\PackageManager\data\Emu\Commodore - C64 (VICE x64)
+App\PackageManager\data\Emu\Commodore - VIC-20 (VICE xvic)
+App\PackageManager\data\Emu\Fairchild - ChannelF (FreeChaF)
+App\PackageManager\data\Emu\GCE - Vectrex (vecx)
+App\PackageManager\data\Emu\Magnavox - Odyssey2 (O2EM)
+App\PackageManager\data\Emu\Mattel - Intellivision (FreeIntv)
+App\PackageManager\data\Emu\Mega Duck (SameDuck)
+App\PackageManager\data\Emu\Microsoft - DOS (DOSBox-Pure)
+App\PackageManager\data\Emu\Microsoft - MSX (blueMSX)
+App\PackageManager\data\Emu\NEC - SuperGrafx (Beetle SuperGrafx)
+App\PackageManager\data\Emu\NEC - TurboGrafx CD (Beetle PCE FAST)
+App\PackageManager\data\Emu\NEC - TurboGrafx-16 (Beetle PCE FAST)
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)
+App\PackageManager\data\Emu\Nintendo - Famicom Disk Syst. (FCEUmm)
+App\PackageManager\data\Emu\Nintendo - Game & Watch (gw)
+App\PackageManager\data\Emu\Nintendo - Game Boy (Gambatte)
+App\PackageManager\data\Emu\Nintendo - Game Boy Color (Gambatte)
+App\PackageManager\data\Emu\Nintendo - GBA (mGBA)
+App\PackageManager\data\Emu\Nintendo - NES (FCEUmm)
+App\PackageManager\data\Emu\Nintendo - Pokemon Mini (PokeMini)
+App\PackageManager\data\Emu\Nintendo - Satellaview (Snes9x)
+App\PackageManager\data\Emu\Nintendo - SNES (Beetle Supafaust)
+App\PackageManager\data\Emu\Nintendo - Super Game Boy (mGBA)
+App\PackageManager\data\Emu\Nintendo - Virtual Boy (Beetle VB)
+App\PackageManager\data\Emu\Phillips - Videopac+ (O2EM)
+App\PackageManager\data\Emu\PICO-8 (Fake8)
+App\PackageManager\data\Emu\Ports Collection
+App\PackageManager\data\Emu\SCUMM (ScummVM)
+App\PackageManager\data\Emu\Sega - 32X (PicoDrive)
+App\PackageManager\data\Emu\Sega - CD (PicoDrive)
+App\PackageManager\data\Emu\Sega - Game Gear (PicoDrive)
+App\PackageManager\data\Emu\Sega - Genesis (PicoDrive)
+App\PackageManager\data\Emu\Sega - Master System (PicoDrive)
+App\PackageManager\data\Emu\Sega - SG-1000 (Gearsystem)
+App\PackageManager\data\Emu\Sinclair - ZX Spectrum (Fuse)
+App\PackageManager\data\Emu\SNK - Neo Geo (fbalpha2012 neogeo)
+App\PackageManager\data\Emu\SNK - Neo Geo CD (NeoCD)
+App\PackageManager\data\Emu\SNK - Neo Geo Pocket Color (B. NeoPop)
+App\PackageManager\data\Emu\Sony - PlayStation (PCSX ReARMed)
+App\PackageManager\data\Emu\TIC-80 (TIC-80)
+App\PackageManager\data\Emu\Watara - Supervision (Potator)
+App\PackageManager\data\Emu\Amstrad - CPC (CrocoDS)\Emu
+App\PackageManager\data\Emu\Amstrad - CPC (CrocoDS)\Roms
+App\PackageManager\data\Emu\Amstrad - CPC (CrocoDS)\Emu\CPC
+App\PackageManager\data\Emu\Amstrad - CPC (CrocoDS)\Roms\CPC
+App\PackageManager\data\Emu\Arcade (MAME 2003-Plus)\Emu
+App\PackageManager\data\Emu\Arcade (MAME 2003-Plus)\Roms
+App\PackageManager\data\Emu\Arcade (MAME 2003-Plus)\Emu\ARCADE
+App\PackageManager\data\Emu\Arcade (MAME 2003-Plus)\Roms\ARCADE
+App\PackageManager\data\Emu\Atari - 2600 (Stella 2014)\Emu
+App\PackageManager\data\Emu\Atari - 2600 (Stella 2014)\Roms
+App\PackageManager\data\Emu\Atari - 2600 (Stella 2014)\Emu\ATARI
+App\PackageManager\data\Emu\Atari - 2600 (Stella 2014)\Roms\ATARI
+App\PackageManager\data\Emu\Atari - 5200 (a5200)\Emu
+App\PackageManager\data\Emu\Atari - 5200 (a5200)\Roms
+App\PackageManager\data\Emu\Atari - 5200 (a5200)\Emu\FIFTYTWOHUNDRED
+App\PackageManager\data\Emu\Atari - 5200 (a5200)\Roms\FIFTYTWOHUNDRED
+App\PackageManager\data\Emu\Atari - 7800 (ProSystem)\Emu
+App\PackageManager\data\Emu\Atari - 7800 (ProSystem)\Roms
+App\PackageManager\data\Emu\Atari - 7800 (ProSystem)\Emu\SEVENTYEIGHTHUNDRED
+App\PackageManager\data\Emu\Atari - 7800 (ProSystem)\Roms\SEVENTYEIGHTHUNDRED
+App\PackageManager\data\Emu\Atari - Lynx (Handy)\Emu
+App\PackageManager\data\Emu\Atari - Lynx (Handy)\Roms
+App\PackageManager\data\Emu\Atari - Lynx (Handy)\Emu\LYNX
+App\PackageManager\data\Emu\Atari - Lynx (Handy)\Roms\LYNX
+App\PackageManager\data\Emu\Bandai - Sufami Turbo (snes9x)\Emu
+App\PackageManager\data\Emu\Bandai - Sufami Turbo (snes9x)\Roms
+App\PackageManager\data\Emu\Bandai - Sufami Turbo (snes9x)\Emu\SUFAMI
+App\PackageManager\data\Emu\Bandai - Sufami Turbo (snes9x)\Roms\SUFAMI
+App\PackageManager\data\Emu\Bandai - WonderSwanColor (B. Cygne)\Emu
+App\PackageManager\data\Emu\Bandai - WonderSwanColor (B. Cygne)\Roms
+App\PackageManager\data\Emu\Bandai - WonderSwanColor (B. Cygne)\Emu\WS
+App\PackageManager\data\Emu\Bandai - WonderSwanColor (B. Cygne)\Roms\WS
+App\PackageManager\data\Emu\Capcom - CPS1 (FB Alpha 2012 CPS-1)\Emu
+App\PackageManager\data\Emu\Capcom - CPS1 (FB Alpha 2012 CPS-1)\Roms
+App\PackageManager\data\Emu\Capcom - CPS1 (FB Alpha 2012 CPS-1)\Emu\CPS1
+App\PackageManager\data\Emu\Capcom - CPS1 (FB Alpha 2012 CPS-1)\Roms\CPS1
+App\PackageManager\data\Emu\Capcom - CPS2 (FB Alpha 2012 CPS-2)\Emu
+App\PackageManager\data\Emu\Capcom - CPS2 (FB Alpha 2012 CPS-2)\Roms
+App\PackageManager\data\Emu\Capcom - CPS2 (FB Alpha 2012 CPS-2)\Emu\CPS2
+App\PackageManager\data\Emu\Capcom - CPS2 (FB Alpha 2012 CPS-2)\Roms\CPS2
+App\PackageManager\data\Emu\Capcom - CPS3 (FB Alpha 2012 CPS-3)\Emu
+App\PackageManager\data\Emu\Capcom - CPS3 (FB Alpha 2012 CPS-3)\Roms
+App\PackageManager\data\Emu\Capcom - CPS3 (FB Alpha 2012 CPS-3)\Emu\CPS3
+App\PackageManager\data\Emu\Capcom - CPS3 (FB Alpha 2012 CPS-3)\Roms\CPS3
+App\PackageManager\data\Emu\Coleco - ColecoVision (blueMSX)\Emu
+App\PackageManager\data\Emu\Coleco - ColecoVision (blueMSX)\Roms
+App\PackageManager\data\Emu\Coleco - ColecoVision (blueMSX)\Emu\COLECO
+App\PackageManager\data\Emu\Coleco - ColecoVision (blueMSX)\Roms\COLECO
+App\PackageManager\data\Emu\Commodore - Amiga (PUAE 2021)\Emu
+App\PackageManager\data\Emu\Commodore - Amiga (PUAE 2021)\Roms
+App\PackageManager\data\Emu\Commodore - Amiga (PUAE 2021)\Emu\AMIGA
+App\PackageManager\data\Emu\Commodore - Amiga (PUAE 2021)\Roms\AMIGA
+App\PackageManager\data\Emu\Commodore - C64 (VICE x64)\Emu
+App\PackageManager\data\Emu\Commodore - C64 (VICE x64)\Roms
+App\PackageManager\data\Emu\Commodore - C64 (VICE x64)\Emu\COMMODORE
+App\PackageManager\data\Emu\Commodore - C64 (VICE x64)\Roms\COMMODORE
+App\PackageManager\data\Emu\Commodore - VIC-20 (VICE xvic)\Emu
+App\PackageManager\data\Emu\Commodore - VIC-20 (VICE xvic)\Roms
+App\PackageManager\data\Emu\Commodore - VIC-20 (VICE xvic)\Emu\VIC20
+App\PackageManager\data\Emu\Commodore - VIC-20 (VICE xvic)\Roms\VIC20
+App\PackageManager\data\Emu\Fairchild - ChannelF (FreeChaF)\Emu
+App\PackageManager\data\Emu\Fairchild - ChannelF (FreeChaF)\Roms
+App\PackageManager\data\Emu\Fairchild - ChannelF (FreeChaF)\Emu\FAIRCHILD
+App\PackageManager\data\Emu\Fairchild - ChannelF (FreeChaF)\Roms\FAIRCHILD
+App\PackageManager\data\Emu\GCE - Vectrex (vecx)\Emu
+App\PackageManager\data\Emu\GCE - Vectrex (vecx)\Roms
+App\PackageManager\data\Emu\GCE - Vectrex (vecx)\Emu\VECTREX
+App\PackageManager\data\Emu\GCE - Vectrex (vecx)\Roms\VECTREX
+App\PackageManager\data\Emu\Magnavox - Odyssey2 (O2EM)\Emu
+App\PackageManager\data\Emu\Magnavox - Odyssey2 (O2EM)\Roms
+App\PackageManager\data\Emu\Magnavox - Odyssey2 (O2EM)\Emu\ODYSSEY
+App\PackageManager\data\Emu\Magnavox - Odyssey2 (O2EM)\Roms\ODYSSEY
+App\PackageManager\data\Emu\Mattel - Intellivision (FreeIntv)\Emu
+App\PackageManager\data\Emu\Mattel - Intellivision (FreeIntv)\Roms
+App\PackageManager\data\Emu\Mattel - Intellivision (FreeIntv)\Emu\INTELLIVISION
+App\PackageManager\data\Emu\Mattel - Intellivision (FreeIntv)\Roms\INTELLIVISION
+App\PackageManager\data\Emu\Mega Duck (SameDuck)\Emu
+App\PackageManager\data\Emu\Mega Duck (SameDuck)\Roms
+App\PackageManager\data\Emu\Mega Duck (SameDuck)\Emu\MEGADUCK
+App\PackageManager\data\Emu\Mega Duck (SameDuck)\Roms\MEGADUCK
+App\PackageManager\data\Emu\Microsoft - DOS (DOSBox-Pure)\Emu
+App\PackageManager\data\Emu\Microsoft - DOS (DOSBox-Pure)\Roms
+App\PackageManager\data\Emu\Microsoft - DOS (DOSBox-Pure)\Emu\DOS
+App\PackageManager\data\Emu\Microsoft - DOS (DOSBox-Pure)\Roms\DOS
+App\PackageManager\data\Emu\Microsoft - MSX (blueMSX)\Emu
+App\PackageManager\data\Emu\Microsoft - MSX (blueMSX)\Roms
+App\PackageManager\data\Emu\Microsoft - MSX (blueMSX)\Emu\MSX
+App\PackageManager\data\Emu\Microsoft - MSX (blueMSX)\Roms\MSX
+App\PackageManager\data\Emu\NEC - SuperGrafx (Beetle SuperGrafx)\Emu
+App\PackageManager\data\Emu\NEC - SuperGrafx (Beetle SuperGrafx)\Roms
+App\PackageManager\data\Emu\NEC - SuperGrafx (Beetle SuperGrafx)\Emu\SGFX
+App\PackageManager\data\Emu\NEC - SuperGrafx (Beetle SuperGrafx)\Roms\SGFX
+App\PackageManager\data\Emu\NEC - TurboGrafx CD (Beetle PCE FAST)\Emu
+App\PackageManager\data\Emu\NEC - TurboGrafx CD (Beetle PCE FAST)\Roms
+App\PackageManager\data\Emu\NEC - TurboGrafx CD (Beetle PCE FAST)\Emu\PCECD
+App\PackageManager\data\Emu\NEC - TurboGrafx CD (Beetle PCE FAST)\Roms\PCECD
+App\PackageManager\data\Emu\NEC - TurboGrafx-16 (Beetle PCE FAST)\Emu
+App\PackageManager\data\Emu\NEC - TurboGrafx-16 (Beetle PCE FAST)\Roms
+App\PackageManager\data\Emu\NEC - TurboGrafx-16 (Beetle PCE FAST)\Emu\PCE
+App\PackageManager\data\Emu\NEC - TurboGrafx-16 (Beetle PCE FAST)\Roms\PCE
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Roms
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\config
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\libs
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\system
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\font
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\lang
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\logo
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\menu
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\overlay
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\pen
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\1
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\2
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\3
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\4
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\5
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\6
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\7
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\8
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_640\9
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\1
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\2
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\3
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\4
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\5
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\6
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\bg_752\7
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\menu\640
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\menu\640\1
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\menu\640\2
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Emu\NDS\resources\menu\640\3
+App\PackageManager\data\Emu\Nintendo - DS (Drastic)\Roms\NDS
+App\PackageManager\data\Emu\Nintendo - Famicom Disk Syst. (FCEUmm)\Emu
+App\PackageManager\data\Emu\Nintendo - Famicom Disk Syst. (FCEUmm)\Roms
+App\PackageManager\data\Emu\Nintendo - Famicom Disk Syst. (FCEUmm)\Emu\FDS
+App\PackageManager\data\Emu\Nintendo - Famicom Disk Syst. (FCEUmm)\Roms\FDS
+App\PackageManager\data\Emu\Nintendo - GBA (mGBA)\Emu
+App\PackageManager\data\Emu\Nintendo - GBA (mGBA)\Roms
+App\PackageManager\data\Emu\Nintendo - GBA (mGBA)\Emu\GBA
+App\PackageManager\data\Emu\Nintendo - GBA (mGBA)\Roms\GBA
+App\PackageManager\data\Emu\Nintendo - Game & Watch (gw)\Emu
+App\PackageManager\data\Emu\Nintendo - Game & Watch (gw)\Roms
+App\PackageManager\data\Emu\Nintendo - Game & Watch (gw)\Emu\GW
+App\PackageManager\data\Emu\Nintendo - Game & Watch (gw)\Roms\GW
+App\PackageManager\data\Emu\Nintendo - Game Boy (Gambatte)\Emu
+App\PackageManager\data\Emu\Nintendo - Game Boy (Gambatte)\Roms
+App\PackageManager\data\Emu\Nintendo - Game Boy (Gambatte)\Emu\GB
+App\PackageManager\data\Emu\Nintendo - Game Boy (Gambatte)\Roms\GB
+App\PackageManager\data\Emu\Nintendo - Game Boy Color (Gambatte)\Emu
+App\PackageManager\data\Emu\Nintendo - Game Boy Color (Gambatte)\Roms
+App\PackageManager\data\Emu\Nintendo - Game Boy Color (Gambatte)\Emu\GBC
+App\PackageManager\data\Emu\Nintendo - Game Boy Color (Gambatte)\Roms\GBC
+App\PackageManager\data\Emu\Nintendo - NES (FCEUmm)\Emu
+App\PackageManager\data\Emu\Nintendo - NES (FCEUmm)\Roms
+App\PackageManager\data\Emu\Nintendo - NES (FCEUmm)\Emu\FC
+App\PackageManager\data\Emu\Nintendo - NES (FCEUmm)\Roms\FC
+App\PackageManager\data\Emu\Nintendo - Pokemon Mini (PokeMini)\Emu
+App\PackageManager\data\Emu\Nintendo - Pokemon Mini (PokeMini)\Roms
+App\PackageManager\data\Emu\Nintendo - Pokemon Mini (PokeMini)\Emu\POKE
+App\PackageManager\data\Emu\Nintendo - Pokemon Mini (PokeMini)\Roms\POKE
+App\PackageManager\data\Emu\Nintendo - SNES (Beetle Supafaust)\Emu
+App\PackageManager\data\Emu\Nintendo - SNES (Beetle Supafaust)\Roms
+App\PackageManager\data\Emu\Nintendo - SNES (Beetle Supafaust)\Emu\SFC
+App\PackageManager\data\Emu\Nintendo - SNES (Beetle Supafaust)\Roms\SFC
+App\PackageManager\data\Emu\Nintendo - Satellaview (Snes9x)\Emu
+App\PackageManager\data\Emu\Nintendo - Satellaview (Snes9x)\Roms
+App\PackageManager\data\Emu\Nintendo - Satellaview (Snes9x)\Emu\SATELLAVIEW
+App\PackageManager\data\Emu\Nintendo - Satellaview (Snes9x)\Roms\SATELLAVIEW
+App\PackageManager\data\Emu\Nintendo - Super Game Boy (mGBA)\Emu
+App\PackageManager\data\Emu\Nintendo - Super Game Boy (mGBA)\Roms
+App\PackageManager\data\Emu\Nintendo - Super Game Boy (mGBA)\Emu\SGB
+App\PackageManager\data\Emu\Nintendo - Super Game Boy (mGBA)\Roms\SGB
+App\PackageManager\data\Emu\Nintendo - Virtual Boy (Beetle VB)\Emu
+App\PackageManager\data\Emu\Nintendo - Virtual Boy (Beetle VB)\Roms
+App\PackageManager\data\Emu\Nintendo - Virtual Boy (Beetle VB)\Emu\VB
+App\PackageManager\data\Emu\Nintendo - Virtual Boy (Beetle VB)\Roms\VB
+App\PackageManager\data\Emu\PICO-8 (Fake8)\Emu
+App\PackageManager\data\Emu\PICO-8 (Fake8)\Roms
+App\PackageManager\data\Emu\PICO-8 (Fake8)\Emu\PICO
+App\PackageManager\data\Emu\PICO-8 (Fake8)\Roms\PICO
+App\PackageManager\data\Emu\Phillips - Videopac+ (O2EM)\Emu
+App\PackageManager\data\Emu\Phillips - Videopac+ (O2EM)\Roms
+App\PackageManager\data\Emu\Phillips - Videopac+ (O2EM)\Emu\VIDEOPAC
+App\PackageManager\data\Emu\Phillips - Videopac+ (O2EM)\Roms\VIDEOPAC
+App\PackageManager\data\Emu\Ports Collection\Emu
+App\PackageManager\data\Emu\Ports Collection\Roms
+App\PackageManager\data\Emu\Ports Collection\Emu\PORTS
+App\PackageManager\data\Emu\Ports Collection\Emu\PORTS\romscripts
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS\Imgs
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS\Manuals
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS\Shortcuts
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS\Shortcuts\Action
+App\PackageManager\data\Emu\Ports Collection\Roms\PORTS\Shortcuts\Puzzle games
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Emu
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Roms
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Emu\SCUMMVM
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Emu\SCUMMVM\romscripts
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Roms\SCUMMVM
+App\PackageManager\data\Emu\SCUMM (ScummVM)\Roms\SCUMMVM\Shortcuts
+App\PackageManager\data\Emu\SNK - Neo Geo (fbalpha2012 neogeo)\Emu
+App\PackageManager\data\Emu\SNK - Neo Geo (fbalpha2012 neogeo)\Roms
+App\PackageManager\data\Emu\SNK - Neo Geo (fbalpha2012 neogeo)\Emu\NEOGEO
+App\PackageManager\data\Emu\SNK - Neo Geo (fbalpha2012 neogeo)\Roms\NEOGEO
+App\PackageManager\data\Emu\SNK - Neo Geo CD (NeoCD)\Emu
+App\PackageManager\data\Emu\SNK - Neo Geo CD (NeoCD)\Roms
+App\PackageManager\data\Emu\SNK - Neo Geo CD (NeoCD)\Emu\NEOCD
+App\PackageManager\data\Emu\SNK - Neo Geo CD (NeoCD)\Roms\NEOCD
+App\PackageManager\data\Emu\SNK - Neo Geo Pocket Color (B. NeoPop)\Emu
+App\PackageManager\data\Emu\SNK - Neo Geo Pocket Color (B. NeoPop)\Roms
+App\PackageManager\data\Emu\SNK - Neo Geo Pocket Color (B. NeoPop)\Emu\NGP
+App\PackageManager\data\Emu\SNK - Neo Geo Pocket Color (B. NeoPop)\Roms\NGP
+App\PackageManager\data\Emu\Sega - 32X (PicoDrive)\Emu
+App\PackageManager\data\Emu\Sega - 32X (PicoDrive)\Roms
+App\PackageManager\data\Emu\Sega - 32X (PicoDrive)\Emu\THIRTYTWOX
+App\PackageManager\data\Emu\Sega - 32X (PicoDrive)\Roms\THIRTYTWOX
+App\PackageManager\data\Emu\Sega - CD (PicoDrive)\Emu
+App\PackageManager\data\Emu\Sega - CD (PicoDrive)\Roms
+App\PackageManager\data\Emu\Sega - CD (PicoDrive)\Emu\SEGACD
+App\PackageManager\data\Emu\Sega - CD (PicoDrive)\Roms\SEGACD
+App\PackageManager\data\Emu\Sega - Game Gear (PicoDrive)\Emu
+App\PackageManager\data\Emu\Sega - Game Gear (PicoDrive)\Roms
+App\PackageManager\data\Emu\Sega - Game Gear (PicoDrive)\Emu\GG
+App\PackageManager\data\Emu\Sega - Game Gear (PicoDrive)\Roms\GG
+App\PackageManager\data\Emu\Sega - Genesis (PicoDrive)\Emu
+App\PackageManager\data\Emu\Sega - Genesis (PicoDrive)\Roms
+App\PackageManager\data\Emu\Sega - Genesis (PicoDrive)\Emu\MD
+App\PackageManager\data\Emu\Sega - Genesis (PicoDrive)\Roms\MD
+App\PackageManager\data\Emu\Sega - Master System (PicoDrive)\Emu
+App\PackageManager\data\Emu\Sega - Master System (PicoDrive)\Roms
+App\PackageManager\data\Emu\Sega - Master System (PicoDrive)\Emu\MS
+App\PackageManager\data\Emu\Sega - Master System (PicoDrive)\Roms\MS
+App\PackageManager\data\Emu\Sega - SG-1000 (Gearsystem)\Emu
+App\PackageManager\data\Emu\Sega - SG-1000 (Gearsystem)\Roms
+App\PackageManager\data\Emu\Sega - SG-1000 (Gearsystem)\Emu\SEGASGONE
+App\PackageManager\data\Emu\Sega - SG-1000 (Gearsystem)\Roms\SEGASGONE
+App\PackageManager\data\Emu\Sinclair - ZX Spectrum (Fuse)\Emu
+App\PackageManager\data\Emu\Sinclair - ZX Spectrum (Fuse)\Roms
+App\PackageManager\data\Emu\Sinclair - ZX Spectrum (Fuse)\Emu\ZXS
+App\PackageManager\data\Emu\Sinclair - ZX Spectrum (Fuse)\Roms\ZXS
+App\PackageManager\data\Emu\Sony - PlayStation (PCSX ReARMed)\Emu
+App\PackageManager\data\Emu\Sony - PlayStation (PCSX ReARMed)\Roms
+App\PackageManager\data\Emu\Sony - PlayStation (PCSX ReARMed)\Emu\PSX
+App\PackageManager\data\Emu\Sony - PlayStation (PCSX ReARMed)\Roms\PS
+App\PackageManager\data\Emu\TIC-80 (TIC-80)\Emu
+App\PackageManager\data\Emu\TIC-80 (TIC-80)\Roms
+App\PackageManager\data\Emu\TIC-80 (TIC-80)\Emu\TIC
+App\PackageManager\data\Emu\TIC-80 (TIC-80)\Roms\TIC
+App\PackageManager\data\Emu\Watara - Supervision (Potator)\Emu
+App\PackageManager\data\Emu\Watara - Supervision (Potator)\Roms
+App\PackageManager\data\Emu\Watara - Supervision (Potator)\Emu\SUPERVISION
+App\PackageManager\data\Emu\Watara - Supervision (Potator)\Roms\SUPERVISION
+App\PackageManager\data\RApp\.Arcade (Final Burn Alpha)
+App\PackageManager\data\RApp\.Arcade (MAME 2003)
+App\PackageManager\data\RApp\.Java - J2ME (SquirrelJME)
+App\PackageManager\data\RApp\.Microsoft - MSX (blueMSX)
+App\PackageManager\data\RApp\3DO (Opera)
+App\PackageManager\data\RApp\Amstrad - CPC (Caprice32)
+App\PackageManager\data\RApp\Arcade - LaserDisk (Daphne)
+App\PackageManager\data\RApp\Arcade (AdvanceMame)
+App\PackageManager\data\RApp\Arcade (FB Alpha 2012)
+App\PackageManager\data\RApp\Arcade (Final Burn Neo)
+App\PackageManager\data\RApp\Arcade (M.B.A-mini)
+App\PackageManager\data\RApp\Arcade (MAME 2000)
+App\PackageManager\data\RApp\Arcade (MAME 2003-xtreme)
+App\PackageManager\data\RApp\Arduboy (Arduous)
+App\PackageManager\data\RApp\Atari - 5200 (atari800)
+App\PackageManager\data\RApp\Atari - 800 (atari800)
+App\PackageManager\data\RApp\Atari - Jaguar (Virtual Jaguar)
+App\PackageManager\data\RApp\Atari - Lynx (Mednafen Lynx)
+App\PackageManager\data\RApp\Atari - ST (hatari)
+App\PackageManager\data\RApp\BK - 0010 (BK)
+App\PackageManager\data\RApp\Commodore - Amiga (PUAE 2021 xtreme)
+App\PackageManager\data\RApp\Commodore - Amiga (uae4arm)
+App\PackageManager\data\RApp\Commodore - Amiga CD32 (uae4arm)
+App\PackageManager\data\RApp\Commodore - C64 (Frodo)
+App\PackageManager\data\RApp\Commodore - Sharp X1 (x1)
+App\PackageManager\data\RApp\Game engine - ChaiLove (ChaiLove)
+App\PackageManager\data\RApp\Game engine - EasyRPG (EasyRPG)
+App\PackageManager\data\RApp\Game engine - LÖVE (Lutro)
+App\PackageManager\data\RApp\Game engine - LowRes NX (LowRes NX)
+App\PackageManager\data\RApp\Game engine - MicroW8 (Uw8)
+App\PackageManager\data\RApp\Game engine - Open Beats of Rage
+App\PackageManager\data\RApp\Game engine - PuzzleScript (PuzzleScript)
+App\PackageManager\data\RApp\Game Music Emu (GME)
+App\PackageManager\data\RApp\Microsoft - DOS (DOSBox-Pure 0.9.7)
+App\PackageManager\data\RApp\Microsoft - MSX (fMSX)
+App\PackageManager\data\RApp\NEC - PC-8000 (Quasi88)
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II Kai)
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II)
+App\PackageManager\data\RApp\NEC - PC-FX (Mednafen PC-FX)
+App\PackageManager\data\RApp\NEC - TurboGrafx-16 (Beetle PCE)
+App\PackageManager\data\RApp\Nintendo - GB (Gearboy)
+App\PackageManager\data\RApp\Nintendo - GB (TGB Dual)
+App\PackageManager\data\RApp\Nintendo - GBA (gpSP)
+App\PackageManager\data\RApp\Nintendo - GBA (Mednafen GBA)
+App\PackageManager\data\RApp\Nintendo - GBA (Meteor)
+App\PackageManager\data\RApp\Nintendo - GBA (VBA Next)
+App\PackageManager\data\RApp\Nintendo - GBA (VBA-M)
+App\PackageManager\data\RApp\Nintendo - GBC (Gearboy)
+App\PackageManager\data\RApp\Nintendo - GBC (TGB Dual)
+App\PackageManager\data\RApp\Nintendo - NES (Nestopia)
+App\PackageManager\data\RApp\Nintendo - SNES (ChimeraSNES)
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2002)
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005 Plus)
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005)
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2010)
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x)
+App\PackageManager\data\RApp\Palm OS - m515 (mu)
+App\PackageManager\data\RApp\PICO-8 (Fake8 standalone)
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)
+App\PackageManager\data\RApp\Sega - Game Gear (Gearsystem)
+App\PackageManager\data\RApp\Sega - Game Gear (Genesis Plus GX)
+App\PackageManager\data\RApp\Sega - Genesis (Genesis Plus GX)
+App\PackageManager\data\RApp\Sega - Master System (Gearsystem)
+App\PackageManager\data\RApp\Sega - Master System (Genesis Plus GX)
+App\PackageManager\data\RApp\Sega - Roms Hacks (Genesis Plus GX)
+App\PackageManager\data\RApp\Sega - Sega CD (Genesis Plus GX)
+App\PackageManager\data\RApp\Sega - Visual Memory Unit (VeMUlator)
+App\PackageManager\data\RApp\Sharp - X68000 (PX68k)
+App\PackageManager\data\RApp\Sinclair - ZX81 (81)
+App\PackageManager\data\RApp\SNK - Neo Geo (GnGeo)
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)
+App\PackageManager\data\RApp\Sony - PlayStation (SwanStation)
+App\PackageManager\data\RApp\Texas Instruments TI-83 (Numero)
+App\PackageManager\data\RApp\Thomson - MOTO (Theodore)
+App\PackageManager\data\RApp\Uzebox (Uzem)
+App\PackageManager\data\RApp\.Arcade (Final Burn Alpha)\RApp
+App\PackageManager\data\RApp\.Arcade (Final Burn Alpha)\Roms
+App\PackageManager\data\RApp\.Arcade (Final Burn Alpha)\RApp\ARCADE
+App\PackageManager\data\RApp\.Arcade (Final Burn Alpha)\Roms\FBALPHA
+App\PackageManager\data\RApp\.Arcade (MAME 2003)\RApp
+App\PackageManager\data\RApp\.Arcade (MAME 2003)\Roms
+App\PackageManager\data\RApp\.Arcade (MAME 2003)\RApp\mame2003
+App\PackageManager\data\RApp\.Arcade (MAME 2003)\Roms\MAME2003
+App\PackageManager\data\RApp\.Java - J2ME (SquirrelJME)\RApp
+App\PackageManager\data\RApp\.Java - J2ME (SquirrelJME)\Roms
+App\PackageManager\data\RApp\.Java - J2ME (SquirrelJME)\RApp\sqirreljme
+App\PackageManager\data\RApp\.Java - J2ME (SquirrelJME)\Roms\JAVA
+App\PackageManager\data\RApp\.Microsoft - MSX (blueMSX)\RApp
+App\PackageManager\data\RApp\.Microsoft - MSX (blueMSX)\Roms
+App\PackageManager\data\RApp\.Microsoft - MSX (blueMSX)\RApp\blueMSX
+App\PackageManager\data\RApp\.Microsoft - MSX (blueMSX)\Roms\MSX
+App\PackageManager\data\RApp\3DO (Opera)\RApp
+App\PackageManager\data\RApp\3DO (Opera)\Roms
+App\PackageManager\data\RApp\3DO (Opera)\RApp\opera
+App\PackageManager\data\RApp\3DO (Opera)\Roms\PANASONIC
+App\PackageManager\data\RApp\Amstrad - CPC (Caprice32)\RApp
+App\PackageManager\data\RApp\Amstrad - CPC (Caprice32)\Roms
+App\PackageManager\data\RApp\Amstrad - CPC (Caprice32)\RApp\CPC
+App\PackageManager\data\RApp\Amstrad - CPC (Caprice32)\Roms\CPC
+App\PackageManager\data\RApp\Arcade (AdvanceMame)\RApp
+App\PackageManager\data\RApp\Arcade (AdvanceMame)\Roms
+App\PackageManager\data\RApp\Arcade (AdvanceMame)\RApp\advancemame
+App\PackageManager\data\RApp\Arcade (AdvanceMame)\Roms\ADVMAME
+App\PackageManager\data\RApp\Arcade (AdvanceMame)\Roms\ADVMAME\Snaps
+App\PackageManager\data\RApp\Arcade (FB Alpha 2012)\RApp
+App\PackageManager\data\RApp\Arcade (FB Alpha 2012)\Roms
+App\PackageManager\data\RApp\Arcade (FB Alpha 2012)\RApp\FBA2012
+App\PackageManager\data\RApp\Arcade (FB Alpha 2012)\Roms\FBA2012
+App\PackageManager\data\RApp\Arcade (Final Burn Neo)\RApp
+App\PackageManager\data\RApp\Arcade (Final Burn Neo)\Roms
+App\PackageManager\data\RApp\Arcade (Final Burn Neo)\RApp\fbneo
+App\PackageManager\data\RApp\Arcade (Final Burn Neo)\Roms\FBNEO
+App\PackageManager\data\RApp\Arcade (M.B.A-mini)\RApp
+App\PackageManager\data\RApp\Arcade (M.B.A-mini)\Roms
+App\PackageManager\data\RApp\Arcade (M.B.A-mini)\RApp\mba-mini
+App\PackageManager\data\RApp\Arcade (M.B.A-mini)\Roms\MBA
+App\PackageManager\data\RApp\Arcade (MAME 2000)\RApp
+App\PackageManager\data\RApp\Arcade (MAME 2000)\Roms
+App\PackageManager\data\RApp\Arcade (MAME 2000)\RApp\mame2000
+App\PackageManager\data\RApp\Arcade (MAME 2000)\Roms\MAME2000
+App\PackageManager\data\RApp\Arcade (MAME 2003-xtreme)\RApp
+App\PackageManager\data\RApp\Arcade (MAME 2003-xtreme)\Roms
+App\PackageManager\data\RApp\Arcade (MAME 2003-xtreme)\RApp\mame2003-xtreme
+App\PackageManager\data\RApp\Arcade (MAME 2003-xtreme)\Roms\ARCADE
+App\PackageManager\data\RApp\Arcade - LaserDisk (Daphne)\RApp
+App\PackageManager\data\RApp\Arcade - LaserDisk (Daphne)\Roms
+App\PackageManager\data\RApp\Arcade - LaserDisk (Daphne)\RApp\DAPHNE
+App\PackageManager\data\RApp\Arcade - LaserDisk (Daphne)\Roms\DAPHNE
+App\PackageManager\data\RApp\Arduboy (Arduous)\RApp
+App\PackageManager\data\RApp\Arduboy (Arduous)\Roms
+App\PackageManager\data\RApp\Arduboy (Arduous)\RApp\arduous
+App\PackageManager\data\RApp\Arduboy (Arduous)\Roms\ARDUBOY
+App\PackageManager\data\RApp\Atari - 5200 (atari800)\RApp
+App\PackageManager\data\RApp\Atari - 5200 (atari800)\Roms
+App\PackageManager\data\RApp\Atari - 5200 (atari800)\RApp\atari5200
+App\PackageManager\data\RApp\Atari - 5200 (atari800)\Roms\FIFTYTWOHUNDRED
+App\PackageManager\data\RApp\Atari - 800 (atari800)\RApp
+App\PackageManager\data\RApp\Atari - 800 (atari800)\Roms
+App\PackageManager\data\RApp\Atari - 800 (atari800)\RApp\atari800
+App\PackageManager\data\RApp\Atari - 800 (atari800)\Roms\EIGHTHUNDRED
+App\PackageManager\data\RApp\Atari - Jaguar (Virtual Jaguar)\RApp
+App\PackageManager\data\RApp\Atari - Jaguar (Virtual Jaguar)\Roms
+App\PackageManager\data\RApp\Atari - Jaguar (Virtual Jaguar)\RApp\JAGUAR
+App\PackageManager\data\RApp\Atari - Jaguar (Virtual Jaguar)\Roms\JAGUAR
+App\PackageManager\data\RApp\Atari - Lynx (Mednafen Lynx)\RApp
+App\PackageManager\data\RApp\Atari - Lynx (Mednafen Lynx)\Roms
+App\PackageManager\data\RApp\Atari - Lynx (Mednafen Lynx)\RApp\mednafen_lynx
+App\PackageManager\data\RApp\Atari - Lynx (Mednafen Lynx)\Roms\LYNX
+App\PackageManager\data\RApp\Atari - ST (hatari)\RApp
+App\PackageManager\data\RApp\Atari - ST (hatari)\Roms
+App\PackageManager\data\RApp\Atari - ST (hatari)\RApp\ATARIST
+App\PackageManager\data\RApp\Atari - ST (hatari)\Roms\ATARIST
+App\PackageManager\data\RApp\BK - 0010 (BK)\RApp
+App\PackageManager\data\RApp\BK - 0010 (BK)\Roms
+App\PackageManager\data\RApp\BK - 0010 (BK)\RApp\bk
+App\PackageManager\data\RApp\BK - 0010 (BK)\Roms\EBK
+App\PackageManager\data\RApp\Commodore - Amiga (PUAE 2021 xtreme)\RApp
+App\PackageManager\data\RApp\Commodore - Amiga (PUAE 2021 xtreme)\Roms
+App\PackageManager\data\RApp\Commodore - Amiga (PUAE 2021 xtreme)\RApp\puae-xtreme
+App\PackageManager\data\RApp\Commodore - Amiga (PUAE 2021 xtreme)\Roms\AMIGA
+App\PackageManager\data\RApp\Commodore - Amiga (uae4arm)\RApp
+App\PackageManager\data\RApp\Commodore - Amiga (uae4arm)\Roms
+App\PackageManager\data\RApp\Commodore - Amiga (uae4arm)\RApp\uae4arm
+App\PackageManager\data\RApp\Commodore - Amiga (uae4arm)\Roms\AMIGA
+App\PackageManager\data\RApp\Commodore - Amiga CD32 (uae4arm)\RApp
+App\PackageManager\data\RApp\Commodore - Amiga CD32 (uae4arm)\Roms
+App\PackageManager\data\RApp\Commodore - Amiga CD32 (uae4arm)\RApp\uae4arm_cd32
+App\PackageManager\data\RApp\Commodore - Amiga CD32 (uae4arm)\Roms\AMIGACD
+App\PackageManager\data\RApp\Commodore - C64 (Frodo)\RApp
+App\PackageManager\data\RApp\Commodore - C64 (Frodo)\Roms
+App\PackageManager\data\RApp\Commodore - C64 (Frodo)\RApp\frodo
+App\PackageManager\data\RApp\Commodore - C64 (Frodo)\Roms\COMMODORE
+App\PackageManager\data\RApp\Commodore - Sharp X1 (x1)\RApp
+App\PackageManager\data\RApp\Commodore - Sharp X1 (x1)\Roms
+App\PackageManager\data\RApp\Commodore - Sharp X1 (x1)\RApp\x1
+App\PackageManager\data\RApp\Commodore - Sharp X1 (x1)\Roms\XONE
+App\PackageManager\data\RApp\Game Music Emu (GME)\RApp
+App\PackageManager\data\RApp\Game Music Emu (GME)\Roms
+App\PackageManager\data\RApp\Game Music Emu (GME)\RApp\gme
+App\PackageManager\data\RApp\Game Music Emu (GME)\Roms\GME
+App\PackageManager\data\RApp\Game engine - ChaiLove (ChaiLove)\RApp
+App\PackageManager\data\RApp\Game engine - ChaiLove (ChaiLove)\Roms
+App\PackageManager\data\RApp\Game engine - ChaiLove (ChaiLove)\RApp\chai
+App\PackageManager\data\RApp\Game engine - ChaiLove (ChaiLove)\Roms\CHAI
+App\PackageManager\data\RApp\Game engine - EasyRPG (EasyRPG)\RApp
+App\PackageManager\data\RApp\Game engine - EasyRPG (EasyRPG)\Roms
+App\PackageManager\data\RApp\Game engine - EasyRPG (EasyRPG)\RApp\easyrpg
+App\PackageManager\data\RApp\Game engine - EasyRPG (EasyRPG)\Roms\EASYRPG
+App\PackageManager\data\RApp\Game engine - LowRes NX (LowRes NX)\RApp
+App\PackageManager\data\RApp\Game engine - LowRes NX (LowRes NX)\Roms
+App\PackageManager\data\RApp\Game engine - LowRes NX (LowRes NX)\RApp\lowresnx
+App\PackageManager\data\RApp\Game engine - LowRes NX (LowRes NX)\Roms\LOWRESNX
+App\PackageManager\data\RApp\Game engine - LÖVE (Lutro)\RApp
+App\PackageManager\data\RApp\Game engine - LÖVE (Lutro)\Roms
+App\PackageManager\data\RApp\Game engine - LÖVE (Lutro)\RApp\lutro
+App\PackageManager\data\RApp\Game engine - LÖVE (Lutro)\Roms\LUTRO
+App\PackageManager\data\RApp\Game engine - MicroW8 (Uw8)\RApp
+App\PackageManager\data\RApp\Game engine - MicroW8 (Uw8)\Roms
+App\PackageManager\data\RApp\Game engine - MicroW8 (Uw8)\RApp\UW8
+App\PackageManager\data\RApp\Game engine - MicroW8 (Uw8)\Roms\MICROW8
+App\PackageManager\data\RApp\Game engine - Open Beats of Rage\RApp
+App\PackageManager\data\RApp\Game engine - Open Beats of Rage\Roms
+App\PackageManager\data\RApp\Game engine - Open Beats of Rage\RApp\OpenBOR
+App\PackageManager\data\RApp\Game engine - Open Beats of Rage\Roms\OPENBOR
+App\PackageManager\data\RApp\Game engine - PuzzleScript (PuzzleScript)\RApp
+App\PackageManager\data\RApp\Game engine - PuzzleScript (PuzzleScript)\Roms
+App\PackageManager\data\RApp\Game engine - PuzzleScript (PuzzleScript)\RApp\PuzzleScript
+App\PackageManager\data\RApp\Game engine - PuzzleScript (PuzzleScript)\Roms\PUZZLE
+App\PackageManager\data\RApp\Microsoft - DOS (DOSBox-Pure 0.9.7)\RApp
+App\PackageManager\data\RApp\Microsoft - DOS (DOSBox-Pure 0.9.7)\Roms
+App\PackageManager\data\RApp\Microsoft - DOS (DOSBox-Pure 0.9.7)\RApp\DOS
+App\PackageManager\data\RApp\Microsoft - DOS (DOSBox-Pure 0.9.7)\Roms\DOS
+App\PackageManager\data\RApp\Microsoft - MSX (fMSX)\RApp
+App\PackageManager\data\RApp\Microsoft - MSX (fMSX)\Roms
+App\PackageManager\data\RApp\Microsoft - MSX (fMSX)\RApp\fMSX
+App\PackageManager\data\RApp\Microsoft - MSX (fMSX)\Roms\MSX
+App\PackageManager\data\RApp\NEC - PC-8000 (Quasi88)\RApp
+App\PackageManager\data\RApp\NEC - PC-8000 (Quasi88)\Roms
+App\PackageManager\data\RApp\NEC - PC-8000 (Quasi88)\RApp\quasi88
+App\PackageManager\data\RApp\NEC - PC-8000 (Quasi88)\Roms\PCEIGHTYEIGHT
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II Kai)\RApp
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II Kai)\Roms
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II Kai)\RApp\nekop2kai
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II Kai)\Roms\PCNINETYEIGHT
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II)\RApp
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II)\Roms
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II)\RApp\nekop2
+App\PackageManager\data\RApp\NEC - PC-98 (Neko Project II)\Roms\PCNINETYEIGHT
+App\PackageManager\data\RApp\NEC - PC-FX (Mednafen PC-FX)\RApp
+App\PackageManager\data\RApp\NEC - PC-FX (Mednafen PC-FX)\Roms
+App\PackageManager\data\RApp\NEC - PC-FX (Mednafen PC-FX)\RApp\mednafen_pcfx
+App\PackageManager\data\RApp\NEC - PC-FX (Mednafen PC-FX)\Roms\PCFX
+App\PackageManager\data\RApp\NEC - TurboGrafx-16 (Beetle PCE)\RApp
+App\PackageManager\data\RApp\NEC - TurboGrafx-16 (Beetle PCE)\Roms
+App\PackageManager\data\RApp\NEC - TurboGrafx-16 (Beetle PCE)\RApp\beetlepce
+App\PackageManager\data\RApp\NEC - TurboGrafx-16 (Beetle PCE)\Roms\PCE
+App\PackageManager\data\RApp\Nintendo - GB (Gearboy)\RApp
+App\PackageManager\data\RApp\Nintendo - GB (Gearboy)\Roms
+App\PackageManager\data\RApp\Nintendo - GB (Gearboy)\RApp\gearboy
+App\PackageManager\data\RApp\Nintendo - GB (Gearboy)\Roms\GB
+App\PackageManager\data\RApp\Nintendo - GB (TGB Dual)\RApp
+App\PackageManager\data\RApp\Nintendo - GB (TGB Dual)\Roms
+App\PackageManager\data\RApp\Nintendo - GB (TGB Dual)\RApp\TGB_Dual
+App\PackageManager\data\RApp\Nintendo - GB (TGB Dual)\Roms\GB
+App\PackageManager\data\RApp\Nintendo - GBA (Mednafen GBA)\RApp
+App\PackageManager\data\RApp\Nintendo - GBA (Mednafen GBA)\Roms
+App\PackageManager\data\RApp\Nintendo - GBA (Mednafen GBA)\RApp\mednafen_gba
+App\PackageManager\data\RApp\Nintendo - GBA (Mednafen GBA)\Roms\GBA
+App\PackageManager\data\RApp\Nintendo - GBA (Meteor)\RApp
+App\PackageManager\data\RApp\Nintendo - GBA (Meteor)\Roms
+App\PackageManager\data\RApp\Nintendo - GBA (Meteor)\RApp\meteor
+App\PackageManager\data\RApp\Nintendo - GBA (Meteor)\Roms\GBA
+App\PackageManager\data\RApp\Nintendo - GBA (VBA Next)\RApp
+App\PackageManager\data\RApp\Nintendo - GBA (VBA Next)\Roms
+App\PackageManager\data\RApp\Nintendo - GBA (VBA Next)\RApp\vba_next
+App\PackageManager\data\RApp\Nintendo - GBA (VBA Next)\Roms\GBA
+App\PackageManager\data\RApp\Nintendo - GBA (VBA-M)\RApp
+App\PackageManager\data\RApp\Nintendo - GBA (VBA-M)\Roms
+App\PackageManager\data\RApp\Nintendo - GBA (VBA-M)\RApp\vba_m
+App\PackageManager\data\RApp\Nintendo - GBA (VBA-M)\Roms\GBA
+App\PackageManager\data\RApp\Nintendo - GBA (gpSP)\RApp
+App\PackageManager\data\RApp\Nintendo - GBA (gpSP)\Roms
+App\PackageManager\data\RApp\Nintendo - GBA (gpSP)\RApp\gpsp
+App\PackageManager\data\RApp\Nintendo - GBA (gpSP)\Roms\GBA
+App\PackageManager\data\RApp\Nintendo - GBC (Gearboy)\RApp
+App\PackageManager\data\RApp\Nintendo - GBC (Gearboy)\Roms
+App\PackageManager\data\RApp\Nintendo - GBC (Gearboy)\RApp\gearboy_gbc
+App\PackageManager\data\RApp\Nintendo - GBC (Gearboy)\Roms\GBC
+App\PackageManager\data\RApp\Nintendo - GBC (TGB Dual)\RApp
+App\PackageManager\data\RApp\Nintendo - GBC (TGB Dual)\Roms
+App\PackageManager\data\RApp\Nintendo - GBC (TGB Dual)\RApp\TGB_Dual_gbc
+App\PackageManager\data\RApp\Nintendo - GBC (TGB Dual)\Roms\GBC
+App\PackageManager\data\RApp\Nintendo - NES (Nestopia)\RApp
+App\PackageManager\data\RApp\Nintendo - NES (Nestopia)\Roms
+App\PackageManager\data\RApp\Nintendo - NES (Nestopia)\RApp\NESTOPIA
+App\PackageManager\data\RApp\Nintendo - NES (Nestopia)\Roms\FC
+App\PackageManager\data\RApp\Nintendo - SNES (ChimeraSNES)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (ChimeraSNES)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (ChimeraSNES)\RApp\chimerasnes
+App\PackageManager\data\RApp\Nintendo - SNES (ChimeraSNES)\Roms\SFC
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2002)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2002)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2002)\RApp\snes9x2002
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2002)\Roms\SFC
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005 Plus)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005 Plus)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005 Plus)\RApp\SNES9X2005P
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005 Plus)\Roms\SFC
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005)\RApp\snes9x2005
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2005)\Roms\SFC
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2010)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2010)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2010)\RApp\snes9x2010
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x 2010)\Roms\SFC
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x)\RApp
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x)\Roms
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x)\RApp\snes9x
+App\PackageManager\data\RApp\Nintendo - SNES (Snes9x)\Roms\SFC
+App\PackageManager\data\RApp\PICO-8 (Fake8 standalone)\RApp
+App\PackageManager\data\RApp\PICO-8 (Fake8 standalone)\Roms
+App\PackageManager\data\RApp\PICO-8 (Fake8 standalone)\RApp\PICO
+App\PackageManager\data\RApp\PICO-8 (Fake8 standalone)\Roms\PICO
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\Roms
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\bin
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\cfg
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\lib
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res\bezel
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res\digit
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res\icon
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res\bezel\integer_scaled
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\RApp\PICO-8\res\bezel\standard
+App\PackageManager\data\RApp\PICO-8 (PICO-8 standalone)\Roms\PICO
+App\PackageManager\data\RApp\Palm OS - m515 (mu)\RApp
+App\PackageManager\data\RApp\Palm OS - m515 (mu)\Roms
+App\PackageManager\data\RApp\Palm OS - m515 (mu)\RApp\mu
+App\PackageManager\data\RApp\Palm OS - m515 (mu)\Roms\PALM
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\Roms
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp\scummvm
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp\scummvm\engine-data
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp\scummvm\scripts
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp\scummvm\themes
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\RApp\scummvm\scripts\romscripts
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\Roms\SCUMMVM
+App\PackageManager\data\RApp\SCUMM (ScummVM standalone)\Roms\SCUMMVM\Shortcuts_Standalone
+App\PackageManager\data\RApp\SNK - Neo Geo (GnGeo)\RApp
+App\PackageManager\data\RApp\SNK - Neo Geo (GnGeo)\Roms
+App\PackageManager\data\RApp\SNK - Neo Geo (GnGeo)\RApp\gngeo
+App\PackageManager\data\RApp\SNK - Neo Geo (GnGeo)\Roms\GNGEO
+App\PackageManager\data\RApp\Sega - Game Gear (Gearsystem)\RApp
+App\PackageManager\data\RApp\Sega - Game Gear (Gearsystem)\Roms
+App\PackageManager\data\RApp\Sega - Game Gear (Gearsystem)\RApp\gearsystem_gg
+App\PackageManager\data\RApp\Sega - Game Gear (Gearsystem)\Roms\GG
+App\PackageManager\data\RApp\Sega - Game Gear (Genesis Plus GX)\RApp
+App\PackageManager\data\RApp\Sega - Game Gear (Genesis Plus GX)\Roms
+App\PackageManager\data\RApp\Sega - Game Gear (Genesis Plus GX)\RApp\genesis_plus_gx_gg
+App\PackageManager\data\RApp\Sega - Game Gear (Genesis Plus GX)\Roms\GG
+App\PackageManager\data\RApp\Sega - Genesis (Genesis Plus GX)\RApp
+App\PackageManager\data\RApp\Sega - Genesis (Genesis Plus GX)\Roms
+App\PackageManager\data\RApp\Sega - Genesis (Genesis Plus GX)\RApp\genesis_plus_gx_md
+App\PackageManager\data\RApp\Sega - Genesis (Genesis Plus GX)\Roms\MD
+App\PackageManager\data\RApp\Sega - Master System (Gearsystem)\RApp
+App\PackageManager\data\RApp\Sega - Master System (Gearsystem)\Roms
+App\PackageManager\data\RApp\Sega - Master System (Gearsystem)\RApp\gearsystem_ms
+App\PackageManager\data\RApp\Sega - Master System (Gearsystem)\Roms\MS
+App\PackageManager\data\RApp\Sega - Master System (Genesis Plus GX)\RApp
+App\PackageManager\data\RApp\Sega - Master System (Genesis Plus GX)\Roms
+App\PackageManager\data\RApp\Sega - Master System (Genesis Plus GX)\RApp\genesis_plus_gx_ms
+App\PackageManager\data\RApp\Sega - Master System (Genesis Plus GX)\Roms\MS
+App\PackageManager\data\RApp\Sega - Roms Hacks (Genesis Plus GX)\RApp
+App\PackageManager\data\RApp\Sega - Roms Hacks (Genesis Plus GX)\Roms
+App\PackageManager\data\RApp\Sega - Roms Hacks (Genesis Plus GX)\RApp\genesis_plus_gx_hacks
+App\PackageManager\data\RApp\Sega - Roms Hacks (Genesis Plus GX)\Roms\MDHACKS
+App\PackageManager\data\RApp\Sega - Sega CD (Genesis Plus GX)\RApp
+App\PackageManager\data\RApp\Sega - Sega CD (Genesis Plus GX)\Roms
+App\PackageManager\data\RApp\Sega - Sega CD (Genesis Plus GX)\RApp\genesis_plus_gx_segacd
+App\PackageManager\data\RApp\Sega - Sega CD (Genesis Plus GX)\Roms\SEGACD
+App\PackageManager\data\RApp\Sega - Visual Memory Unit (VeMUlator)\RApp
+App\PackageManager\data\RApp\Sega - Visual Memory Unit (VeMUlator)\Roms
+App\PackageManager\data\RApp\Sega - Visual Memory Unit (VeMUlator)\RApp\vemulator
+App\PackageManager\data\RApp\Sega - Visual Memory Unit (VeMUlator)\Roms\VMU
+App\PackageManager\data\RApp\Sharp - X68000 (PX68k)\RApp
+App\PackageManager\data\RApp\Sharp - X68000 (PX68k)\Roms
+App\PackageManager\data\RApp\Sharp - X68000 (PX68k)\RApp\X68000
+App\PackageManager\data\RApp\Sharp - X68000 (PX68k)\Roms\X68000
+App\PackageManager\data\RApp\Sinclair - ZX81 (81)\RApp
+App\PackageManager\data\RApp\Sinclair - ZX81 (81)\Roms
+App\PackageManager\data\RApp\Sinclair - ZX81 (81)\RApp\zx81
+App\PackageManager\data\RApp\Sinclair - ZX81 (81)\Roms\ZXEIGHTYONE
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\Roms
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed\.pcsx
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed\lib
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed\plugins
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed\skin
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\RApp\PCSX-ReARMed\.pcsx\memcards
+App\PackageManager\data\RApp\Sony - PlayStation (PCSX standalone)\Roms\PS
+App\PackageManager\data\RApp\Sony - PlayStation (SwanStation)\RApp
+App\PackageManager\data\RApp\Sony - PlayStation (SwanStation)\Roms
+App\PackageManager\data\RApp\Sony - PlayStation (SwanStation)\RApp\swanstation
+App\PackageManager\data\RApp\Sony - PlayStation (SwanStation)\Roms\PS
+App\PackageManager\data\RApp\Texas Instruments TI-83 (Numero)\RApp
+App\PackageManager\data\RApp\Texas Instruments TI-83 (Numero)\Roms
+App\PackageManager\data\RApp\Texas Instruments TI-83 (Numero)\RApp\TI-83
+App\PackageManager\data\RApp\Texas Instruments TI-83 (Numero)\Roms\TI83
+App\PackageManager\data\RApp\Thomson - MOTO (Theodore)\RApp
+App\PackageManager\data\RApp\Thomson - MOTO (Theodore)\Roms
+App\PackageManager\data\RApp\Thomson - MOTO (Theodore)\RApp\theodore
+App\PackageManager\data\RApp\Thomson - MOTO (Theodore)\Roms\THOMSON
+App\PackageManager\data\RApp\Uzebox (Uzem)\RApp
+App\PackageManager\data\RApp\Uzebox (Uzem)\Roms
+App\PackageManager\data\RApp\Uzebox (Uzem)\RApp\uzem
+App\PackageManager\data\RApp\Uzebox (Uzem)\Roms\UZEBOX
+App\PlayActivity\res
+App\Search\data
+App\Search\data\Imgs
+App\romscripts\emu
+App\romscripts\favorites
+App\romscripts\rapp
+App\romscripts\recents
+App\AdvanceMENU\tools
+App\AdvanceMENU\tools\language Korean files
+App\AdvanceMENU\tools\Roms_and_Medias_Management
+App\AdvanceMENU\tools\Roms_and_Medias_Management\mng_to_png
+App\AdvanceMENU\tools\Roms_and_Medias_Management\move_incompatible_Roms
+App\AdvanceMENU\tools\Roms_and_Medias_Management\move_roms_without_preview
+App\AdvanceMENU\tools\Roms_and_Medias_Management\mp4_to_mng
+App\AdvanceMENU\tools\Roms_and_Medias_Management\xml_to_lst_(info_files)
+App\AdvanceMENU\tools\Roms_and_Medias_Management\mng_to_png\test_sample
+App\BatteryMonitorUI\res
+App\PixelReader\lib
+App\PixelReader\resources
+App\PixelReader\resources\fonts
+App\Commander_Italic\res
+App\Guest_Mode\data
+App\Gmu\decoders
+App\Gmu\frontends
+App\Gmu\lib
+App\Gmu\themes
+App\Gmu\themes\default-modern
+App\Gmu\themes\default-modern-large
+Icons\Default
+Icons\Default\app
+Icons\Default\rapp
+Roms\ADVMAME
+Roms\AMIGA
+Roms\AMIGACD
+Roms\ARCADE
+Roms\ARDUBOY
+Roms\ATARI
+Roms\ATARIST
+Roms\CHAI
+Roms\COLECO
+Roms\COMMODORE
+Roms\CPC
+Roms\CPS1
+Roms\CPS2
+Roms\CPS3
+Roms\DAPHNE
+Roms\DOS
+Roms\EASYRPG
+Roms\EBK
+Roms\EIGHTHUNDRED
+Roms\FAIRCHILD
+Roms\FBA2012
+Roms\FBNEO
+Roms\FC
+Roms\FDS
+Roms\FIFTYTWOHUNDRED
+Roms\GB
+Roms\GBA
+Roms\GBC
+Roms\GG
+Roms\GME
+Roms\GNGEO
+Roms\GW
+Roms\INTELLIVISION
+Roms\JAGUAR
+Roms\LOWRESNX
+Roms\LUTRO
+Roms\LYNX
+Roms\MAME2000
+Roms\MBA
+Roms\MD
+Roms\MDHACKS
+Roms\MEGADUCK
+Roms\MICROW8
+Roms\MS
+Roms\MSX
+Roms\NDS
+Roms\NEOCD
+Roms\NEOGEO
+Roms\NGP
+Roms\ODYSSEY
+Roms\OPENBOR
+Roms\PALM
+Roms\PANASONIC
+Roms\PCE
+Roms\PCECD
+Roms\PCEIGHTYEIGHT
+Roms\PCFX
+Roms\PCNINETYEIGHT
+Roms\PICO
+Roms\POKE
+Roms\PORTS
+Roms\PS
+Roms\PUZZLE
+Roms\SATELLAVIEW
+Roms\SCUMMVM
+Roms\SEGACD
+Roms\SEGASGONE
+Roms\SEVENTYEIGHTHUNDRED
+Roms\SFC
+Roms\SGB
+Roms\SGFX
+Roms\SUFAMI
+Roms\SUPERVISION
+Roms\THIRTYTWOX
+Roms\THOMSON
+Roms\TI83
+Roms\TIC
+Roms\UZEBOX
+Roms\VB
+Roms\VECTREX
+Roms\VIC20
+Roms\VIDEOPAC
+Roms\VMU
+Roms\WS
+Roms\X68000
+Roms\XONE
+Roms\ZXEIGHTYONE
+Roms\ZXS
+Roms\PORTS\Imgs
+Roms\PORTS\Manuals
+Roms\PORTS\Shortcuts
+Roms\PORTS\Shortcuts\Action
+Roms\PORTS\Shortcuts\Puzzle games
+Roms\SCUMMVM\Shortcuts
+Roms\SCUMMVM\Shortcuts_Standalone
+Roms\ADVMAME\Snaps
+miyoo\app
+miyoo\lib
+miyoo\app\lang
+miyoo\app\skin
+miyoo\app\sound
+Emu\AMIGA
+Emu\ARCADE
+Emu\ATARI
+Emu\COLECO
+Emu\COMMODORE
+Emu\CPC
+Emu\CPS1
+Emu\CPS2
+Emu\CPS3
+Emu\DOS
+Emu\FAIRCHILD
+Emu\FC
+Emu\FDS
+Emu\FIFTYTWOHUNDRED
+Emu\GB
+Emu\GBA
+Emu\GBC
+Emu\GG
+Emu\GW
+Emu\INTELLIVISION
+Emu\LYNX
+Emu\MD
+Emu\MEGADUCK
+Emu\MS
+Emu\MSX
+Emu\NDS
+Emu\NEOCD
+Emu\NEOGEO
+Emu\NGP
+Emu\ODYSSEY
+Emu\PCE
+Emu\PCECD
+Emu\PICO
+Emu\POKE
+Emu\PORTS
+Emu\PSX
+Emu\SATELLAVIEW
+Emu\SCUMMVM
+Emu\SEGACD
+Emu\SEGASGONE
+Emu\SEVENTYEIGHTHUNDRED
+Emu\SFC
+Emu\SGB
+Emu\SGFX
+Emu\SUFAMI
+Emu\SUPERVISION
+Emu\THIRTYTWOX
+Emu\TIC
+Emu\VB
+Emu\VECTREX
+Emu\VIC20
+Emu\VIDEOPAC
+Emu\WS
+Emu\ZXS
+Emu\NDS\config
+Emu\NDS\libs
+Emu\NDS\resources
+Emu\NDS\system
+Emu\NDS\resources\bg_640
+Emu\NDS\resources\bg_752
+Emu\NDS\resources\font
+Emu\NDS\resources\lang
+Emu\NDS\resources\logo
+Emu\NDS\resources\menu
+Emu\NDS\resources\overlay
+Emu\NDS\resources\pen
+Emu\NDS\resources\bg_640\1
+Emu\NDS\resources\bg_640\2
+Emu\NDS\resources\bg_640\3
+Emu\NDS\resources\bg_640\4
+Emu\NDS\resources\bg_640\5
+Emu\NDS\resources\bg_640\6
+Emu\NDS\resources\bg_640\7
+Emu\NDS\resources\bg_640\8
+Emu\NDS\resources\bg_640\9
+Emu\NDS\resources\bg_752\1
+Emu\NDS\resources\bg_752\2
+Emu\NDS\resources\bg_752\3
+Emu\NDS\resources\bg_752\4
+Emu\NDS\resources\bg_752\5
+Emu\NDS\resources\bg_752\6
+Emu\NDS\resources\bg_752\7
+Emu\NDS\resources\menu\640
+Emu\NDS\resources\menu\640\1
+Emu\NDS\resources\menu\640\2
+Emu\NDS\resources\menu\640\3
+Emu\PORTS\romscripts
+Emu\SCUMMVM\romscripts
+RApp\advancemame
+RApp\arduous
+RApp\atari5200
+RApp\atari800
+RApp\ATARIST
+RApp\beetlepce
+RApp\bk
+RApp\chai
+RApp\chimerasnes
+RApp\CPC
+RApp\DAPHNE
+RApp\DOS
+RApp\easyrpg
+RApp\FBA2012
+RApp\fbneo
+RApp\fMSX
+RApp\frodo
+RApp\gearboy
+RApp\gearboy_gbc
+RApp\gearsystem_gg
+RApp\gearsystem_ms
+RApp\genesis_plus_gx_gg
+RApp\genesis_plus_gx_hacks
+RApp\genesis_plus_gx_md
+RApp\genesis_plus_gx_ms
+RApp\genesis_plus_gx_segacd
+RApp\gme
+RApp\gngeo
+RApp\gpsp
+RApp\JAGUAR
+RApp\lowresnx
+RApp\lutro
+RApp\mame2000
+RApp\mame2003-xtreme
+RApp\mba-mini
+RApp\mednafen_gba
+RApp\mednafen_lynx
+RApp\mednafen_pcfx
+RApp\meteor
+RApp\mu
+RApp\nekop2
+RApp\nekop2kai
+RApp\NESTOPIA
+RApp\OpenBOR
+RApp\opera
+RApp\PCSX-ReARMed
+RApp\PICO
+RApp\PICO-8
+RApp\puae-xtreme
+RApp\PuzzleScript
+RApp\quasi88
+RApp\scummvm
+RApp\snes9x
+RApp\snes9x2002
+RApp\snes9x2005
+RApp\SNES9X2005P
+RApp\snes9x2010
+RApp\swanstation
+RApp\TGB_Dual
+RApp\TGB_Dual_gbc
+RApp\theodore
+RApp\TI-83
+RApp\uae4arm
+RApp\uae4arm_cd32
+RApp\UW8
+RApp\uzem
+RApp\vba_m
+RApp\vba_next
+RApp\vemulator
+RApp\x1
+RApp\X68000
+RApp\zx81
+RApp\PICO-8\bin
+RApp\PICO-8\cfg
+RApp\PICO-8\lib
+RApp\PICO-8\res
+RApp\PICO-8\res\bezel
+RApp\PICO-8\res\digit
+RApp\PICO-8\res\icon
+RApp\PICO-8\res\bezel\integer_scaled
+RApp\PICO-8\res\bezel\standard
+RApp\scummvm\engine-data
+RApp\scummvm\scripts
+RApp\scummvm\themes
+RApp\scummvm\scripts\romscripts
+RApp\PCSX-ReARMed\.pcsx
+RApp\PCSX-ReARMed\lib
+RApp\PCSX-ReARMed\plugins
+RApp\PCSX-ReARMed\skin
+RApp\PCSX-ReARMed\.pcsx\memcards

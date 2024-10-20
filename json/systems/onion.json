@@ -1,0 +1,1385 @@
+{
+    "Amiga": {
+        "romfolder": "AMIGA",
+        "bios": [
+            "kick13.rom",
+            "kick31.rom"
+        ],
+        "emulators": [
+            "UAE4ALL"
+        ],
+        "extensions": [
+            ".adf",
+            ".dms",
+            ".fdi",
+            ".ipf",
+            ".zip"
+        ]
+    },
+    "Amiga CD32": {
+        "romfolder": "amigacd32",
+        "bios": [
+            "Kickstart v3.1 rev 40.60 (1993)(Commodore)(CD32).rom",
+            "CD32 Extended-ROM rev 40.60 (1993)(Commodore)(CD32).rom"
+        ],
+        "emulators": [
+            "lr-puae"
+        ],
+        "extensions": [
+            ".chd",
+            ".cue",
+            ".iso",
+            ".zip"
+        ]
+    },
+    "Amstrad CPC": {
+        "romfolder": "CPC",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "lr-crocods",
+            "Caprice32"
+        ],
+        "extensions": [
+            ".sna",
+            ".dsk",
+            ".kcr"
+        ]
+    },
+    "Arcade": {
+        "romfolder": "arcade",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "lr-mame2003",
+            "lr-fbalpha2012",
+            "advmame"
+        ],
+        "extensions": [
+            ".7z",
+            ".zip"
+        ],
+        "notes": "Requires specific ROM sets for each emulator."
+    },
+    "Atari 2600": {
+        "romfolder": "A26",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Stella"
+        ],
+        "extensions": [
+            ".a26",
+            ".bin",
+            ".rom"
+        ]
+    },
+    "Atari 5200": {
+        "romfolder": "A52",
+        "bios": [
+            "5200.rom"
+        ],
+        "emulators": [
+            "Atari800"
+        ],
+        "extensions": [
+            ".a52",
+            ".bin",
+            ".rom"
+        ]
+    },
+    "Atari 7800": {
+        "romfolder": "A78",
+        "bios": [
+            "7800 BIOS (U).rom"
+        ],
+        "emulators": [
+            "ProSystem"
+        ],
+        "extensions": [
+            ".a78",
+            ".bin",
+            ".rom"
+        ]
+    },
+    "Atari Jaguar": {
+        "romfolder": "atarijaguar",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "lr-virtualjaguar"
+        ],
+        "extensions": [
+            ".j64",
+            ".jag",
+            ".zip"
+        ]
+    },
+    "Atari Lynx": {
+        "romfolder": "LYNX",
+        "bios": [
+            "lynxboot.img"
+        ],
+        "emulators": [
+            "Handy"
+        ],
+        "extensions": [
+            ".lnx"
+        ]
+    },
+    "ColecoVision": {
+        "romfolder": "COLECO",
+        "bios": [
+            "coleco.rom"
+        ],
+        "emulators": [
+            "CoolCV"
+        ],
+        "extensions": [
+            ".col",
+            ".rom"
+        ]
+    },
+    "Commodore 64": {
+        "romfolder": "C64",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Vice"
+        ],
+        "extensions": [
+            ".d64",
+            ".t64",
+            ".prg",
+            ".tap",
+            ".crt",
+            ".d81"
+        ]
+    },
+    "Dreamcast": {
+        "romfolder": "DREAMCAST",
+        "bios": [
+            "dc_boot.bin",
+            "dc_flash.bin"
+        ],
+        "emulators": [
+            "Reicast"
+        ],
+        "extensions": [
+            ".cdi",
+            ".chd",
+            ".gdi"
+        ]
+    },
+    "Game Boy": {
+        "romfolder": "GB",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Gambatte"
+        ],
+        "extensions": [
+            ".gb",
+            ".zip"
+        ]
+    },
+    "Game Boy Advance": {
+        "romfolder": "GBA",
+        "bios": [
+            "gba_bios.bin"
+        ],
+        "emulators": [
+            "gpSP",
+            "VBA Next"
+        ],
+        "extensions": [
+            ".gba",
+            ".zip"
+        ]
+    },
+    "Game Boy Color": {
+        "romfolder": "GBC",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Gambatte"
+        ],
+        "extensions": [
+            ".gbc",
+            ".zip"
+        ]
+    },
+    "Game Gear": {
+        "romfolder": "GG",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "SMS Plus GX"
+        ],
+        "extensions": [
+            ".gg",
+            ".zip"
+        ]
+    },
+    "MAME": {
+        "romfolder": "MAME",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME2003-Plus",
+            "AdvanceMAME"
+        ],
+        "extensions": [
+            ".zip"
+        ],
+        "notes": "Requires specific MAME ROM sets compatible with the emulator version."
+    },
+    "Master System": {
+        "romfolder": "SMS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "SMS Plus GX"
+        ],
+        "extensions": [
+            ".sms",
+            ".zip"
+        ]
+    },
+    "Mega Drive": {
+        "romfolder": "MD",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PicoDrive"
+        ],
+        "extensions": [
+            ".md",
+            ".smd",
+            ".gen",
+            ".bin",
+            ".zip"
+        ]
+    },
+    "MSX": {
+        "romfolder": "MSX",
+        "bios": [
+            "MSX.ROM",
+            "MSX2.ROM",
+            "MSX2EXT.ROM",
+            "MSX2P.ROM",
+            "MSX2PEXT.ROM",
+            "FMPAC.ROM"
+        ],
+        "emulators": [
+            "fMSX"
+        ],
+        "extensions": [
+            ".rom",
+            ".mx1",
+            ".mx2",
+            ".dsk",
+            ".cas",
+            ".zip"
+        ]
+    },
+    "Neo Geo": {
+        "romfolder": "NEOGEO",
+        "bios": [
+            "neogeo.zip"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Nintendo 64": {
+        "romfolder": "N64",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Mupen64Plus"
+        ],
+        "extensions": [
+            ".n64",
+            ".v64",
+            ".z64"
+        ]
+    },
+    "Nintendo DS": {
+        "romfolder": "NDS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Drastic"
+        ],
+        "extensions": [
+            ".nds",
+            ".zip"
+        ]
+    },
+    "PC Engine": {
+        "romfolder": "pcengine",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "lr-beetle-pce-fast"
+        ],
+        "extensions": [
+            ".7z",
+            ".pce",
+            ".zip"
+        ]
+    },
+    "PlayStation": {
+        "romfolder": "PSX",
+        "bios": [
+            "SCPH1001.BIN"
+        ],
+        "emulators": [
+            "PCSX ReARMed"
+        ],
+        "extensions": [
+            ".cue",
+            ".bin",
+            ".img",
+            ".iso",
+            ".pbp",
+            ".chd"
+        ]
+    },
+    "PlayStation Portable": {
+        "romfolder": "PSP",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PPSSPP"
+        ],
+        "extensions": [
+            ".iso",
+            ".cso",
+            ".pbp"
+        ]
+    },
+    "Sega 32X": {
+        "romfolder": "32X",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PicoDrive"
+        ],
+        "extensions": [
+            ".32x",
+            ".zip"
+        ]
+    },
+    "Sega CD": {
+        "romfolder": "SCD",
+        "bios": [
+            "bios_CD_U.bin",
+            "bios_CD_E.bin",
+            "bios_CD_J.bin"
+        ],
+        "emulators": [
+            "PicoDrive"
+        ],
+        "extensions": [
+            ".cue",
+            ".bin",
+            ".iso",
+            ".chd"
+        ]
+    },
+    "Sega Saturn": {
+        "romfolder": "SATURN",
+        "bios": [
+            "saturn_bios.bin"
+        ],
+        "emulators": [
+            "Yabause"
+        ],
+        "extensions": [
+            ".cue",
+            ".bin",
+            ".iso",
+            ".chd"
+        ]
+    },
+    "Super Nintendo": {
+        "romfolder": "SNES",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Snes9x"
+        ],
+        "extensions": [
+            ".smc",
+            ".sfc",
+            ".zip"
+        ]
+    },
+    "TurboGrafx-16": {
+        "romfolder": "tg16",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "lr-beetle-pce-fast"
+        ],
+        "extensions": [
+            ".7z",
+            ".pce",
+            ".zip"
+        ]
+    },
+    "Vectrex": {
+        "romfolder": "VECTREX",
+        "bios": [
+            "bios.vec"
+        ],
+        "emulators": [
+            "VecX"
+        ],
+        "extensions": [
+            ".vec",
+            ".bin"
+        ]
+    },
+    "WonderSwan": {
+        "romfolder": "WSWAN",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Oswan"
+        ],
+        "extensions": [
+            ".ws",
+            ".zip"
+        ]
+    },
+    "ZX Spectrum": {
+        "romfolder": "ZXSPECTRUM",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FUSE"
+        ],
+        "extensions": [
+            ".tzx",
+            ".tap",
+            ".z80",
+            ".sna",
+            ".dsk"
+        ]
+    },
+    "Apple II": {
+        "romfolder": "APPLE2",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "linapple"
+        ],
+        "extensions": [
+            ".dsk"
+        ]
+    },
+    "Atari 800": {
+        "romfolder": "ATARI800",
+        "bios": [
+            "ATARIBAS.ROM",
+            "ATARIOSA.ROM",
+            "ATARIOSB.ROM",
+            "ATARIXL.ROM"
+        ],
+        "emulators": [
+            "Atari800"
+        ],
+        "extensions": [
+            ".xex",
+            ".atr",
+            ".dcm",
+            ".bin",
+            ".a52",
+            ".cas",
+            ".rom",
+            ".car",
+            ".xfd",
+            ".dsk"
+        ]
+    },
+    "Capcom Play System 1": {
+        "romfolder": "CPS1",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Capcom Play System 2": {
+        "romfolder": "CPS2",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Capcom Play System 3": {
+        "romfolder": "CPS3",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Commodore VIC-20": {
+        "romfolder": "VIC20",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Vice"
+        ],
+        "extensions": [
+            ".d64",
+            ".t64",
+            ".prg",
+            ".tap",
+            ".crt",
+            ".d81"
+        ]
+    },
+    "Daphne": {
+        "romfolder": "DAPHNE",
+        "bios": [
+            "Laserdisc images"
+        ],
+        "emulators": [
+            "Daphne"
+        ],
+        "extensions": [
+            "Various"
+        ],
+        "notes": "Requires specific laserdisc images and framefiles."
+    },
+    "Dragon 32": {
+        "romfolder": "DRAGON32",
+        "bios": [
+            "dragon32.rom",
+            "dragon64.rom",
+            "tano.rom",
+            "hdtano.rom"
+        ],
+        "emulators": [
+            "XRoar"
+        ],
+        "extensions": [
+            ".cas",
+            ".rom",
+            ".ccc",
+            ".c10",
+            ".cso",
+            ".dgn",
+            ".do",
+            ".dsk",
+            ".sna",
+            ".mdv",
+            ".vdk"
+        ]
+    },
+    "Famicom Disk System": {
+        "romfolder": "FDS",
+        "bios": [
+            "disksys.rom"
+        ],
+        "emulators": [
+            "Nestopia"
+        ],
+        "extensions": [
+            ".fds"
+        ]
+    },
+    "Final Burn Alpha": {
+        "romfolder": "FBA",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FBA"
+        ],
+        "extensions": [
+            ".zip"
+        ],
+        "notes": "Requires specific ROM set."
+    },
+    "Final Burn Neo": {
+        "romfolder": "FBN",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FBN"
+        ],
+        "extensions": [
+            ".zip"
+        ],
+        "notes": "Requires specific ROM set."
+    },
+    "Game & Watch": {
+        "romfolder": "GW",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "G&W"
+        ],
+        "extensions": [
+            ".mgw"
+        ]
+    },
+    "Game Master": {
+        "romfolder": "GMASTER",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "GameMaster"
+        ],
+        "extensions": [
+            ".gm"
+        ]
+    },
+    "Intellivision": {
+        "romfolder": "INTELLIVISION",
+        "bios": [
+            "exec.bin",
+            "grom.bin"
+        ],
+        "emulators": [
+            "jzIntv"
+        ],
+        "extensions": [
+            ".int",
+            ".bin"
+        ]
+    },
+    "Neo Geo Pocket": {
+        "romfolder": "NGP",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "RACE"
+        ],
+        "extensions": [
+            ".ngp",
+            ".zip"
+        ]
+    },
+    "Neo Geo Pocket Color": {
+        "romfolder": "NGPC",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "RACE"
+        ],
+        "extensions": [
+            ".ngc",
+            ".zip"
+        ]
+    },
+    "NES": {
+        "romfolder": "NES",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FCEUX"
+        ],
+        "extensions": [
+            ".nes",
+            ".unf",
+            ".unif",
+            ".zip"
+        ]
+    },
+    "Oric": {
+        "romfolder": "ORIC",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Oricutron"
+        ],
+        "extensions": [
+            ".dsk",
+            ".tap"
+        ]
+    },
+    "PC-Engine": {
+        "romfolder": "PCE",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PCE"
+        ],
+        "extensions": [
+            ".pce",
+            ".zip"
+        ]
+    },
+    "PC-Engine CD": {
+        "romfolder": "PCECD",
+        "bios": [
+            "syscard3.pce"
+        ],
+        "emulators": [
+            "PCE CD"
+        ],
+        "extensions": [
+            ".cue",
+            ".iso",
+            ".bin",
+            ".chd"
+        ]
+    },
+    "Pokemini": {
+        "romfolder": "POKEMINI",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Pokemini"
+        ],
+        "extensions": [
+            ".min"
+        ]
+    },
+    "PSP": {
+        "romfolder": "PSP",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PPSSPP"
+        ],
+        "extensions": [
+            ".iso",
+            ".cso"
+        ]
+    },
+    "SG-1000": {
+        "romfolder": "SG1000",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "SMS Plus GX"
+        ],
+        "extensions": [
+            ".sg",
+            ".zip"
+        ]
+    },
+    "Virtual Boy": {
+        "romfolder": "VB",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Mednafen VB"
+        ],
+        "extensions": [
+            ".vb",
+            ".vboy",
+            ".zip"
+        ]
+    },
+    "WonderSwan Color": {
+        "romfolder": "WSWANCOLOR",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Oswan"
+        ],
+        "extensions": [
+            ".wsc",
+            ".zip"
+        ]
+    },
+    "FinalBurn Neo": {
+        "romfolder": "FBN",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ],
+        "notes": "Supports a wide range of arcade systems including CPS1, CPS2, CPS3, Neo Geo, and more."
+    },
+    "Data East": {
+        "romfolder": "DECO",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Konami": {
+        "romfolder": "KONAMI",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Sega System": {
+        "romfolder": "SEGASYS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Irem": {
+        "romfolder": "IREM",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Namco": {
+        "romfolder": "NAMCO",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Taito": {
+        "romfolder": "TAITO",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Psikyo": {
+        "romfolder": "PSIKYO",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Technos": {
+        "romfolder": "TECHNOS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Toaplan": {
+        "romfolder": "TOAPLAN",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FinalBurn Neo"
+        ],
+        "extensions": [
+            ".zip"
+        ]
+    },
+    "Pokémon Mini": {
+        "romfolder": "POKEMINI",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Pokemini"
+        ],
+        "extensions": [
+            ".min",
+            ".zip"
+        ]
+    },
+    "Tiger Game.com": {
+        "romfolder": "GAMECOM",
+        "bios": [
+            "bootrom.bin"
+        ],
+        "emulators": [
+            "GameCom"
+        ],
+        "extensions": [
+            ".bin",
+            ".zip"
+        ]
+    },
+    "ScummVM": {
+        "romfolder": "SCUMMVM",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "ScummVM"
+        ],
+        "extensions": [
+            "Various"
+        ],
+        "notes": "Requires game data files. Place each game in its own folder within the SCUMMVM rom folder."
+    },
+    "DOSBox": {
+        "romfolder": "DOS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "DOSBox"
+        ],
+        "extensions": [
+            ".conf",
+            ".exe",
+            ".bat"
+        ],
+        "notes": "Requires game data files and configuration. Use .conf files to launch games."
+    },
+    "PICO-8": {
+        "romfolder": "PICO-8",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Fake08"
+        ],
+        "extensions": [
+            ".p8",
+            ".p8.png"
+        ],
+        "notes": "Requires PICO-8 games."
+    },
+    "ResidualVM": {
+        "romfolder": "RESIDUALVM",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "ResidualVM"
+        ],
+        "extensions": [
+            "Various"
+        ],
+        "notes": "Supports 3D adventure games like Grim Fandango. Place game data in separate folders."
+    },
+    "TI-99/4A": {
+        "romfolder": "TI99",
+        "bios": [
+            "ti-994a.rom"
+        ],
+        "emulators": [
+            "RetroArch (lr-ti99)"
+        ],
+        "extensions": [
+            ".ctg",
+            ".bin",
+            ".zip"
+        ]
+    },
+    "Sharp X68000": {
+        "romfolder": "X68000",
+        "bios": [
+            "cgrom.dat",
+            "iplrom.dat"
+        ],
+        "emulators": [
+            "PX68k"
+        ],
+        "extensions": [
+            ".dim",
+            ".xdf",
+            ".hdm",
+            ".cmd",
+            ".m3u",
+            ".zip"
+        ]
+    },
+    "Commodore PET": {
+        "romfolder": "PET",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Vice"
+        ],
+        "extensions": [
+            ".prg",
+            ".d64",
+            ".tap"
+        ]
+    },
+    "Commodore Plus/4": {
+        "romfolder": "PLUS4",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Yape"
+        ],
+        "extensions": [
+            ".tap",
+            ".prg",
+            ".d64",
+            ".p00",
+            ".t64"
+        ]
+    },
+    "SuperGrafx": {
+        "romfolder": "SGFX",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "PCE"
+        ],
+        "extensions": [
+            ".sgx",
+            ".zip"
+        ]
+    },
+    "ZX81": {
+        "romfolder": "ZX81",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "EightyOne"
+        ],
+        "extensions": [
+            ".p",
+            ".81",
+            ".o",
+            ".tzx",
+            ".zip"
+        ]
+    },
+    "Ports": {
+        "romfolder": "PORTS",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Various"
+        ],
+        "extensions": [
+            "Various"
+        ],
+        "notes": "Includes games like Doom, Quake, and other ported games. Requires game data files."
+    },
+    "Amstrad GX4000": {
+        "romfolder": "GX4000",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Caprice32"
+        ],
+        "extensions": [
+            ".cpr"
+        ]
+    },
+    "Astrocade": {
+        "romfolder": "ASTROCADE",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME"
+        ],
+        "extensions": [
+            ".bin",
+            ".zip"
+        ]
+    },
+    "Channel F": {
+        "romfolder": "CHANNELF",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "FreeChaF"
+        ],
+        "extensions": [
+            ".bin",
+            ".chf"
+        ]
+    },
+    "CreatiVision": {
+        "romfolder": "CREATIVISION",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME"
+        ],
+        "extensions": [
+            ".rom",
+            ".bin"
+        ]
+    },
+    "Elektronika BK": {
+        "romfolder": "BK",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME"
+        ],
+        "extensions": [
+            ".bin",
+            ".zip"
+        ]
+    },
+    "Fairchild Channel F": {
+        "romfolder": "CHANNELF",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME"
+        ],
+        "extensions": [
+            ".bin",
+            ".chf"
+        ]
+    },
+    "Hartung Game Master": {
+        "romfolder": "GMASTER",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "GameMaster"
+        ],
+        "extensions": [
+            ".gam",
+            ".bin"
+        ]
+    },
+    "Interton VC 4000": {
+        "romfolder": "VC4000",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "MAME"
+        ],
+        "extensions": [
+            ".bin",
+            ".rom"
+        ]
+    },
+    "PC-FX": {
+        "romfolder": "PCFX",
+        "bios": [
+            "pcfx.rom"
+        ],
+        "emulators": [
+            "Mednafen PC-FX"
+        ],
+        "extensions": [
+            ".cue",
+            ".ccd",
+            ".img",
+            ".iso",
+            ".bin",
+            ".chd"
+        ]
+    },
+    "Palm OS": {
+        "romfolder": "PALMOS",
+        "bios": [
+            "Palm OS ROMs"
+        ],
+        "emulators": [
+            "Mu"
+        ],
+        "extensions": [
+            ".prc",
+            ".pdb"
+        ]
+    },
+    "Supervision": {
+        "romfolder": "SUPERVISION",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Potator"
+        ],
+        "extensions": [
+            ".sv"
+        ]
+    },
+    "Thomson MO/TO": {
+        "romfolder": "THOMSON",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "DCMO5",
+            "DCMO6"
+        ],
+        "extensions": [
+            ".k7",
+            ".fd",
+            ".qd"
+        ]
+    },
+    "Uzebox": {
+        "romfolder": "UZEM",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Uzem"
+        ],
+        "extensions": [
+            ".uze"
+        ]
+    },
+    "Videopac+/Odyssey2": {
+        "romfolder": "VIDEOPAC",
+        "bios": [
+            "o2rom.bin"
+        ],
+        "emulators": [
+            "O2EM"
+        ],
+        "extensions": [
+            ".bin",
+            ".col",
+            ".rom"
+        ]
+    },
+    "Watara Supervision": {
+        "romfolder": "SUPERVISION",
+        "bios": [
+            "None"
+        ],
+        "emulators": [
+            "Potator"
+        ],
+        "extensions": [
+            ".sv"
+        ]
+    },
+    "X1": {
+        "romfolder": "X1",
+        "bios": [
+            "x1turbo.rom",
+            "x1turbok.rom"
+        ],
+        "emulators": [
+            "Xmillennium"
+        ],
+        "extensions": [
+            ".d88",
+            ".t88",
+            ".cmd",
+            ".m3u",
+            ".zip"
+        ]
+    },
+    "X68000": {
+        "romfolder": "X68000",
+        "bios": [
+            "cgrom.dat",
+            "iplrom.dat"
+        ],
+        "emulators": [
+            "PX68k"
+        ],
+        "extensions": [
+            ".dim",
+            ".xdf",
+            ".hdm",
+            ".cmd",
+            ".m3u",
+            ".zip"
+        ]
+    }
+}

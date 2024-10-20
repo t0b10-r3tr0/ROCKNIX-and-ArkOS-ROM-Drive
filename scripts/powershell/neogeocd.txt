@@ -1,0 +1,185 @@
+2020 Super Baseball (Wld).chd
+3 Count Bout (Wld).chd
+ADK World (Japan).chd
+Aero Fighters 2 (Wld).chd
+Aero Fighters 3 (Wld).chd
+Aggressors of Dark Kombat (Wld).chd
+Alpha Mission II (Wld).chd
+Art of Fighting (Wld).chd
+Art of Fighting 2 (Wld).chd
+Art of Fighting 3 - The Path of the Warrior (Wld) - [CDZ patched].ccd
+Art of Fighting 3 - The Path of the Warrior (Wld) - [CDZ patched].chd
+Art of Fighting 3 - The Path of the Warrior (Wld) - [CDZ patched].cue
+Art of Fighting 3 - The Path of the Warrior (Wld) - [CDZ patched].img
+Art of Fighting 3 - The Path of the Warrior (Wld) - [CDZ patched].sub
+Bang Bang Busters (Wld).chd
+Baseball Stars 2 (Wld).chd
+Baseball Stars Professional (Wld).chd
+Blue's Journey (World).chd
+Breakers (World).chd
+Burning Fight (Wld).chd
+Bust-A-Move (Wld).chd
+chdman.exe
+Crossed Swords (World).chd
+Crossed Swords II (World).chd
+CUE-GDI-ISO to CHD.bat
+Cyber-Lip (Wld).chd
+Double Dragon (Wld) - [19950424].ccd
+Double Dragon (Wld) - [19950424].chd
+Double Dragon (Wld) - [19950424].cue
+Double Dragon (Wld) - [19950424].img
+Double Dragon (Wld) - [19950424].sub
+Fatal Fury - The Battle of Fury (Wld).chd
+Fatal Fury 2 (Wld).chd
+Fatal Fury 3 - Road to the Final Victory (Wld).chd
+Fatal Fury Special (Wld).chd
+Football Frenzy (Wld).chd
+Galaxy Fight - Universal Warriors (Wld).chd
+gamelist.backup.xml
+gamelist.copy.xml
+gamelist.xml
+Ghost Pilots (Wld).chd
+Ironclad (World).chd
+Kabuki Klash (World).chd
+Karnov's Revenge (Wld).chd
+King of Fighters '94, The (Wld) - [19941006].ccd
+King of Fighters '94, The (Wld) - [19941006].chd
+King of Fighters '94, The (Wld) - [19941006].cue
+King of Fighters '94, The (Wld) - [19941006].img
+King of Fighters '94, The (Wld) - [19941006].sub
+King of Fighters '94, The (Wld) - [19941121].ccd
+King of Fighters '94, The (Wld) - [19941121].chd
+King of Fighters '94, The (Wld) - [19941121].cue
+King of Fighters '94, The (Wld) - [19941121].img
+King of Fighters '94, The (Wld) - [19941121].sub
+King of Fighters '94, The (Wld) - [19941226].ccd
+King of Fighters '94, The (Wld) - [19941226].chd
+King of Fighters '94, The (Wld) - [19941226].cue
+King of Fighters '94, The (Wld) - [19941226].img
+King of Fighters '94, The (Wld) - [19941226].sub
+King of Fighters '95, The (Wld) - [19950911].ccd
+King of Fighters '95, The (Wld) - [19950911].chd
+King of Fighters '95, The (Wld) - [19950911].cue
+King of Fighters '95, The (Wld) - [19950911].img
+King of Fighters '95, The (Wld) - [19950911].sub
+King of Fighters '95, The (Wld) - [19951005].ccd
+King of Fighters '95, The (Wld) - [19951005].chd
+King of Fighters '95, The (Wld) - [19951005].cue
+King of Fighters '95, The (Wld) - [19951005].img
+King of Fighters '95, The (Wld) - [19951005].sub
+King of Fighters '96, The (Wld) - [CDZ patched].ccd
+King of Fighters '96, The (Wld) - [CDZ patched].chd
+King of Fighters '96, The (Wld) - [CDZ patched].cue
+King of Fighters '96, The (Wld) - [CDZ patched].img
+King of Fighters '96, The (Wld) - [CDZ patched].sub
+King of Fighters '97, The (Wld) - [CDZ patched].ccd
+King of Fighters '97, The (Wld) - [CDZ patched].chd
+King of Fighters '97, The (Wld) - [CDZ patched].cue
+King of Fighters '97, The (Wld) - [CDZ patched].img
+King of Fighters '97, The (Wld) - [CDZ patched].sub
+King of Fighters '98, The - The Slugfest (Wld) - [CDZ patched].ccd
+King of Fighters '98, The - The Slugfest (Wld) - [CDZ patched].chd
+King of Fighters '98, The - The Slugfest (Wld) - [CDZ patched].cue
+King of Fighters '98, The - The Slugfest (Wld) - [CDZ patched].img
+King of Fighters '98, The - The Slugfest (Wld) - [CDZ patched].sub
+King of Fighters '99, The - Millennium Battle (Wld) - [CDZ patched].ccd
+King of Fighters '99, The - Millennium Battle (Wld) - [CDZ patched].chd
+King of Fighters '99, The - Millennium Battle (Wld) - [CDZ patched].cue
+King of Fighters '99, The - Millennium Battle (Wld) - [CDZ patched].img
+King of Fighters '99, The - Millennium Battle (Wld) - [CDZ patched].sub
+King of the Monsters 2 - The Next Thing (Wld).chd
+Last Blade 2, The (Wld) - [CDZ patched].ccd
+Last Blade 2, The (Wld) - [CDZ patched].chd
+Last Blade 2, The (Wld) - [CDZ patched].cue
+Last Blade 2, The (Wld) - [CDZ patched].img
+Last Blade 2, The (Wld) - [CDZ patched].sub
+Last Blade, The (Wld) - [CDZ patched].ccd
+Last Blade, The (Wld) - [CDZ patched].chd
+Last Blade, The (Wld) - [CDZ patched].cue
+Last Blade, The (Wld) - [CDZ patched].img
+Last Blade, The (Wld) - [CDZ patched].sub
+Last Hope (World).chd
+Last Resort (Wld).chd
+League Bowling (Wld).chd
+Magical Drop 2 (World).chd
+Magician Lord (World).chd
+Metal Slug (Wld) - [CDZ patched].ccd
+Metal Slug (Wld) - [CDZ patched].chd
+Metal Slug (Wld) - [CDZ patched].cue
+Metal Slug (Wld) - [CDZ patched].img
+Metal Slug (Wld) - [CDZ patched].sub
+Metal Slug 2 (Wld) - [CDZ patched].ccd
+Metal Slug 2 (Wld) - [CDZ patched].chd
+Metal Slug 2 (Wld) - [CDZ patched].cue
+Metal Slug 2 (Wld) - [CDZ patched].img
+Metal Slug 2 (Wld) - [CDZ patched].sub
+Mutation Nation (Wld).chd
+NAM-1975 (Wld).chd
+Neo DriftOut (World).chd
+Neo Turf Masters (Wld) - [CDZ patched].ccd
+Neo Turf Masters (Wld) - [CDZ patched].chd
+Neo Turf Masters (Wld) - [CDZ patched].cue
+Neo Turf Masters (Wld) - [CDZ patched].img
+Neo Turf Masters (Wld) - [CDZ patched].sub
+Ninja Combat (World).chd
+Ninja Commando (World).chd
+Ninja Master's - Haou Ninpou-Chou (World).chd
+OverTop (World).chd
+Pleasuregoal - 5 on 5 Mini Soccer (World).chd
+Power Spikes II (World).chd
+Pulstar (Wld).chd
+Puzzled (Wld).chd
+Ragnagard (World).chd
+Rally Chase (Wld).chd
+Real Bout Fatal Fury (Wld) - [CDZ patched].ccd
+Real Bout Fatal Fury (Wld) - [CDZ patched].chd
+Real Bout Fatal Fury (Wld) - [CDZ patched].cue
+Real Bout Fatal Fury (Wld) - [CDZ patched].img
+Real Bout Fatal Fury (Wld) - [CDZ patched].sub
+Real Bout Fatal Fury 2 - The Newcomers (Wld) - [CDZ patched].ccd
+Real Bout Fatal Fury 2 - The Newcomers (Wld) - [CDZ patched].chd
+Real Bout Fatal Fury 2 - The Newcomers (Wld) - [CDZ patched].cue
+Real Bout Fatal Fury 2 - The Newcomers (Wld) - [CDZ patched].img
+Real Bout Fatal Fury 2 - The Newcomers (Wld) - [CDZ patched].sub
+Real Bout Fatal Fury 2 - The Newcomers (Wld).chd
+Real Bout Fatal Fury Special (Wld) - [CDZ patched].ccd
+Real Bout Fatal Fury Special (Wld) - [CDZ patched].chd
+Real Bout Fatal Fury Special (Wld) - [CDZ patched].cue
+Real Bout Fatal Fury Special (Wld) - [CDZ patched].img
+Real Bout Fatal Fury Special (Wld) - [CDZ patched].sub
+Riding Hero (Wld).chd
+Robo Army (Wld).chd
+Samurai Shodown (Wld).chd
+Samurai Shodown II (Wld).chd
+Samurai Shodown III - Blades of Blood (Wld) - [CDZ patched].ccd
+Samurai Shodown III - Blades of Blood (Wld) - [CDZ patched].chd
+Samurai Shodown III - Blades of Blood (Wld) - [CDZ patched].cue
+Samurai Shodown III - Blades of Blood (Wld) - [CDZ patched].img
+Samurai Shodown III - Blades of Blood (Wld) - [CDZ patched].sub
+Samurai Shodown IV - Amakusa's Revenge (Wld) - [CDZ patched].ccd
+Samurai Shodown IV - Amakusa's Revenge (Wld) - [CDZ patched].chd
+Samurai Shodown IV - Amakusa's Revenge (Wld) - [CDZ patched].cue
+Samurai Shodown IV - Amakusa's Revenge (Wld) - [CDZ patched].img
+Samurai Shodown IV - Amakusa's Revenge (Wld) - [CDZ patched].sub
+Samurai Shodown IV - Amakusa's Revenge (Wld).chd
+Savage Reign (Wld).chd
+Sengoku (Wld).chd
+Sengoku 2 (Wld).chd
+Soccer Brawl (Wld).chd
+Stakes Winner - GI Kanzen Seiha Heno Machi (Japan).chd
+Street Hoop (Wld).chd
+Super Sidekicks (Wld).chd
+Super Sidekicks 2 - The World Championship (Wld).chd
+Super Sidekicks 3 - The Next Glory (Wld).chd
+Super Spy, The (Wld).chd
+Top Hunter - Roddy & Cathy (Wld).chd
+Top Player's Golf (Wld).chd
+Treasure of The Caribbean (Wld).chd
+Twinkle Star Sprites (World).chd
+Viewpoint (Wld).chd
+Voltage Fighter Gowcaizer (Wld).chd
+Wind Jammers (Wld).chd
+World Heroes (Wld).chd
+World Heroes 2 (Wld).chd
+World Heroes Perfect (Wld).chd
+Zintrick (World).chd

@@ -1,0 +1,473 @@
+bios
+cheats
+decorations
+extractions
+kodi
+library
+music
+roms
+saves
+screenshots
+splash
+system
+themes
+system\.cache
+system\.config
+system\.kodi
+system\.sdl2
+system\.ssh
+system\bluetooth
+system\configs
+system\logs
+system\pacman
+system\ssh
+system\udev
+system\.config\lirc
+system\.config\pulse
+system\configs\amiberry
+system\configs\cannonball
+system\configs\dosbox
+system\configs\emulationstation
+system\configs\mupen64
+system\configs\xarcade2jstick
+system\configs\emulationstation\collections
+system\configs\amiberry\whdboot
+system\configs\amiberry\whdboot\game-data
+system\configs\amiberry\whdboot\save-data
+system\configs\amiberry\whdboot\save-data\Autoboots
+system\configs\amiberry\whdboot\save-data\Debugs
+system\configs\amiberry\whdboot\save-data\Kickstarts
+system\configs\amiberry\whdboot\save-data\Savegames
+system\configs\cannonball\res
+system\pacman\db
+system\pacman\hooks
+system\pacman\pkg
+system\.kodi\userdata
+system\.kodi\userdata\keymaps
+system\udev\rules.d
+roms\abuse
+roms\adam
+roms\advision
+roms\amiga1200
+roms\amiga500
+roms\amigacd32
+roms\amigacdtv
+roms\amstradcpc
+roms\apfm1000
+roms\apple2
+roms\apple2gs
+roms\arcadia
+roms\archimedes
+roms\arduboy
+roms\astrocde
+roms\atari2600
+roms\atari5200
+roms\atari7800
+roms\atari800
+roms\atarist
+roms\atom
+roms\atomiswave
+roms\bbc
+roms\c128
+roms\c20
+roms\c64
+roms\camplynx
+roms\cannonball
+roms\cavestory
+roms\cdogs
+roms\cgenius
+roms\channelf
+roms\coco
+roms\colecovision
+roms\corsixth
+roms\cplus4
+roms\crvision
+roms\daphne
+roms\devilutionx
+roms\dos
+roms\dreamcast
+roms\easyrpg
+roms\ecwolf
+roms\eduke32
+roms\electron
+roms\fallout1-ce
+roms\fallout2-ce
+roms\fbneo
+roms\fds
+roms\flash
+roms\fm7
+roms\fmtowns
+roms\fury
+roms\gamate
+roms\gameandwatch
+roms\gamecom
+roms\gamegear
+roms\gamepock
+roms\gb
+roms\gb2players
+roms\gba
+roms\gbc
+roms\gbc2players
+roms\gmaster
+roms\gp32
+roms\gx4000
+roms\gzdoom
+roms\hcl
+roms\hurrican
+roms\intellivision
+roms\iortcw
+roms\jaguar
+roms\laser310
+roms\lcdgames
+roms\lowresnx
+roms\lutro
+roms\lynx
+roms\macintosh
+roms\mame
+roms\mastersystem
+roms\megadrive
+roms\megaduck
+roms\moonlight
+roms\mrboom
+roms\msu-md
+roms\msx1
+roms\msx2
+roms\msx2+
+roms\msxturbor
+roms\multivision
+roms\n64
+roms\n64dd
+roms\naomi
+roms\naomi2
+roms\nds
+roms\neogeo
+roms\neogeocd
+roms\nes
+roms\ngp
+roms\ngpc
+roms\o2em
+roms\odcommander
+roms\openbor
+roms\openlara
+roms\pc88
+roms\pc98
+roms\pcengine
+roms\pcenginecd
+roms\pdp1
+roms\pet
+roms\pico
+roms\pico8
+roms\plugnplay
+roms\pokemini
+roms\ports
+roms\prboom
+roms\psp
+roms\psx
+roms\pv1000
+roms\pygame
+roms\quake3
+roms\raze
+roms\reminiscence
+roms\samcoupe
+roms\satellaview
+roms\saturn
+roms\scummvm
+roms\scv
+roms\sdlpop
+roms\sega32x
+roms\segacd
+roms\sg1000
+roms\sgb
+roms\snes
+roms\snes-msu1
+roms\socrates
+roms\solarus
+roms\sonicretro
+roms\sufami
+roms\superbroswar
+roms\supergrafx
+roms\supervision
+roms\supracan
+roms\systemsp
+roms\thextech
+roms\thomson
+roms\ti99
+roms\tic80
+roms\tutor
+roms\tyrian
+roms\tyrquake
+roms\uzebox
+roms\vc4000
+roms\vectrex
+roms\vgmplay
+roms\videopacplus
+roms\virtualboy
+roms\vis
+roms\vitaquake2
+roms\vsmile
+roms\wswan
+roms\wswanc
+roms\x1
+roms\x68000
+roms\xash3d_fwgs
+roms\xegs
+roms\xrick
+roms\zc210
+roms\zx81
+roms\zxspectrum
+roms\c64\images
+roms\c64\videos
+roms\cannonball\images
+roms\cannonball\videos
+roms\devilutionx\images
+roms\gba\images
+roms\gba\videos
+roms\iortcw\main
+roms\mame\mame2003
+roms\mame\mame2003\cfg
+roms\mame\mame2003\diff
+roms\mame\mame2003\hi
+roms\mame\mame2003\inp
+roms\mame\mame2003\memcard
+roms\mame\mame2003\nvram
+roms\mame\mame2003\snap
+roms\megadrive\images
+roms\megadrive\videos
+roms\mrboom\images
+roms\nes\images
+roms\nes\videos
+roms\odcommander\images
+roms\pcengine\images
+roms\pcengine\videos
+roms\prboom\game-musics
+roms\prboom\images
+roms\prboom\videos
+roms\pygame\images
+roms\pygame\manuals
+roms\pygame\pygun
+roms\pygame\retrotrivia
+roms\pygame\pygun\audio
+roms\pygame\pygun\images
+roms\pygame\retrotrivia\assets
+roms\sdlpop\images
+roms\snes\images
+roms\snes\orange
+roms\snes\plum
+roms\snes\videos
+roms\xash3d_fwgs\images
+bios\bluemsx
+bios\Databases
+bios\fbneo
+bios\keropi
+bios\Machines
+bios\mame2003-plus
+bios\mame2010
+bios\np2kai
+bios\quasi88
+bios\Machines\COL - Bit Corporation Dina
+bios\Machines\COL - ColecoVision
+bios\Machines\COL - ColecoVision with Opcode Memory Extension
+bios\Machines\COL - Spectravideo SVI-603 Coleco
+bios\Machines\Forte II Games - Pesadelo
+bios\Machines\MSX
+bios\Machines\MSX - Al Alamiah AX-170
+bios\Machines\MSX - Arabic
+bios\Machines\MSX - Brazilian
+bios\Machines\MSX - C-BIOS
+bios\Machines\MSX - Canon V-10
+bios\Machines\MSX - Canon V-20
+bios\Machines\MSX - Daewoo DPC-100
+bios\Machines\MSX - Daewoo DPC-180
+bios\Machines\MSX - Daewoo DPC-200
+bios\Machines\MSX - Daewoo DPC-200E
+bios\Machines\MSX - Estonian
+bios\Machines\MSX - Frael Bruc 100-1
+bios\Machines\MSX - French
+bios\Machines\MSX - German
+bios\Machines\MSX - Goldstar FC-200
+bios\Machines\MSX - Gradiente Expert 1.0
+bios\Machines\MSX - Gradiente Expert 1.1
+bios\Machines\MSX - Gradiente Expert 1.3
+bios\Machines\MSX - Gradiente Expert DDPlus
+bios\Machines\MSX - Gradiente Expert Plus
+bios\Machines\MSX - Japanese
+bios\Machines\MSX - JVC HC-7GB
+bios\Machines\MSX - Korean
+bios\Machines\MSX - Mitsubishi ML-F80
+bios\Machines\MSX - Mitsubishi ML-FX1
+bios\Machines\MSX - National CF-1200
+bios\Machines\MSX - National CF-2000
+bios\Machines\MSX - National CF-2700
+bios\Machines\MSX - National CF-3000
+bios\Machines\MSX - National CF-3300
+bios\Machines\MSX - National FS-1300
+bios\Machines\MSX - National FS-4000
+bios\Machines\MSX - Olympia PHC-2
+bios\Machines\MSX - Olympia PHC-28
+bios\Machines\MSX - Panasonic CF-2700G
+bios\Machines\MSX - Philips NMS-801
+bios\Machines\MSX - Philips VG-8000
+bios\Machines\MSX - Philips VG-8010
+bios\Machines\MSX - Philips VG-8010F
+bios\Machines\MSX - Philips VG-8020-00
+bios\Machines\MSX - Philips VG-8020-20
+bios\Machines\MSX - Philips VG-8020F
+bios\Machines\MSX - Pioneer PX-7
+bios\Machines\MSX - Pioneer PX-V60
+bios\Machines\MSX - Russian
+bios\Machines\MSX - Sanyo MPC-100
+bios\Machines\MSX - Sanyo MPC-64
+bios\Machines\MSX - Sanyo PHC-28L
+bios\Machines\MSX - Sanyo PHC-28S
+bios\Machines\MSX - Sanyo Wavy MPC-10
+bios\Machines\MSX - Sharp Epcom HotBit 1.1
+bios\Machines\MSX - Sharp Epcom HotBit 1.2
+bios\Machines\MSX - Sharp Epcom HotBit 1.3b
+bios\Machines\MSX - Sharp Epcom HotBit 1.3p
+bios\Machines\MSX - Sony HB-10P
+bios\Machines\MSX - Sony HB-201
+bios\Machines\MSX - Sony HB-201P
+bios\Machines\MSX - Sony HB-20P
+bios\Machines\MSX - Sony HB-501P
+bios\Machines\MSX - Sony HB-55D
+bios\Machines\MSX - Sony HB-55P
+bios\Machines\MSX - Sony HB-75D
+bios\Machines\MSX - Sony HB-75P
+bios\Machines\MSX - Spanish
+bios\Machines\MSX - Spectravideo SVI-728
+bios\Machines\MSX - Spectravideo SVI-738
+bios\Machines\MSX - Spectravideo SVI-738 Henrik Gilvad
+bios\Machines\MSX - Spectravideo SVI-738 Swedish
+bios\Machines\MSX - Swedish
+bios\Machines\MSX - Talent DPC-200
+bios\Machines\MSX - Talent DPC-200A
+bios\Machines\MSX - Toshiba HX-10
+bios\Machines\MSX - Toshiba HX-10S
+bios\Machines\MSX - Toshiba HX-20
+bios\Machines\MSX - Yamaha CX5M-1
+bios\Machines\MSX - Yamaha CX5M-128
+bios\Machines\MSX - Yamaha CX5M-2
+bios\Machines\MSX - Yamaha CX5MII
+bios\Machines\MSX - Yamaha YIS303
+bios\Machines\MSX - Yamaha YIS503
+bios\Machines\MSX - Yamaha YIS503F
+bios\Machines\MSX - Yamaha YIS503II
+bios\Machines\MSX - Yamaha YIS503IIR
+bios\Machines\MSX - Yamaha YIS503IIR Estonian
+bios\Machines\MSX - Yamaha YIS503M
+bios\Machines\MSX - Yashica YC-64
+bios\Machines\MSX - Yeno DPC-64
+bios\Machines\MSX - Yeno MX64
+bios\Machines\MSX2
+bios\Machines\MSX2 - Al Alamiah AX-350
+bios\Machines\MSX2 - Al Alamiah AX-370
+bios\Machines\MSX2 - Arabic
+bios\Machines\MSX2 - Brazilian
+bios\Machines\MSX2 - C-BIOS
+bios\Machines\MSX2 - Daewoo CPC-300
+bios\Machines\MSX2 - Daewoo CPC-300E
+bios\Machines\MSX2 - Daewoo CPC-400
+bios\Machines\MSX2 - Daewoo CPC-400S
+bios\Machines\MSX2 - Estonian
+bios\Machines\MSX2 - French
+bios\Machines\MSX2 - German
+bios\Machines\MSX2 - Gradiente Expert 2.0
+bios\Machines\MSX2 - Japanese
+bios\Machines\MSX2 - Korean
+bios\Machines\MSX2 - National FS-4500
+bios\Machines\MSX2 - National FS-4600
+bios\Machines\MSX2 - National FS-4700
+bios\Machines\MSX2 - National FS-5000
+bios\Machines\MSX2 - National FS-5500F1
+bios\Machines\MSX2 - National FS-5500F2
+bios\Machines\MSX2 - Only PSG
+bios\Machines\MSX2 - Panasonic FS-A1
+bios\Machines\MSX2 - Panasonic FS-A1 (a)
+bios\Machines\MSX2 - Panasonic FS-A1F
+bios\Machines\MSX2 - Panasonic FS-A1FM
+bios\Machines\MSX2 - Panasonic FS-A1MK2
+bios\Machines\MSX2 - Philips NMS-8220
+bios\Machines\MSX2 - Philips NMS-8220 (a)
+bios\Machines\MSX2 - Philips NMS-8245
+bios\Machines\MSX2 - Philips NMS-8245F
+bios\Machines\MSX2 - Philips NMS-8250
+bios\Machines\MSX2 - Philips NMS-8255
+bios\Machines\MSX2 - Philips NMS-8280
+bios\Machines\MSX2 - Philips NMS-8280G
+bios\Machines\MSX2 - Philips VG-8230
+bios\Machines\MSX2 - Philips VG-8235
+bios\Machines\MSX2 - Philips VG-8235F
+bios\Machines\MSX2 - Philips VG-8240
+bios\Machines\MSX2 - Russian
+bios\Machines\MSX2 - Sanyo Wavy MPC-25FD
+bios\Machines\MSX2 - Sanyo Wavy PHC-23
+bios\Machines\MSX2 - Sharp Epcom HotBit 2.0
+bios\Machines\MSX2 - Sony HB-F1
+bios\Machines\MSX2 - Sony HB-F1II
+bios\Machines\MSX2 - Sony HB-F1XD
+bios\Machines\MSX2 - Sony HB-F1XDMK2
+bios\Machines\MSX2 - Sony HB-F500
+bios\Machines\MSX2 - Sony HB-F500P
+bios\Machines\MSX2 - Sony HB-F700D
+bios\Machines\MSX2 - Sony HB-F700F
+bios\Machines\MSX2 - Sony HB-F700P
+bios\Machines\MSX2 - Sony HB-F700S
+bios\Machines\MSX2 - Sony HB-F900
+bios\Machines\MSX2 - Sony HB-F900 (a)
+bios\Machines\MSX2 - Sony HB-F9P
+bios\Machines\MSX2 - Sony HB-F9P Russian
+bios\Machines\MSX2 - Sony HB-F9S
+bios\Machines\MSX2 - Sony HB-G900AP
+bios\Machines\MSX2 - Sony HB-G900P
+bios\Machines\MSX2 - Spanish
+bios\Machines\MSX2 - Spectravideo SVI-738-2 CUC
+bios\Machines\MSX2 - Spectravideo SVI-738-2 JP Grobler
+bios\Machines\MSX2 - Spectravideo SVI-738-2 LC Grosso
+bios\Machines\MSX2 - Swedish
+bios\Machines\MSX2 - Talent TPC-310
+bios\Machines\MSX2 - Toshiba HX-23
+bios\Machines\MSX2 - Toshiba HX-23F
+bios\Machines\MSX2 - Virtual Haesung Console
+bios\Machines\MSX2 - Yamaha CX7M
+bios\Machines\MSX2 - Yamaha CX7M-128
+bios\Machines\MSX2+
+bios\Machines\MSX2+ - Brazilian
+bios\Machines\MSX2+ - C-BIOS
+bios\Machines\MSX2+ - Ciel Expert 3 IDE
+bios\Machines\MSX2+ - Ciel Expert 3 Turbo
+bios\Machines\MSX2+ - European
+bios\Machines\MSX2+ - Gradiente Expert AC88+
+bios\Machines\MSX2+ - Gradiente Expert DDX+
+bios\Machines\MSX2+ - MSXPLAYer 2003
+bios\Machines\MSX2+ - Panasonic FS-A1FX
+bios\Machines\MSX2+ - Panasonic FS-A1WSX
+bios\Machines\MSX2+ - Panasonic FS-A1WX
+bios\Machines\MSX2+ - Panasonic FS-A1WX (a)
+bios\Machines\MSX2+ - Sanyo Wavy PHC-35J
+bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD1
+bios\Machines\MSX2+ - Sanyo Wavy PHC-70FD2
+bios\Machines\MSX2+ - Sony HB-F1XDJ
+bios\Machines\MSX2+ - Sony HB-F1XV
+bios\Machines\MSX2+ - Sony HB-F9S+
+bios\Machines\MSXturboR
+bios\Machines\MSXturboR - European
+bios\Machines\MSXturboR - Panasonic FS-A1GT
+bios\Machines\MSXturboR - Panasonic FS-A1ST
+bios\Machines\MSXturboR - Panasonic FS-A1ST (a)
+bios\Machines\MSXturboR - Panasonic FS-A1ST (b)
+bios\Machines\SEGA - SC-3000
+bios\Machines\SEGA - SF-7000
+bios\Machines\SEGA - SG-1000
+bios\Machines\Shared Roms
+bios\Machines\SVI - Spectravideo SVI-318
+bios\Machines\SVI - Spectravideo SVI-328
+bios\Machines\SVI - Spectravideo SVI-328 80 Column
+bios\Machines\SVI - Spectravideo SVI-328 80 Swedish
+bios\Machines\SVI - Spectravideo SVI-328 MK2
+bios\fbneo\samples
+bios\mame2003-plus\artwork
+bios\mame2003-plus\samples
+bios\mame2010\samples
+kodi\movies
+kodi\music
+kodi\pictures

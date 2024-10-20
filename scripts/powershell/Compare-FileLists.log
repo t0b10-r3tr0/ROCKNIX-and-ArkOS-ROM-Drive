@@ -1,0 +1,18 @@
+Compare-FileLists Script Execution Log
+2024-10-19 19:23:57 - Script started.
+2024-10-19 19:23:57 - Reading file: ..\..\directory-contents\arkos-romsdir.txt
+2024-10-19 19:23:57 - Reading file: ..\..\directory-contents\rocknix-romsdir.txt
+2024-10-19 19:23:57 - Reading file: ..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:23:57 - Reading file: ..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:23:57 - Aggregating all unique lines across all files.
+2024-10-19 19:23:57 - Determining lines common to all files.
+2024-10-19 19:23:57 - Common lines across all files written to: .\Common_Lines_All_Files.txt
+2024-10-19 19:23:57 - Determining lines unique to file: ..\..\directory-contents\arkos-romsdir.txt
+2024-10-19 19:23:57 - Unique lines for '..\..\directory-contents\arkos-romsdir.txt' written to: .\arkos-romsdir_Unique_Lines.txt
+2024-10-19 19:23:57 - Determining lines unique to file: ..\..\directory-contents\rocknix-romsdir.txt
+2024-10-19 19:23:57 - Unique lines for '..\..\directory-contents\rocknix-romsdir.txt' written to: .\rocknix-romsdir_Unique_Lines.txt
+2024-10-19 19:23:57 - Determining lines unique to file: ..\..\directory-contents\knulli-romsdir.txt
+2024-10-19 19:23:57 - Unique lines for '..\..\directory-contents\knulli-romsdir.txt' written to: .\knulli-romsdir_Unique_Lines.txt
+2024-10-19 19:23:57 - Determining lines unique to file: ..\..\directory-contents\anberelec-romsdir.txt
+2024-10-19 19:23:57 - Unique lines for '..\..\directory-contents\anberelec-romsdir.txt' written to: .\anberelec-romsdir_Unique_Lines.txt
+2024-10-19 19:23:57 - Comparison completed successfully.

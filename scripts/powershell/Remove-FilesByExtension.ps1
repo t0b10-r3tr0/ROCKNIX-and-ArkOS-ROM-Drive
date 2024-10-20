@@ -20,8 +20,8 @@ function Show-Usage {
     Write-Host "Example: .\DeleteFilesByExtension.ps1 C:\MyFolder .txt .log /r /e"
     Write-Host "`tTargetDir: The directory to target for file deletion"
     Write-Host "`tExtensions: One or more file extensions to delete (e.g., .txt .log)"
-    Write-Host "`t/r: (Optional) Recurse into subdirectories"
-    Write-Host "`t/e: (Optional) Remove empty directories after file deletion"
+    Write-Host "`t-r: (Optional) Recurse into subdirectories"
+    Write-Host "`t-e: (Optional) Remove empty directories after file deletion"
     exit
 }
 
